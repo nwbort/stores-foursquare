@@ -1,0 +1,74 @@
+{
+  "title": "Four Square W\u0101naka",
+  "url": "/south-island/otago/wanaka",
+  "storeId": "{D69AFC1B-F64D-420F-97D2-FBFE3B0A4171}",
+  "sitecoreId": 1661,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "70 Ardmore Street, W\u0101naka, 9305",
+    "latitude": -44.69371,
+    "longitude": 169.137308,
+    "island": "south",
+    "region": "South Island",
+    "email": "wanaka@foursquare-si.co.nz",
+    "phone": "03 443 7173"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Lotto",
+    "Produce",
+    "Takeaway coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt26b141f4cf0a2da4/68bf5f8bd1f0fa6d660f3ba2/untitled-1_0003_wanaka.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square W\u0101naka! Locally owned and operated by Sophie and James Brears with over 20 years experience in the grocery industry, we're proud to be part of the W\u0101naka community.\u00a0We support our local schools and community groups like Wanaka Golf Club, Upper Clutha Junior Hockey Club, Upper Clutha Netball Club, Upper Clutha Junior Rugby Club and the Wanaka Bowls Club. Come say hi in store, where you\u2019ll find not only great quality meat and produce and all the basics you\u2019ll need, but friendly faces to help you out too.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/profile.php?id=61550014380425",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Cloverlea",
+  "url": "/lower-north-island/manawatu-whanganui/cloverlea",
+  "storeId": "{50769F92-ACBF-46B3-AC24-4F87568ECA54}",
+  "sitecoreId": 1306,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "7 Botanical Road, Takaro, Palmerston North 4412",
+    "latitude": -40.351038,
+    "longitude": 175.585203,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "manoj.ranchhod@4sq.co.nz",
+    "phone": "06 354 3589"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We're happy to have been serving this corner of Palmy for 35 years.",
+    "socialLinks": []
+  }
+}

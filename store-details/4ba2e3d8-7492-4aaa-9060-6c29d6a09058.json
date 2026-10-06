@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Maraenui",
+  "url": "/lower-north-island/hawkes-bay/maraenui",
+  "storeId": "{4BA2E3D8-7492-4AAA-9060-6C29D6A09058}",
+  "sitecoreId": 1294,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Bledisloe Road, Maraenui, Napier 4110",
+    "latitude": -39.514412,
+    "longitude": 176.904084,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.maraenui@foodstuffs.co.nz",
+    "phone": "06 842 2599"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "ATM"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We\u2019ve been serving the community for the last ten years! We look after our locals by providing their everyday needs and as well as through sponsoring their local events.",
+    "socialLinks": []
+  }
+}

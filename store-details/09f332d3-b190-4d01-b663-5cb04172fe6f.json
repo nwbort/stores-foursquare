@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Western Heights",
+  "url": "/upper-north-island/central-plateau/western-heights",
+  "storeId": "{09F332D3-B190-4D01-B663-5CB04172FE6F}",
+  "sitecoreId": 1557,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4 Brookland Road, Western Heights, Rotorua 3015",
+    "latitude": -38.129077,
+    "longitude": 176.219479,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "westernheights.foursquare@foodstuffs.co.nz",
+    "phone": "07 348 5147"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We have been delivering friendly service to our local customers for three decades. We support our nearby schools and charitable organizations by all means.",
+    "socialLinks": []
+  }
+}

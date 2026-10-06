@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Ahuriri",
+  "url": "/lower-north-island/hawkes-bay/ahuriri",
+  "storeId": "{0E6A8D76-B60F-4037-92FA-A06929CB47DB}",
+  "sitecoreId": 1287,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4 Ossian Street, Ahuriri, Napier 4110",
+    "latitude": -39.482937,
+    "longitude": 176.896569,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "06 833 7159"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Ice",
+    "Bait"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

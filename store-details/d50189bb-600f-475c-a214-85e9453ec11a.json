@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Waitara",
+  "url": "/lower-north-island/taranaki/waitara",
+  "storeId": "{D50189BB-600F-475C-A214-85E9453EC11A}",
+  "sitecoreId": 1322,
+  "openingHours": {
+    "monday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "4:45am",
+      "openUntil": "9:45pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "68 Mclean Street, Waitara 4320",
+    "latitude": -39.002482,
+    "longitude": 174.233595,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "bjs.foursquare@foodstuffs.co.nz",
+    "phone": "06 754 3125"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Fuel",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Our store is locally owned and operated by Syd & Nikki Arora, who bought the business in November 2018. We are locals for locals and we sponsor Waitara gymnastics, Waitara bowling club, and Waitara local church.",
+    "socialLinks": []
+  }
+}

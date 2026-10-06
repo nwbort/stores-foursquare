@@ -1,0 +1,64 @@
+{
+  "title": "Four Square \u014cp\u014dtiki",
+  "url": "/upper-north-island/bay-of-plenty/opotiki",
+  "storeId": "{419F9182-44EF-44ED-A4F6-3647069D5922}",
+  "sitecoreId": 1412,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "112 Church Street, \u014cp\u014dtiki 3122",
+    "latitude": -38.004916,
+    "longitude": 177.284748,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "opotiki.4sq@4sq.co.nz",
+    "phone": "07 315 6245"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltecf41e7618a24d10/68bf5ef7e50061a7ac00f493/untitled-1_0008_opotiki.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square \u014cp\u014dtiki is locally owned and operated by Lance Paltridge and has been since 2013!",
+    "socialLinks": []
+  }
+}

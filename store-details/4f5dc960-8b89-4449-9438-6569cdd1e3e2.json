@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Put\u0101ruru",
+  "url": "/upper-north-island/waikato/putaruru",
+  "storeId": "{4F5DC960-8B89-4449-9438-6569CDD1E3E2}",
+  "sitecoreId": 9989898989108,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7.00am ",
+      "openUntil": " 8.00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Market Street, Putaruru, 3411",
+    "latitude": -38.05110625640878,
+    "longitude": 175.7812030234093,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "",
+    "phone": "07 777 9009"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Deli",
+    "Liquor",
+    "Scoop Ice Cream",
+    "Food to Go",
+    "Bakery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3f2507a0ef251535/68bf5e86e8655738a8139542/img_1665.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Put\u0101ruru is your Local Fresh Grocer with a full range of shopping right nearby. We offers a wide range of everyday essentials, fresh foods, along with a great range of convenient meal solutions and liquor. The store also food to go offerings with barista-made coffee, gourmet sandwiches, scoop ice cream, hot fried chicken & chips and delicious pies.\u00a0",
+    "socialLinks": []
+  }
+}

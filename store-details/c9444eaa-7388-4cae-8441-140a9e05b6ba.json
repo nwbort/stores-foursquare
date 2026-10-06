@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Te Puke",
+  "url": "/upper-north-island/bay-of-plenty/te-puke",
+  "storeId": "{C9444EAA-7388-4CAE-8441-140A9E05B6BA}",
+  "sitecoreId": 1578,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "137 Jellicoe Street, Te Puke 3119",
+    "latitude": -37.783887,
+    "longitude": 176.32545,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "kim.hothie@4sq.co.nz",
+    "phone": "02 103 74872"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Takeaway Coffee",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt7dae4cc8e31ba70e/68bf5f05046c90837407312f/untitled-1_0013_te-puke-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "At Four Square Te Puke, we stock and provide our local community with everyday essentials with great prices! Plus, we\u2019ve got a reputation for selling winning Lotto tickets \u2013 so come in to see if it\u2019s your lucky day.",
+    "socialLinks": []
+  }
+}

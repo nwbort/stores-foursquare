@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Russell",
+  "url": "/upper-north-island/northland/russell",
+  "storeId": "{AF00C0BD-4CFE-495F-A72C-DB5A30576887}",
+  "sitecoreId": 1416,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "11 York Street, Russell, Northland 0202",
+    "latitude": -35.262585,
+    "longitude": 174.122657,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "wendy.porter@4sq.co.nz",
+    "phone": "09 403 7602"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Ice",
+    "Food to Go",
+    "Bait",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt440a7c92cd0c888a/68bf5e4fe865573c79139522/screenshot-2025-05-19-092956.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Russell, we're a local supermarket that has been part of the community in Russell for over 90 years. We offer food to go, flowers, seafood, butchery, lotto, bait, ice, bakery and fresh produce. We love being part of the local community and are privileged to be able to support many local clubs and events.",
+    "socialLinks": []
+  }
+}

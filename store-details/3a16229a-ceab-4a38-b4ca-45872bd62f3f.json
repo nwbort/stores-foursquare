@@ -1,0 +1,75 @@
+{
+  "title": "Four Square P\u0101tea",
+  "url": "/lower-north-island/taranaki/patea",
+  "storeId": "{3A16229A-CEAB-4A38-B4CA-45872BD62F3F}",
+  "sitecoreId": 1340,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "87 Egmont Street, Patea, 4520",
+    "latitude": -39.7557172,
+    "longitude": 174.47366950000003,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "vinod.meghwal@4sq.co.nz",
+    "phone": "06 273 8202"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt21e7adece819e11a/68bf5f007fb4017a301ef52b/untitled-1_0010_patea.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square P\u0101tea is your local one-stop supermarket with great service, carrying all your everyday essentials. We sponsor our local schools, sports club and golf club.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/pateafoursquare/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

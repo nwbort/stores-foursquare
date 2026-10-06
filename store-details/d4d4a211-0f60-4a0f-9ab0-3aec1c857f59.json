@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Rodney",
+  "url": "/upper-north-island/auckland/rodney",
+  "storeId": "{D4D4A211-0F60-4A0F-9AB0-3AEC1C857F59}",
+  "sitecoreId": 1569,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "175 Rodney Street, Wellsford 0900",
+    "latitude": -36.294447,
+    "longitude": 174.523585,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "rodney.foursquare@foodstuffs.co.nz",
+    "phone": "09 423 8238"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt59d13614fb008ec0/68bf5f027fb4016ed11ef52f/untitled-1_0011_rodney.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Did you know Wellsford is an acronym based on the surnames of the first families who settled in the region? The names were Watson, Edger, Lester, Levet, Simpson, Foster, Oldfield, Ramsbottom and Dibble! Wellsford lies 77km north of Auckland and is the northernmost town in the Auckland district. Wellsford is a major stop before Whangarei going north on SH1. Rakesh and Jayana have operated a store in Wellsford since 1992 and moved to their larger store in 2012. The store has groceries, meat, fruit and vegetables, beer and wine, bakery, Lotto and your everyday needs. Rodney Four Square supports many local organisations including the local schools and club sports. Do visit and say hello to Rakesh or Jayana on your way through!",
+    "socialLinks": []
+  }
+}

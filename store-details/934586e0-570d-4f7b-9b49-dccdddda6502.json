@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Eltham",
+  "url": "/lower-north-island/taranaki/eltham",
+  "storeId": "{934586E0-570D-4F7B-9B49-DCCDDDDA6502}",
+  "sitecoreId": 1324,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "156 High Street, Eltham 4322",
+    "latitude": -39.430123,
+    "longitude": 174.299532,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.eltham@foodstuffs.co.nz",
+    "phone": "06 764 5310"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8a894ef51d3c635f/68bf5eec5aad507c19e35dfe/untitled-1_0001_eltham.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Eltham was originally built by a Taranaki retail legend - Jack Stark. Many of our locals still remember Jack and we have a corner of the store dedicated to his legacy. After Jack retired the store was sold to Foodstuffs and became a Four Square. We are a passionate team who love providing our locals with fresh products and friendly customer service. We have an extensive food to go offer as well as everything you need for your weekly groceries. You'll find us in the centre of Eltham as you drive down State Highway 3 - make sure you stop and say hi. We'll have everything ready for you!",
+    "socialLinks": []
+  }
+}

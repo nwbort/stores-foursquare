@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Waimamaku",
+  "url": "/upper-north-island/northland/waimamaku",
+  "storeId": "{49C6B3E6-EE50-40B5-916A-AEADACB15F74}",
+  "sitecoreId": 1432,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "7233 State Highway 12 Waimamaku, South Hokianga",
+    "latitude": -35.555986,
+    "longitude": 173.475915,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "waimamaku.foursquare@foodstuffs.co.nz",
+    "phone": "09 405 4849"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt7f549c3d0415910a/68bf5ef65aad505c2ee35e06/untitled-1_0006_waimamaku-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "This store has been serving its community for nearly 100 years!",
+    "socialLinks": []
+  }
+}

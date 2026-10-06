@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Raumati Beach",
+  "url": "/lower-north-island/wellington/raumati-beach",
+  "storeId": "{336340BD-4616-428F-9285-393E0DD9DC9F}",
+  "sitecoreId": 1369,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "5 Margaret Road, Raumati 5032",
+    "latitude": -40.9191476,
+    "longitude": 174.9815671,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "04 299 3553"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a local community hub with great ranges of grocery, produce, wine & beer. We also have Lotto, NZ Post and a laundromat service. We proudly sponsor Kapiti Coast United Football Club (namely KCU) and Raumati Bowling Club.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Ngongotah\u0101",
+  "url": "/upper-north-island/bay-of-plenty/ngongotaha",
+  "storeId": "{EF50A874-23D3-433F-B1D0-D88FAD9E04F5}",
+  "sitecoreId": 1554,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1 Hall Road, Ngongotah\u0101, Rotorua 3010",
+    "latitude": -38.081077,
+    "longitude": 176.211986,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 357 4475"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt04df1859e89bf37e/68bf5f1f2169c02659dadbe5/untitled-1_0039_ngongotaha-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are Grant and Crystal Plummer, and we are proud to live and work in the amazing community of Ngongotah\u0101\u00a0 and employ an awesome bunch of staff. We all love to serve our local community with your fresh favourites and everyday essentials. Our aim is to be your local and convenient supermarket with good old-fashioned service with a smile and help to your car anytime. Thanks so much for shopping with us.",
+    "socialLinks": []
+  }
+}

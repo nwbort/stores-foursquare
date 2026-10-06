@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Tait\u0101",
+  "url": "/lower-north-island/wellington/taita",
+  "storeId": "{AF448969-518D-43ED-BCA9-137FEFEC7A71}",
+  "sitecoreId": 1376,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "18 Taine Street, Tait\u0101, Lower Hutt 5011",
+    "latitude": -41.179596,
+    "longitude": 174.959464,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.taita@foodstuffs.co.nz",
+    "phone": "04 567 1304"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We stock all your basic needs to give you a one stop shopping experience.",
+    "socialLinks": []
+  }
+}

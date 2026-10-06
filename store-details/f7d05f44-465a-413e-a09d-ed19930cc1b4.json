@@ -1,0 +1,62 @@
+{
+  "title": "Four Square Buffalo Beach",
+  "url": "/upper-north-island/coromandel/buffalo-beach",
+  "storeId": "{F7D05F44-465A-413E-A09D-ED19930CC1B4}",
+  "sitecoreId": 1434,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "3 Albert Street, Whitianga 3510",
+    "latitude": -36.83056,
+    "longitude": 175.705683,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 866 5702"
+  },
+  "services": [
+    "Alcohol"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

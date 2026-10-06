@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Pirongia",
+  "url": "/upper-north-island/waikato/pirongia",
+  "storeId": "{7B1E7535-B2E5-4359-BD65-9CAFBF04C942}",
+  "sitecoreId": 1474,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "269 Crozier Street, Pirongia 3802",
+    "latitude": -37.991838,
+    "longitude": 175.200269,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "pirongia.4sq@foodstuffs.co.nz",
+    "phone": "07 871 9152"
+  },
+  "services": [
+    "Alcohol",
+    "Butchery",
+    "Deli",
+    "Flowers",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "Post Shop",
+    "Produce",
+    "Seafood",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blteeeaf2a94acf7853/68bf5e202169c08f0fdadb93/four-square-pirongia_december-2024-14.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Pirongia, a local supermarket owned and operated by Chris & Libby McDonnell. Our customers are our lifeblood, and we strive every day to better meet their needs. Pirongia is such a friendly, down-to-earth bunch, and within our first week, we met about 500 locals. Getting behind the local community and being the hub of the town is a privilege that we don't take for granted. We sponsor a number of local clubs, charities, and numerous fundraising efforts. We also have a BBQ that is available free to use for any fundraising needs!",
+    "socialLinks": []
+  }
+}

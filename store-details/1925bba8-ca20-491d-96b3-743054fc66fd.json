@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Mount Maunganui",
+  "url": "/upper-north-island/bay-of-plenty/mount-maunganui",
+  "storeId": "{1925BBA8-CA20-491D-96B3-743054FC66FD}",
+  "sitecoreId": 998899,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "217 Maunganui Road, Mount Maunganui 3116",
+    "latitude": -37.63980691264158,
+    "longitude": 176.18440798121762,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": ""
+  },
+  "services": [
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blted23fe8d833b3e5b/68bf5e93bf77ef483bf04086/mount_img_7079.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Mount Maunganui offers a wide range of everyday essentials, fresh foods, self-checkouts, along with a great range of convenient meal solutions. The store will also have a food to go kiosk, including Kapiti scoop ice cream, fresh pastries, barista-made coffee, hot chicken & chips and delicious sandwiches by Dedwood Deli. ",
+    "socialLinks": []
+  }
+}

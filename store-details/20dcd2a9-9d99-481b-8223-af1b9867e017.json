@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Cheviot",
+  "url": "/south-island/canterbury/cheviot",
+  "storeId": "{20DCD2A9-9D99-481B-8223-AF1B9867E017}",
+  "sitecoreId": 1597,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Rolleston Street Cheviot 7310",
+    "latitude": -42.812515,
+    "longitude": 173.273808,
+    "island": "south",
+    "region": "South Island",
+    "email": "cheviot@foursquare-si.co.nz",
+    "phone": "03 319 8849"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt697c477e580adeba/68bf5fa6e500611bd600f4d3/untitled-1_0029_cheviot-owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Steve and Ginny Allison welcome you to Four Square Cheviot. Four Square Cheviot is a busy modern store that is locally owned, managed and staffed. We have a vast range of fresh meats, fruit, vegetables, and deli products, and we stock a number of the major grocery brands. Whether you just need a few bits and pieces, or if you need to do a full grocery shop \u2013 we have got you covered! We look forward to seeing you in-store soon.",
+    "socialLinks": []
+  }
+}

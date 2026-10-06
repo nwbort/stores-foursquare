@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Hikurangi",
+  "url": "/upper-north-island/northland/hikurangi",
+  "storeId": "{98ADF1F3-0EE7-4F83-BC35-DD0F84CA23D1}",
+  "sitecoreId": 1418,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "29 King Street, Hikurangi Whangarei Northland 0114",
+    "latitude": -35.597923,
+    "longitude": 174.286118,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "hikurangin.foursquare@foodstuffs.co.nz",
+    "phone": "09 433 8818"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt820775a58bbeb08d/68bf5f367fb40162db1ef547/untitled-1_0058_hikurangi-northland-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are your local supermarket and have all your essentials! We sponsor the local golf club and school, support various fundraisers, and help our local community. ",
+    "socialLinks": []
+  }
+}

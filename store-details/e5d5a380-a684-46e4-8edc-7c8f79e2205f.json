@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Shannon",
+  "url": "/lower-north-island/manawatu-whanganui/shannon",
+  "storeId": "{E5D5A380-A684-46E4-8EDC-7C8F79E2205F}",
+  "sitecoreId": 1316,
+  "openingHours": {
+    "monday": {
+      "openFrom": "5:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "5:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "5:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "5:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "5:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "70 Plimmer Terrace, Shannon 4821 Horowhenua",
+    "latitude": -40.546509,
+    "longitude": 175.412337,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.shannon@foodstuffs.co.nz",
+    "phone": "06 362 7876"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Ice",
+    "Food to Go",
+    "Catering",
+    "Seafood",
+    "Deli",
+    "Real Fruit Ice Cream",
+    "Bait"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8dcf4d3dade3ade5/68bf5e87d1f0fa13b60f3b3a/shannon_external_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Shannon, located on Shannon's main road, between Palmerston North and Levin. This store is locally owned and operated by Aryn and an awesome team of locals, working hard to meet customer and community needs. The perfect pit stop while you're on the road, with homemade pies, sausage rolls, old school thickshakes, real fruit & scoop ice cream, Chicken & Chips and a great selection of food to go, snacks & drinks. We also carry a great range of groceries, fresh produce, meats, bakery items, and beer and wine. We have Lotto in store, as well as RugDoctor available for hire. Aryn and the team look forward to seeing you - if there is anything we can do for you please let us know!",
+    "socialLinks": []
+  }
+}

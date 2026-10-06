@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Mataura",
+  "url": "/south-island/southland-and-stewart-island/mataura",
+  "storeId": "{8F529B38-4D92-4E1D-B9DB-1F970C681587}",
+  "sitecoreId": 1598,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "64 Main Street, Mataura, 9712",
+    "latitude": -46.1969782,
+    "longitude": 168.86072490000004,
+    "island": "south",
+    "region": "South Island",
+    "email": "mataura@foursquare-si.co.nz",
+    "phone": "03 203 8490"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0ae99991e1df4691/68bf5f94dbb4f98314b5d562/untitled-1_0012_owners-mataura-four-square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Located on State Highway 1 between Gore and Invercargill. Luke and Amy Bartlett have owned the store since 2017. Our store is popular for people to stop off for food to go. On any given day you can see a wide variety of food in the hot and cold cabinet. As well as hot food we have a great grocery and fresh food offering and have recently started baking bread 5 days a week. We are the major sponsor of the Mataura Junior Rugby Club and also support other organisations within our community such as schools and clubs.",
+    "socialLinks": []
+  }
+}

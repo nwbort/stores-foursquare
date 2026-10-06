@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Ng\u0101tea",
+  "url": "/upper-north-island/waikato/ngatea",
+  "storeId": "{5B388781-939D-47DE-8709-FACA216FC7D3}",
+  "sitecoreId": 1472,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "25 Orchard West Road, Ng\u0101tea 3503",
+    "latitude": -37.276565,
+    "longitude": 175.496067,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "ngatea.foursquare@foodstuffs.co.nz",
+    "phone": "07 867 7037"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltde755d6a76386361/68bf5f1f2169c0c900dadbe9/untitled-1_0040_ngatea-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are family, we are locals, we are here when you need us!",
+    "socialLinks": []
+  }
+}

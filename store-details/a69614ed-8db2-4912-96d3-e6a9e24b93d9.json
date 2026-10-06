@@ -1,0 +1,60 @@
+{
+  "title": "Four Square Glen Eden",
+  "url": "/upper-north-island/auckland/glen-eden",
+  "storeId": "{A69614ED-8DB2-4912-96D3-E6A9E24B93D9}",
+  "sitecoreId": 1395,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "27 Glenmall Place, Glen Eden, Auckland 0602",
+    "latitude": -36.910952,
+    "longitude": 174.651599,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 9638789"
+  },
+  "services": [],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

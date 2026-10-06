@@ -1,0 +1,65 @@
+{
+  "title": "Four Square K\u0101eo",
+  "url": "/upper-north-island/northland/kaeo",
+  "storeId": "{4EDFBA6C-574F-4361-9696-21D6D39D634E}",
+  "sitecoreId": 1421,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "13 Leigh Street, K\u0101eo 0478",
+    "latitude": -35.100562,
+    "longitude": 173.780602,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "kaeo.foursquare@foodstuffs.co.nz",
+    "phone": "09 405 0658"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5ab72121d54b961a/68bf5eed7fb40158eb1ef51f/untitled-1_0001_kaeo.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We're proud to sponsor the local bowling club and all sorts of local events.",
+    "socialLinks": []
+  }
+}

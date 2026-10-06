@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Coromandel",
+  "url": "/upper-north-island/coromandel/coromandel",
+  "storeId": "{89F037A4-B720-4514-8CC7-D2B80F52D3A7}",
+  "sitecoreId": 1435,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "50 Wharf Road, Coromandel 3506",
+    "latitude": -36.760238,
+    "longitude": 175.496578,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "coromandel.foursquare@foodstuffs.co.nz",
+    "phone": "07 866 8808"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering",
+    "Post Shop"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltbef4da101e4f1637/68bf5e94b09280610f4fc16c/coromandel.jpeg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Chris & Becky Beard are the proud owners of Four Square Coromandel, Store of the Year 2021. We're thrilled to be part of the long-standing iconic Kiwi brand serving up your fresh faves, everyday essentials and providing local service. Heading to the bach or taking a break? You'll find everything you need from fresh produce, sushi and food to go, to meat and fresh bread made in store along with a huge range of deli, grocery, and beer & wine (we've got an epic craft beer and cider range too). In store, you will find NZ Post and Lotto to make it your one stop shop. We\u2019re here for the Community - get in touch for your next fundraiser or local sponsorship and we look forward to seeing you in Coro!\u00a0",
+    "socialLinks": []
+  }
+}

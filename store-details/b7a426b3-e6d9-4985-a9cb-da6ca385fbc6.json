@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Otatara",
+  "url": "/south-island/southland-and-stewart-island/otatara",
+  "storeId": "{B7A426B3-E6D9-4985-A9CB-DA6CA385FBC6}",
+  "sitecoreId": 1631,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "99 Dunns Road, 9 RD Otatara, Ascot, Invercargill 9879",
+    "latitude": -46.432003,
+    "longitude": 168.296899,
+    "island": "south",
+    "region": "South Island",
+    "email": "otatara@foursquare-si.co.nz",
+    "phone": "03 213 1334"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

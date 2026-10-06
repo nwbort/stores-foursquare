@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Patumahoe",
+  "url": "/upper-north-island/auckland/patumahoe",
+  "storeId": "{CB13B8EE-E0FB-43EF-9CA4-A7341778D5A4}",
+  "sitecoreId": 1405,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "13 Patumahoe Road, Patumahoe 2679",
+    "latitude": -37.187772,
+    "longitude": 174.828574,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Patumahoe.4sq@4sq.co.nz",
+    "phone": "09 236 3838"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt9f5e4032ba05536d/68bf5f177fb40124ec1ef537/untitled-1_0031_patumahoe-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We stock local suppliers and we like to give back and sponsor our local community. The store has been in the family for 30 years.",
+    "socialLinks": []
+  }
+}

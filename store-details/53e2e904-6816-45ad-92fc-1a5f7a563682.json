@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Stafford Street",
+  "url": "/south-island/west-coast/stafford-street",
+  "storeId": "{53E2E904-6816-45AD-92FC-1A5F7A563682}",
+  "sitecoreId": 1648,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "140 Stafford Street, Hokitika 7810",
+    "latitude": -42.7196154,
+    "longitude": 170.9712862,
+    "island": "south",
+    "region": "South Island",
+    "email": "stafford.street@foursquare-si.co.nz",
+    "phone": "03 755 8442"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Ice",
+    "Bait",
+    "Food to Go",
+    "Flowers",
+    "Catering",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt59efcbcbfb6b773a/6aa8866a18ccf26f1ad8267a/Four-Square-Stafford-Street.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We\u2019re proud to introduce ourselves as the new owners of Four Square Stafford Street and are excited to be part of this great West Coast community.\u00a0Our focus is on providing friendly service, quality products, and a welcoming local store you can rely on.\u00a0We\u2019re looking forward to getting to know our customers and becoming a valued part of everyday life in Hokitika.\u00a0",
+    "socialLinks": []
+  }
+}

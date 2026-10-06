@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Blue Moon",
+  "url": "/upper-north-island/bay-of-plenty/blue-moon",
+  "storeId": "{9802FBD7-8C0A-4328-A2F9-5871F74E4A72}",
+  "sitecoreId": 1409,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "49 Saint John Street, Opotiki 3122",
+    "latitude": -38.011199,
+    "longitude": 177.286873,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 315 6799"
+  },
+  "services": [
+    "Produce",
+    "Lotto",
+    "Alcohol"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

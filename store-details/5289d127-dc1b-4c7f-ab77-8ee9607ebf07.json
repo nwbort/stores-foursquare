@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Katikati",
+  "url": "/upper-north-island/bay-of-plenty/katikati",
+  "storeId": "{5289D127-DC1B-4C7F-AB77-8EE9607EBF07}",
+  "sitecoreId": 1410,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Main Road, Katikati 3129",
+    "latitude": -37.554069,
+    "longitude": 175.917551,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "katikati.4sq@4sq.co.nz",
+    "phone": "07 549 0172"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd12d0db0d63122ca/68bf5f30e8655764c41395a4/untitled-1_0053_katikati-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We can keep you stocked up with a range of groceries, fresh produce, meat, chilled beer and wines and a friendly smile! So, whether you're keeping it local, or on tour, we're here to make it easy for you. ",
+    "socialLinks": []
+  }
+}

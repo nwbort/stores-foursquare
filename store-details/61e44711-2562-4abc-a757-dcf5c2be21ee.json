@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Murchison",
+  "url": "/south-island/nelson/murchison",
+  "storeId": "{61E44711-2562-4ABC-A757-DCF5C2BE21EE}",
+  "sitecoreId": 1625,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "37 Fairfax Street, Murchison 7007",
+    "latitude": -41.8002845,
+    "longitude": 172.32569480000006,
+    "island": "south",
+    "region": "South Island",
+    "email": "murchison@foursquare-si.co.nz",
+    "phone": "03 523 9007"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Gas Bottle Swap",
+    "Butchery",
+    "Takeaway Coffee",
+    "Ice",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltb9f0a4639584d479/6aa86352b381b878ddae7c65/photo-1---four-square-murchison-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Murchison - your local, family-owned store. Proudly run by the Hocking family since 2014, we\u2019re your one-stop shop for fresh produce, groceries, coffee, meals, Lotto, gas swaps and more. As the only supermarket for miles, we\u2019re here for locals and travellers alike. We love our community and proudly support local teams and events. It\u2019s a privilege to be part of Murchison\u2019s friendly, vibrant spirit.",
+    "socialLinks": []
+  }
+}

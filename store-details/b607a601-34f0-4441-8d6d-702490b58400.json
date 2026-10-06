@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Lancaster",
+  "url": "/upper-north-island/auckland/lancaster",
+  "storeId": "{B607A601-34F0-4441-8D6D-702490B58400}",
+  "sitecoreId": 1400,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "209 Beach Haven Road, Beach Haven, Auckland 0626",
+    "latitude": -36.789534,
+    "longitude": 174.694996,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "lancaster.foursquare@foodstuffs.co.nz",
+    "phone": "09 483 8907"
+  },
+  "services": [
+    "Alcohol",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We\u2019re proud to help out with our local schools, and sponsor the junior rugby touch team! ",
+    "socialLinks": []
+  }
+}

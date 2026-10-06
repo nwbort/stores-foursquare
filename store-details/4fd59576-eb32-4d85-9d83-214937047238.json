@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Torbay",
+  "url": "/upper-north-island/auckland/torbay",
+  "storeId": "{4FD59576-EB32-4D85-9D83-214937047238}",
+  "sitecoreId": 1387,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1058 Beach Road, Torbay, Auckland, 0630 ",
+    "latitude": -36.69492,
+    "longitude": 174.750745,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "raj.singh@4sq.co.nz",
+    "phone": "09 473 6197"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Food to Go",
+    "Flowers",
+    "Lotto",
+    "Post Shop",
+    "Produce",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Torbay provides locals favourite brands and everyday essentials at fair prices with friendly staff for an easy shopping trip!",
+    "socialLinks": []
+  }
+}

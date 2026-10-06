@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Alexandra",
+  "url": "/south-island/otago/alexandra",
+  "storeId": "{FED55F4B-A6F2-45D9-A20E-BA642EB9CDF9}",
+  "sitecoreId": 1651,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "91 Tarbert Street, Alexandra 9320",
+    "latitude": -45.253304,
+    "longitude": 169.39487,
+    "island": "south",
+    "region": "South Island",
+    "email": "alexandra@foursquare-si.co.nz",
+    "phone": "03 448 8598"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Ice",
+    "Food to Go",
+    "Deli",
+    "Sea Food",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt859e5ba8fb676849/68bf5fb1d1f0fa73600f3bb8/untitled-1_0038_4sq-alexandra-shop-photo.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Alexandra. We're a local supermarket owned and operated by Jeff and Emellia McLaren. The store offers a great variety of fresh produce and hot and cold food-to-go and groceries. We support local sports teams, clubs, and schools through coaching, volunteering, and sponsorship.",
+    "socialLinks": []
+  }
+}

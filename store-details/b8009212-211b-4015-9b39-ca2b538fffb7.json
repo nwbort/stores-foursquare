@@ -1,0 +1,66 @@
+{
+  "title": "Four Square \u014ctaki",
+  "url": "/lower-north-island/wellington/otaki",
+  "storeId": "{B8009212-211B-4015-9B39-CA2B538FFFB7}",
+  "sitecoreId": 1366,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "42 Main Street, \u014ctaki 5512",
+    "latitude": -40.752225,
+    "longitude": 175.138961,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.otaki@foodstuffs.co.nz",
+    "phone": "06 364 8009"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "ATM"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltc217161c7ba81333/68bf5dd3d1f0fae5a60f3ad6/otaki_owner_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square \u014ctaki, your friendly local supermarket since 1979. Serving the coastal community with fresh produce, quality meats, and a wide range of essentials, our store has been a beloved staple. Under new management since October 2021, we\u2019ve kept the tradition of great service and community love alive. Our shelves are packed with groceries, ready-to-eat meals, and a wide range of drinks. With strong community ties and loyal customers, we support local initiatives and create a friendly shopping atmosphere.",
+    "socialLinks": []
+  }
+}

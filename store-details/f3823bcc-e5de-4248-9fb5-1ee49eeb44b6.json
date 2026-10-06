@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Rifle Range Road",
+  "url": "/upper-north-island/central-plateau/rifle-range-road",
+  "storeId": "{F3823BCC-E5DE-4248-9FB5-1EE49EEB44B6}",
+  "sitecoreId": 1558,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "106 Rifle Range Road, Taupo 3330",
+    "latitude": -38.687815,
+    "longitude": 176.08674,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "foodworld.4sq@4sq.co.nz",
+    "phone": "07 378 6207"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Fuel",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5923e2e53cbd6c7a/68bf5f3ab0928020044fc1b0/untitled-1_0063_foodworld-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Riffle Range Road has been supplying the local community for 50 years! Ours is a store that is big enough to compete and small enough to care, by supporting local teams, suppliers and the community itself.",
+    "socialLinks": []
+  }
+}

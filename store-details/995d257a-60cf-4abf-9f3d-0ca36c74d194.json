@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Kena Kena",
+  "url": "/lower-north-island/wellington/kena-kena",
+  "storeId": "{995D257A-60CF-4ABF-9F3D-0CA36C74D194}",
+  "sitecoreId": 1362,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4 Donovan Road Paraparaumu 5032",
+    "latitude": -40.881674,
+    "longitude": 174.991264,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.kenakena@foodstuffs.co.nz",
+    "phone": "04 298 3660"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Four Square NOW! Delivery",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Seafood",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltb173f92817bed256/68bf5e28d1f0fa1cd90f3b12/kena-kena.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Kena Kena, a local supermarket owned and operated by Michael and Michelle Newman. We're a supermarket with over 20 years of experience in the industry. Established in November 2006 and taken over by the Newmans in March 2009, the store offers the best Chicken and Chips in the area, along with a wide range of fresh and grocery items. We're proud to be part of the local community and have sponsored a range of local sports groups and the local schools.",
+    "socialLinks": []
+  }
+}

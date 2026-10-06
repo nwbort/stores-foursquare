@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Mangakino",
+  "url": "/upper-north-island/waikato/mangakino",
+  "storeId": "{EBFDA01F-2497-412D-9692-0C3C57C4E504}",
+  "sitecoreId": 1471,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Main Street, Mangakino 3421  ",
+    "latitude": -38.370646,
+    "longitude": 175.773997,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "mangakino.foursquare@foodstuffs.co.nz",
+    "phone": "07 882 8112"
+  },
+  "services": [
+    "Produce",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Mangakino Four Square is located in the heart of our town. We're proud to be part of the long standing iconic Kiwi brand. Provides convenient services with wide variety of groceries.",
+    "socialLinks": []
+  }
+}

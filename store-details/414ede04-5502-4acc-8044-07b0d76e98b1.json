@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Mahora",
+  "url": "/lower-north-island/hawkes-bay/mahora",
+  "storeId": "{414EDE04-5502-4ACC-8044-07B0D76E98B1}",
+  "sitecoreId": 1293,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "525 Frederick Street, Mahora, Hastings, 4122",
+    "latitude": -39.628366,
+    "longitude": 176.850713,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "mahora.staff@foodstuffs.co.nz",
+    "phone": "06 878 3674"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5fd2266d081fce15/68bf5e2ce500616baf00f413/mahora_owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Mahora. A local supermarket owned and operated by Scott and Steph. We offer a wide range of products including fresh produce, butchery items, and food-to-go options. We also provide delivery services through Uber Eats. The store has been at the heart of the Mahora community for over 15 years. Our store is known for its friendly customer service; we have our loyal, regular customers whose names and orders we know. We love supporting local and do a lot with Mahora School and partner with Nourished for Nil, a local organisation helping reduce food waste.",
+    "socialLinks": []
+  }
+}

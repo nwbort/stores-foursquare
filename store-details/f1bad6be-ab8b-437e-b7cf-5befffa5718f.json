@@ -1,0 +1,67 @@
+{
+  "title": "Four Square \u014ctaika",
+  "url": "/upper-north-island/northland/otaika",
+  "storeId": "{F1BAD6BE-AB8B-437E-B7CF-5BEFFFA5718F}",
+  "sitecoreId": 1583,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "110 \u014ctaika Road, Northland, Whangarei 0110",
+    "latitude": -35.743147,
+    "longitude": 174.307602,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 438 7119"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Takeaway Coffee",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltf759a49501802524/68bf5efa5aad50d024e35e0a/untitled-1_0009_otaika.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square \u014ctaika! A local community focused supermarket. We're all about fresh, whether it's our wide range of meats, produce, or the goodies from our new bakery, like breads, cakes, biscuits, doughnuts, and our famous homemade pies. We love chatting with our customers, and getting to know them is what makes our job special. There's a great community spirit here, and we're proud to be part of it!",
+    "socialLinks": []
+  }
+}

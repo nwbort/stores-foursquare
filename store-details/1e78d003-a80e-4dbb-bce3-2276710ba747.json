@@ -1,0 +1,78 @@
+{
+  "title": "Four Square Ashhurst",
+  "url": "/lower-north-island/manawatu-whanganui/ashhurst",
+  "storeId": "{1E78D003-A80E-4DBB-BCE3-2276710BA747}",
+  "sitecoreId": 1318,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "141 Cambridge Avenue, Ashhurst, Palmerston North 4810",
+    "latitude": -40.289662,
+    "longitude": 175.754955,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "Padminibenp@4sq.co.nz",
+    "phone": "06 326 8014"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Deli",
+    "Seafood",
+    "Ice",
+    "Post Shop"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1f8e51a385662b05/68bf5f44bf77efb892f040b8/untitled-1_0072_ashhurst-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Ashhurst, a local supermarket owned by Pravin and Padmini Patel. The store offers a wide range of fresh produce, butchery, flowers, groceries, liquor, gas bottle swaps, lotto, and food to go. A local community hub, we offer a post shop and prescription collection service.",
+    "socialLinks": [
+      {
+        "href": "/en/sitecore/shell",
+        "title": "\"We are Medicines Depot, so we keep some basic medicines. and customer can ask their Dr. to send their prescription to Grant irvines Pharmacy, so they can collect their prescription from Ashhurst Four Square. They don't need to go to town.\""
+      }
+    ]
+  }
+}

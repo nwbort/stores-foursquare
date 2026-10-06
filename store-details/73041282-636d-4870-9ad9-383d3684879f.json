@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Rakaia",
+  "url": "/south-island/canterbury/rakaia",
+  "storeId": "{73041282-636D-4870-9AD9-383D3684879F}",
+  "sitecoreId": 1638,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "9 Railway Terrace East, Rakaia 7710",
+    "latitude": -43.755244,
+    "longitude": 172.021279,
+    "island": "south",
+    "region": "South Island",
+    "email": "rakaia.foodstore@foursquare-si.co.nz",
+    "phone": "03 302 7307"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Bait",
+    "Deli",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt6c74a61874859d4a/6aa87b4918ccf22579d82676/Four-Square-Rakaia.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Rakaia, the iconic salmon-shaped store owned by Mike & Catherine Thomas. We are an iconic local supermarket with a strong focus on local goods, selling Fairlie Bakehouse pies, real fruit ice creams, barista coffee, and 1,300 new food lines to make life easier. We sponsor multiple local events with Four Square Gift Cards.",
+    "socialLinks": []
+  }
+}

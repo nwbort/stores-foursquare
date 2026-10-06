@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Opononi",
+  "url": "/upper-north-island/northland/opononi",
+  "storeId": "{6B6ECE14-BC73-4638-98CE-B009A10BDC69}",
+  "sitecoreId": 1428,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "29 Hokianga Harbour Drive, Opononi",
+    "latitude": -35.505419,
+    "longitude": 173.391357,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "opononi.foursquare@foodstuffs.co.nz",
+    "phone": "09 405 8838"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Ice",
+    "Bait",
+    "Food to Go",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt104c09ef59cc9a3e/68bf5f1d7fb4015fd91ef53f/untitled-1_0037_opononi-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Opononi, a community-focused local supermarket, established in the mid-70s. We offer everyday essentials, fresh produce, alcohol, lotto, ice, NZ Post, and an ATM. In 2013, we had an unfortunate event, and the store burnt down; however, the community rallied around us, and we rebuilt the store. We have a great community that we love to support, and we are proud to sponsor local clubs, events, and schools.",
+    "socialLinks": []
+  }
+}

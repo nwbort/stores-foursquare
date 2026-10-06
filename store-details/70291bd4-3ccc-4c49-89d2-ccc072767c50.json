@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Paihia",
+  "url": "/upper-north-island/northland/paihia",
+  "storeId": "{70291BD4-3CCC-4C49-89D2-CCC072767C50}",
+  "sitecoreId": 1429,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "41 Williams Road, Paihia 0200",
+    "latitude": -35.282434,
+    "longitude": 174.090474,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "paihia.4sq@4sq.co.nz",
+    "phone": "09 402 8002"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3b461a615c8b4057/68bf5f1bd1f0fa811f0f3b6a/paihia-four-square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Hamish and Carla Moore are the proud local owners of Paihia Four Square. Paihia Four Square is proud to have the largest range of groceries in Paihia central including international foods and famous kiwi brands such as Pam's Finest & Value. We also offer our local favourite Chicken and Chips, chilled beer and wine, and a wide variety of fresh fruit and vegetables, many from local producers. The lucky lotto counter is also located near the checkouts and has been known to sell some big winning tickets. The store doesn't just supply groceries, it has a wide range of products and tools to support small household jobs and garden projects - just ask a friendly team member to help you find what you're looking for. Thank you for supporting our local, family owned business.",
+    "socialLinks": []
+  }
+}

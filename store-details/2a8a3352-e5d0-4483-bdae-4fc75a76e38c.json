@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Ascot",
+  "url": "/south-island/southland-and-stewart-island/ascot",
+  "storeId": "{2A8A3352-E5D0-4483-BDAE-4FC75A76E38C}",
+  "sitecoreId": 1589,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "698 Tay Street, Invercargill 9810",
+    "latitude": -46.4061202,
+    "longitude": 168.3922268,
+    "island": "south",
+    "region": "South Island",
+    "email": "ascot@foursquare-si.co.nz",
+    "phone": "03 217 7106"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Lotto",
+    "Ice",
+    "Food to Go",
+    "Flowers",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5c614854f178bb3f/68bf5fa9d1f0faad5c0f3bb0/untitled-1_0032_ascot.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Ascot, a local supermarket owned by Graeme & Tracey Neilson. With over 60 years in the local community, we provide a great range of groceries and fresh produce, excellent customer service, and easy access. Beyond providing a great shopping experience, we love connecting with our locals, occasionally sharing entertaining TikTok dance moves on our Facebook page. We are proud to support local schools and sports teams. At Four Square Ascot, we're not just a supermarket; we're a community hub that supports both customers and staff alike.",
+    "socialLinks": []
+  }
+}

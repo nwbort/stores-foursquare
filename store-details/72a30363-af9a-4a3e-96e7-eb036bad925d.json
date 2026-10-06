@@ -1,0 +1,77 @@
+{
+  "title": "Four Square Houhora",
+  "url": "/upper-north-island/northland/houhora",
+  "storeId": "{72A30363-AF9A-4A3E-96E7-EB036BAD925D}",
+  "sitecoreId": 1419,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Far North Road, Pukenui, Houhora, RD 4, Kaitaia 0484",
+    "latitude": -34.814787,
+    "longitude": 173.117803,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "andrew.howse@foodstuffs.co.nz",
+    "phone": "09 409 8819"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Ice",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering",
+    "Post Shop",
+    "Bait",
+    "Scoop Ice Cream",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8b330a249acc091f/68bf5f35e50061702400f4a7/houhora_owner1_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Houhora. We're the northernmost supermarket in New Zealand, owned by Stefan and Andrea Waijers. Originally part of the Four Square banner in the 1980s, the store has expanded over the years to offer a comprehensive range of fresh produce, groceries, and ready-to-eat meals. In addition to groceries, the store also offers NZ Post services, Lotto, Gas Bottle Swap, and an ATM. We are proud to be part of the amazing community and look forward to serving locals for years to come.",
+    "socialLinks": []
+  }
+}

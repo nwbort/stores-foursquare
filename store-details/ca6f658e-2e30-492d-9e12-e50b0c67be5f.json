@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Milson",
+  "url": "/lower-north-island/manawatu-whanganui/milson",
+  "storeId": "{CA6F658E-2E30-492D-9E12-E50B0C67BE5F}",
+  "sitecoreId": 1317,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "67 Milson Line Milson Shopping Centre, Palmerston North 4414",
+    "latitude": -40.331468,
+    "longitude": 175.615152,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "06 357 8389"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Food to Go",
+    "Flowers",
+    "Lotto",
+    "Post Shop",
+    "Produce",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We take an active interest in the community, supporting local schools, sports clubs and charities through sponsorship and fundraising. Several times a year we run a staff mufti day, with all donations going to a pre-selected charity. We also run a grocery drive and pet food drive at Christmas time to help the Salvation Army and SPCA restock after Christmas.",
+    "socialLinks": []
+  }
+}

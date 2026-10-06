@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Eastend",
+  "url": "/lower-north-island/hawkes-bay/eastend",
+  "storeId": "{F1B49F3B-1EDC-4A7D-9E5F-D0CEE011ABB6}",
+  "sitecoreId": 1291,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1112 Heretaunga Street East, Parkvale, Hastings 4122",
+    "latitude": -39.652473,
+    "longitude": 176.855868,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "Parmjit.Kalkat@4sq.co.nz",
+    "phone": "06 878 7906"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0960cd04450844b6/68bf5f3cdbb4f93a55b5d530/untitled-1_0065_eastend-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "My name is Parmjit Singh Kalkat, I have been the owner and operator of Four Square Eastend for nearly 20 years now. I have a wife, Sharanjeet, and two boys. We are sponsors of the nearby primary school, the local school kid's safety book and the Police Guild Trust. Additionally, we sponsor various community events and other children's foundations. We at Four Square Eastend believe in a strong community bond, with local suppliers being a part of that connection.",
+    "socialLinks": []
+  }
+}

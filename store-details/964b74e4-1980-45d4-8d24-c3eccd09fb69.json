@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Silverdale",
+  "url": "/upper-north-island/waikato/silverdale",
+  "storeId": "{964B74E4-1980-45D4-8D24-C3ECCD09FB69}",
+  "sitecoreId": 1488,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:45am",
+      "openUntil": "8:15pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "120 Silverdale Road, Silverdale, Hamilton 3216",
+    "latitude": -37.789934,
+    "longitude": 175.326073,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "silverdale.4sq@4sq.co.nz",
+    "phone": "07 856 9995"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "NZ Post Centre for NZ wide packages and parcels only. All letters worldwide.",
+    "socialLinks": []
+  }
+}

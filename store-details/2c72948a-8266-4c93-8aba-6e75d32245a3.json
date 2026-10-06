@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Naenae",
+  "url": "/lower-north-island/wellington/naenae",
+  "storeId": "{2C72948A-8266-4C93-8ABA-6E75D32245A3}",
+  "sitecoreId": 1364,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "30 Hillary Court, Naenae, Lower Hutt 5011",
+    "latitude": -41.198448,
+    "longitude": 174.947774,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "naenae4square@yahoo.co.nz",
+    "phone": "04 567 1838"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt99cf1330b29bbde3/68bf5f212169c0d02adadbed/untitled-1_0042_naenae-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Naenae! This store is over 45 years old and the current owners have been in store for ten years. We are proud to provide good service to our local community.",
+    "socialLinks": []
+  }
+}

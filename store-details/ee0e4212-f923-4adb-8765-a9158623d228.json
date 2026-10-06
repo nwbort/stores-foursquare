@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Ruawai",
+  "url": "/upper-north-island/northland/ruawai",
+  "storeId": "{EE0E4212-F923-4ADB-8765-A9158623D228}",
+  "sitecoreId": 1570,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "15 Freyberg Road, Ruawai, Kaipara 0530",
+    "latitude": -36.135754,
+    "longitude": 174.024288,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Omar.amiri@4sq.co.nz",
+    "phone": "09 439 2011"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3654a818c273bb87/68bf5e58e50061a2e800f42f/4sq-ruawai---theva.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Ruawai. Located in the heart of New Zealand's kumara capital, the store offers a wide range of everyday essentials, fresh produce, meat, liquor, Lotto and friendly local service. The owner operators, Vimal and Sally, are proud to support the local community and along with their awesome team, work hard to meet customer and community needs. See you at your local!",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/Ruawai4SQ/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

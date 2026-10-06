@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Netherby",
+  "url": "/south-island/canterbury/netherby",
+  "storeId": "{51750F4E-21A6-40F3-8DC9-618DDD3D2FB0}",
+  "sitecoreId": 1626,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Bridge Street, Netherby, Ashburton 7700",
+    "latitude": -43.903262,
+    "longitude": 171.763207,
+    "island": "south",
+    "region": "South Island",
+    "email": "netherby@foursquare-si.co.nz",
+    "phone": "03 308 6020"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Deli",
+    "Bait",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltdecf0f86bc6499e5/68bf5f95dbb4f932d0b5d566/untitled-1_0014_netherby-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Netherby, a local supermarket owned and operated by Kim Woods. We offer a great range of everyday essentials, ready-to-go lunch options, and have a fantastic bakery that our customers love. We are the perfect stop for before school, morning tea, after school, and after-work pick-ups. We take great pride in supporting local events throughout Ashburton and love getting to know our regular customers by name.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Te Aroha",
+  "url": "/upper-north-island/waikato/te-aroha",
+  "storeId": "{61E2D301-AB1F-42FF-BF23-8F8A306A4C58}",
+  "sitecoreId": 5563,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "122 Whitaker Street, Te Aroha, 3320",
+    "latitude": -37.543899,
+    "longitude": 175.713241,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "foursquaretearoha@gmail.com",
+    "phone": "07 884 7677"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Te Aroha. We're a local supermarket owned and operated by Rick Silby and Jing Shen. We strive to have the freshest offer of produce and meat we can present along with a wide range of everyday essentials to make us a true one stop shop, we also have the best tasting Chicken & Chips in town! We love interacting with our customers and sharing our passion for fresh and healthy food and enjoy being involved in the community through sponsorships or events. Helping out our local food charity - the Kai Shed - is a cause close to our hearts.",
+    "socialLinks": []
+  }
+}

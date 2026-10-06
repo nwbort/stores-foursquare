@@ -1,0 +1,67 @@
+{
+  "title": "Four Square M\u0101tangi",
+  "url": "/upper-north-island/waikato/matangi",
+  "storeId": "{CAD80AE4-BEF9-424D-B45C-BD80754C8C3B}",
+  "sitecoreId": 1485,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "453 Tauwhare Road, M\u0101tangi, Hamilton 3260",
+    "latitude": -37.804292,
+    "longitude": 175.395055,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 829 5876"
+  },
+  "services": [
+    "Alcohol",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "NZ Post",
+    "Produce"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

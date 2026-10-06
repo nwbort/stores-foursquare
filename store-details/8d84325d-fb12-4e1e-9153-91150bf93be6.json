@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Onehunga",
+  "url": "/upper-north-island/auckland/onehunga",
+  "storeId": "{8D84325D-FB12-4E1E-9153-91150BF93BE6}",
+  "sitecoreId": 998833,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "310 Onehunga Mall, Onehunga, Auckland 1061",
+    "latitude": -36.918649,
+    "longitude": 174.784427,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 558 2807"
+  },
+  "services": [
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Produce",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt81c8282c1a87b37e/68bf5e34bf77ef3039f0405a/onehunga_owner-1_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Onehunga offers a wide range of everyday essentials, fresh foods, self-checkouts, along with a great range of convenient meal solutions including sushi, croissants, barista-made Flight coffee and food-to-go options from premium bakers, Daily Bread and Dedwood Deli. ",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/4SquareOnehunga ",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

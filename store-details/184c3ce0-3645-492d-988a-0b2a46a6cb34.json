@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Tapawera",
+  "url": "/south-island/nelson/tapawera",
+  "storeId": "{184C3CE0-3645-492D-988A-0B2A46A6CB34}",
+  "sitecoreId": 1650,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "92 Main Road, Tapawera 7055",
+    "latitude": -41.389002,
+    "longitude": 172.823664,
+    "island": "south",
+    "region": "South Island",
+    "email": "tapawera@foursquare-si.co.nz",
+    "phone": "03 522 4010"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "NZ Post agency"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd5dd6f6fd56922e2/68bf5f8b2169c0e044dadc2b/untitled-1_0004_tapawera-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Murray & Sharon welcome you to Four Square Tapawera.",
+    "socialLinks": []
+  }
+}

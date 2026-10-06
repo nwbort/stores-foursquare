@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Maungaturoto",
+  "url": "/upper-north-island/northland/maungaturoto",
+  "storeId": "{E67F1A31-08FF-42F4-AD77-1DE6B386DA3C}",
+  "sitecoreId": 1567,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "163 Hurndall Street East, West, Maungaturoto 0520",
+    "latitude": -36.11128,
+    "longitude": 174.352289,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "maungaturoto.foursquare@foodstuffs.co.nz",
+    "phone": "09 431 8700"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Flowers",
+    "Butchery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1f79d5596bc4d5dc/68bf5f24dbb4f97a6bb5d528/untitled-1_0045_maungaturoto-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are committed to have everyday essential range of products which customers need and have a wide range of Value and Pams products and to provide the freshest products! Our team strive to provide the best local service to our customers. We support and donate to local fundraising events and clubs. We\u2019re also proud to support local suppliers in our store. This store has been in the family for over ten years. The family have been grocers since the 1960s! ",
+    "socialLinks": []
+  }
+}

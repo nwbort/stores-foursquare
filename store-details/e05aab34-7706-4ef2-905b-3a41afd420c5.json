@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Horahora",
+  "url": "/upper-north-island/northland/horahora",
+  "storeId": "{E05AAB34-7706-4EF2-905B-3A41AFD420C5}",
+  "sitecoreId": 1581,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "121 Maunu Road, Woodhill, Whangarei 0110",
+    "latitude": -35.734359,
+    "longitude": 174.305161,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "fosters.foursquare@foodstuffs.co.nz",
+    "phone": "09 438 3234"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8fb52e9fa816c99a/68bf5eef046c90588907311b/untitled-1_0002_fosters.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We stock fruit and veg from our local suppliers produce and sponsor the nearby rugby team!",
+    "socialLinks": []
+  }
+}

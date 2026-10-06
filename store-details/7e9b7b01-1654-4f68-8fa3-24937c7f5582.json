@@ -1,0 +1,75 @@
+{
+  "title": "Four Square Owaka",
+  "url": "/south-island/otago/owaka",
+  "storeId": "{7E9B7B01-1654-4F68-8FA3-24937C7F5582}",
+  "sitecoreId": 1633,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4 Ovenden Street, Owaka 9535",
+    "latitude": -46.4513253,
+    "longitude": 169.66054800000006,
+    "island": "south",
+    "region": "South Island",
+    "email": "owaka@foursquare-si.co.nz",
+    "phone": "03 415 8201"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Ice",
+    "Seafood",
+    "Bait",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltba9a349785e45df4/6abb2e385223165270a08c8e/website_pics.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Owaka.\n\nWe\u2019re your friendly, locally owned, and operated supermarket in the heart of the beautiful Catlins. Currently owned by Will Thomson, our purpose-built store makes shopping easy for locals and visitors alike, with everyday essentials, fresh food, and a few hidden gems along the way.\n\nWe take pride in stocking what our community needs, and if we don\u2019t have it, we\u2019ll do our best to find it or suggest something new to try. From fresh local products to service with a smile, we believe in keeping things simple, friendly, and local.\n\nBeyond the shelves, we love supporting community events, clubs, and gatherings that help keep the Catlins spirit strong. Whether you\u2019re exploring our stunning region or popping in for your weekly shop, we look forward to welcoming you to Four Square Owaka, where good service and community come together.",
+    "socialLinks": []
+  }
+}

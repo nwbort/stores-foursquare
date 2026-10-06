@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Rosebank",
+  "url": "/south-island/otago/rosebank",
+  "storeId": "{6B7075C3-59E8-41B4-BC01-BD1A6EDCB7F4}",
+  "sitecoreId": 1643,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "5:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "5:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "180 Clyde Street, Balclutha 9230",
+    "latitude": -46.2421048,
+    "longitude": 169.72856330000002,
+    "island": "south",
+    "region": "South Island",
+    "email": "rosebank@foursquare-si.co.nz",
+    "phone": "03 418 0811"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd2f8f4e2e5d6d4e2/68bf5f8f046c901807073169/untitled-1_0007_rosebank-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Rosebank has existed for 70 years at the southern end of Balclutha. The current owner, Bruce, has owned the business for 20 years and has upgraded and expanded the store over this time. We are proud to support our local community offering a complete shopping experience for in store customers and delivering to residents. Supporting local suppliers is a focus for our store and the ranges we offer are popular with customers. Our main focus however is still providing the \u201cold fashioned\u201d service with great customer contact.",
+    "socialLinks": []
+  }
+}

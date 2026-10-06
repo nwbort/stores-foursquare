@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Tekapo",
+  "url": "/south-island/canterbury/tekapo",
+  "storeId": "{D8AA4EEF-5B03-4A91-8B29-3073BB4C8665}",
+  "sitecoreId": 1653,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "State Highway 8 22 Rapuwai Lane, Tekapo-Twizel Road, Lake Tekapo 7999",
+    "latitude": -44.002612,
+    "longitude": 170.475796,
+    "island": "south",
+    "region": "South Island",
+    "email": "tekapo@foursquare-si.co.nz;jason.jeffries@fssi.co.nz",
+    "phone": "03 680 6809"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Electric Car Charging",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltae6678560c299bdd/68bf5f7bdbb4f9bc40b5d552/tekapo_family_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Tekapo. We're a family-owned local supermarket in Lake Tekapo that has been in operation since 1985. In 2017, the store relocated to a new building with a remarkable view and offers a variety of products including fresh meat, produce, sushi, pies, and beverages. Owned and operated by second generation grocers, Jason and Casey Jeffries, you will find the third generation stacking the shelves before they head to school. We love our community and are proud to provide free fruit for the school, sponsorship for local sports teams as well as supporting a number of local events.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/tekapofoursquare/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

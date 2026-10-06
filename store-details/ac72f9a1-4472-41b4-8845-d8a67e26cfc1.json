@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Onetangi",
+  "url": "/upper-north-island/auckland/onetangi",
+  "storeId": "{AC72F9A1-4472-41B4-8845-D8A67E26CFC1}",
+  "sitecoreId": 2001,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Eden Terrace, Onetangi, Waiheke Island, 1081",
+    "latitude": -36.7925769493184,
+    "longitude": 175.0797047670212,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "online@foursquare.co.nz",
+    "phone": "09 372 2884"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Bait",
+    "Real Fruit Ice Cream",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt00a7d3249a5c903b/68bf5ee2d1f0fafabc0f3b5e/onetangi560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Onetangi, a brand-new grocery store opened in Dec 2021 by Jerry & Parmjit Kaur. We had been running a dairy store for 14 years and felt that our community needed a grocery store. We offer a great range of fresh produce, essentials, and food to go. Our customers love our chicken and chips, which we offer 7 days a week, great for a quick and affordable lunch. We're proud to be part of our local community and support the local school and community groups, along with donating food to our local food bank every week.",
+    "socialLinks": []
+  }
+}

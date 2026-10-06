@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Waverley",
+  "url": "/lower-north-island/taranaki/waverley",
+  "storeId": "{E93480C2-5931-405A-BAA8-AD2C4918377E}",
+  "sitecoreId": 1345,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "48 Weraroa Road, Waverley 4510",
+    "latitude": -39.7637089,
+    "longitude": 174.634325,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "waverley.4square@foodstuffs.co.nz",
+    "phone": "06 346 5014"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltbb168ee424fb844c/68bf5ef0046c900ff307311f/untitled-1_0002_waverley-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a New Zealand family owned business that lives locally and supports our local community. As the local Waverley supermarket we are proud to employ people from our local surrounding communities and do our very best to ensure our local community has everything it needs. Our goal is to provide our local community with the best possible customer service and provide the best possible work environment for our amazing staff. We look forward to seeing you all in store.",
+    "socialLinks": []
+  }
+}

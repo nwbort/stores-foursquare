@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Moturoa",
+  "url": "/lower-north-island/taranaki/moturoa",
+  "storeId": "{0D46DEBA-E1BB-4FEE-A562-086770FA05D5}",
+  "sitecoreId": 1329,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "3 Lawry Street Moturoa, New Plymouth 4310",
+    "latitude": -39.0633748,
+    "longitude": 174.04591089999997,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "mad.grocer@xtra.co.nz",
+    "phone": "06 751 1372"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltbfe9dada7f0537ef/68bf5f227fb401c4261ef543/untitled-1_0043_moturoa-tteam.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We like to stock local suppliers and support community groups like Age Concern, Taranaki Retreat, and our local schools nearby. We\u2019ve owned the store for 16 years and enjoy rugby and craft beer which we have a good range. We like to support local brewers like Mike\u2019s, Shining Peak, Three Sisters, and Coast to name a few. We are famous for The Slacks shooting a music video in store and then later having a part in the next one which was a lot of fun. Happy days! ",
+    "socialLinks": []
+  }
+}

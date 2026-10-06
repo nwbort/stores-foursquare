@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Kaponga",
+  "url": "/lower-north-island/taranaki/kaponga",
+  "storeId": "{446B820B-A459-4EC9-B1A4-2295C3925FCD}",
+  "sitecoreId": 1327,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "53 Victoria Street, Kaponga, 4679",
+    "latitude": -39.42925,
+    "longitude": 174.150435,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "Molly.Steiner@foodstuffs.co.nz",
+    "phone": "06 764 6837"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1a8d26474e6ca650/68bf5f31e500615f7a00f4a1/untitled-1_0054_kaponga-team-1.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Kaponga Four Square is in a small rural town where community is the heart of the store. It's owned and operated by Molly and Ben Steiner, and their young baby Oswald, who both have generational connections with the area. We along with our team have become friends with nearly everyone who comes into the store, and we're in and around the community supporting local schools, sports clubs, and community groups. We stock local suppliers, our food to go area is bursting with goodness and of course we stock Swiss sausages.",
+    "socialLinks": []
+  }
+}

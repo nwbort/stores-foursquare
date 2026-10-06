@@ -1,0 +1,67 @@
+{
+  "title": "Four Square \u014ckato",
+  "url": "/lower-north-island/taranaki/okato",
+  "storeId": "{AF49140F-089D-45B2-B571-857DDF6FA489}",
+  "sitecoreId": 1331,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "66 Carthew Street, \u014ckato 4335",
+    "latitude": -39.191166,
+    "longitude": 173.879697,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.okato@foodstuffs.co.nz",
+    "phone": "06 752 4014"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt46d5c98a67530823/68bf5f1ed1f0fa4e6e0f3b6e/untitled-1_0038_okato-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Ravi and Sangita Kumar are the proud new owners of Okato Four Square. They joined the Foodstuffs family eleven years ago and are looking forward to bringing their experience to Okato Four Square and offering a unique shopping experience to the local community. They feel privileged to be in such a beautiful part of New Zealand and love the community spirit of Okato.  They have everything you need to keep you stocked up with our great range of food to go, groceries, fresh produce, meat, bakery, chilled beer and wine. Best of all, they have a great team that always welcomes you with a big smile! If there is anything you want to see on the shelves then make sure you tell them. Thanks for your support and they look forward to meeting you at your local, Four Square Okato.",
+    "socialLinks": []
+  }
+}

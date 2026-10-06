@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Parua Bay",
+  "url": "/upper-north-island/northland/parua-bay",
+  "storeId": "{2C3F687E-97C7-4F63-B600-865D090BDF71}",
+  "sitecoreId": 1584,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1379 Whangarei Heads Road, Northland, Parua Bay 0174",
+    "latitude": -35.769301,
+    "longitude": 174.480725,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "parua.foursquare@foodstuffs.co.nz",
+    "phone": "09 436 2740"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Ice",
+    "Lotto",
+    "Butchery",
+    "Bait"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltf2a971cb5790b37b/68bf5f037fb4010a701ef533/untitled-1_0011_team-photo--parua-bay-4-square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Parua Bay, a local supermarket established in 2009. Owned and operated by Claire Cadelina, we offer fresh produce, meats, meal solutions, and a variety of dietary options. We love seeing the community grow and support local events, fundraising & donations. We love getting to know and interacting with our customers, our dear locals and visitors in the area.",
+    "socialLinks": []
+  }
+}

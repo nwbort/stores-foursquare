@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Franz Josef",
+  "url": "/south-island/west-coast/franz-josef",
+  "storeId": "{C64E9412-E6EE-4114-A726-40CC6FF18FE7}",
+  "sitecoreId": 1604,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:45am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "24 Main State Highway 6, Franz Josef, 7856",
+    "latitude": -43.3877021,
+    "longitude": 170.1818912,
+    "island": "south",
+    "region": "South Island",
+    "email": "franzjosef@foursquare-si.co.nz",
+    "phone": "03 752 0177"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt708b6fa37d41d4f7/68bf5e225aad50fa6ee35d94/franz_josef_owner1_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Locally owned and operated, Josh and Kirsty Flavell and the team know how to look after you, with friendly service every time. Fresh foods are our specialty with fresh fruit, vegetables, meats and our very own in store bakery making fresh breads every day. Food to go and easy meal solutions on offer, a great range of New Zealand beer and wines. We are very proud to be a part of South Westland, and the beautiful rugged West Coast. We give back to our community by continually supporting all local organisations throughout the district, from the rugby team to the St John Ambulance team and everything in between.\u00a0",
+    "socialLinks": []
+  }
+}

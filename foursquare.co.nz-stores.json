@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "00db2959-5538-4491-8c79-37ad08f37849",
+    "sitecoreId": 20062,
+    "name": "Four Square Heaphy Terrace",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/heaphy-terrace"
+  },
+  {
+    "id": "01cd7d92-b3d8-40aa-a344-ee48d903088a",
+    "sitecoreId": 1473,
+    "name": "Four Square Paeroa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/paeroa"
+  },
+  {
+    "id": "02d65524-61ec-44c5-ae80-ce5177649f82",
+    "sitecoreId": 86036,
+    "name": "Four Square Waipapa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/waipapa"
+  },
+  {
+    "id": "03e13379-6aa5-4035-9ee0-e60f52e7295b",
+    "sitecoreId": 37163,
+    "name": "Four Square Ohauiti",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/ohauiti"
+  },
+  {
+    "id": "0654cf10-122a-4f2b-a8d2-488c8ecfcfcb",
+    "sitecoreId": 1618,
+    "name": "Four Square Mackenzie",
+    "region": "South Island",
+    "url": "/south-island/canterbury/mackenzie"
+  },
+  {
+    "id": "08a8dd29-871a-4ce1-9b15-fd787c8579ec",
+    "sitecoreId": 1309,
+    "name": "Four Square Foxton Beach",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/foxton-beach"
+  },
+  {
+    "id": "09f332d3-b190-4d01-b663-5cb04172fe6f",
+    "sitecoreId": 1557,
+    "name": "Four Square Western Heights",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/western-heights"
+  },
+  {
+    "id": "0bce4aff-5875-4d9b-823b-d69258a86aab",
+    "sitecoreId": 1660,
+    "name": "Four Square Wakefield",
+    "region": "South Island",
+    "url": "/south-island/nelson/wakefield"
+  },
+  {
+    "id": "0cb25657-23d4-4dac-84ad-56b98a035745",
+    "sitecoreId": 1613,
+    "name": "Four Square Karamea",
+    "region": "South Island",
+    "url": "/south-island/west-coast/karamea"
+  },
+  {
+    "id": "0d137b51-a7a0-429b-9ef7-89bbc686ffb1",
+    "sitecoreId": 1295,
+    "name": "Four Square M\u0101rewa",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/marewa"
+  },
+  {
+    "id": "0d46deba-e1bb-4fee-a562-086770fa05d5",
+    "sitecoreId": 1329,
+    "name": "Four Square Moturoa",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/moturoa"
+  },
+  {
+    "id": "0e6a8d76-b60f-4037-92fa-a06929cb47db",
+    "sitecoreId": 1287,
+    "name": "Four Square Ahuriri",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/ahuriri"
+  },
+  {
+    "id": "10029238-905a-4f55-8c41-5f4e60f262ca",
+    "sitecoreId": 1348,
+    "name": "Four Square Martinborough",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wairarapa/martinborough"
+  },
+  {
+    "id": "112ea58e-27e5-401d-8f47-13583dc852a6",
+    "sitecoreId": 1656,
+    "name": "Four Square Tuatapere",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/tuatapere"
+  },
+  {
+    "id": "13334012-8847-4aba-aa73-feb414c3c28e",
+    "sitecoreId": 998811,
+    "name": "Four Square Remuera",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/remuera"
+  },
+  {
+    "id": "13b2e89f-51ea-4419-a583-0be7e881f4ed",
+    "sitecoreId": 1336,
+    "name": "Four Square Aramoho",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/aramoho"
+  },
+  {
+    "id": "147b3722-8ea1-4824-a36c-d1c261a68457",
+    "sitecoreId": 1577,
+    "name": "Four Square Papamoa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/papamoa"
+  },
+  {
+    "id": "14a3cbae-0d0f-44f7-baf5-7dc7de78ba90",
+    "sitecoreId": 1587,
+    "name": "Four Square Queenstown",
+    "region": "South Island",
+    "url": "/south-island/otago/queenstown"
+  },
+  {
+    "id": "14aec33d-62bf-440b-a45b-9d8b035d7e9e",
+    "sitecoreId": 1417,
+    "name": "Four Square Coopers Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/coopers-beach"
+  },
+  {
+    "id": "15538bc5-bc3d-40d2-9dec-6966a1bc0edc",
+    "sitecoreId": 1480,
+    "name": "Four Square Ruat\u014dria",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/east-cape/ruatoria"
+  },
+  {
+    "id": "184c3ce0-3645-492d-988a-0b2a46a6cb34",
+    "sitecoreId": 1650,
+    "name": "Four Square Tapawera",
+    "region": "South Island",
+    "url": "/south-island/nelson/tapawera"
+  },
+  {
+    "id": "1925bba8-ca20-491d-96b3-743054fc66fd",
+    "sitecoreId": 998899,
+    "name": "Four Square Mount Maunganui",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/mount-maunganui"
+  },
+  {
+    "id": "19a669f6-e91b-4330-a2db-6aa26d4f248b",
+    "sitecoreId": 1319,
+    "name": "Four Square Wait\u0101rere",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/waitarere"
+  },
+  {
+    "id": "1aa8078d-168e-4438-a95a-6eaac7caa2df",
+    "sitecoreId": 1652,
+    "name": "Four Square Te Anau",
+    "region": "South Island",
+    "url": "/south-island/fiordland/te-anau"
+  },
+  {
+    "id": "1bd978f9-e09f-48a8-b8b4-3a35ecfdbbb6",
+    "sitecoreId": 1556,
+    "name": "Four Square Te Ngae",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/te-ngae"
+  },
+  {
+    "id": "1e78d003-a80e-4dbb-bce3-2276710ba747",
+    "sitecoreId": 1318,
+    "name": "Four Square Ashhurst",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/ashhurst"
+  },
+  {
+    "id": "1e88563b-b97e-4a88-b97a-50b3942b3f46",
+    "sitecoreId": 9999991,
+    "name": "Four Square Cambridge",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/cambridge"
+  },
+  {
+    "id": "1f0acda6-31f0-4917-a90b-10be8cd29e02",
+    "sitecoreId": 62664,
+    "name": "Four Square Gulf Harbour",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/gulf-harbour"
+  },
+  {
+    "id": "201c7b48-809d-40a8-a8cb-051a6825ef59",
+    "sitecoreId": 1608,
+    "name": "Four Square Hanmer Springs",
+    "region": "South Island",
+    "url": "/south-island/canterbury/hanmer-springs"
+  },
+  {
+    "id": "20dcd2a9-9d99-481b-8223-af1b9867e017",
+    "sitecoreId": 1597,
+    "name": "Four Square Cheviot",
+    "region": "South Island",
+    "url": "/south-island/canterbury/cheviot"
+  },
+  {
+    "id": "22b37d24-e5a4-499a-811b-179c03e7c85b",
+    "sitecoreId": 1655,
+    "name": "Four Square Methven",
+    "region": "South Island",
+    "url": "/south-island/canterbury/methven"
+  },
+  {
+    "id": "28051fde-5413-4897-a9ff-960e75ba92e9",
+    "sitecoreId": 1603,
+    "name": "Four Square Fairlie",
+    "region": "South Island",
+    "url": "/south-island/canterbury/fairlie"
+  },
+  {
+    "id": "2a5b9484-653a-466f-be62-18c162ef798d",
+    "sitecoreId": 1378,
+    "name": "Four Square T\u012btahi Bay",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/titahi-bay"
+  },
+  {
+    "id": "2a8a3352-e5d0-4483-bdae-4fc75a76e38c",
+    "sitecoreId": 1589,
+    "name": "Four Square Ascot",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/ascot"
+  },
+  {
+    "id": "2c3f687e-97c7-4f63-b600-865d090bdf71",
+    "sitecoreId": 1584,
+    "name": "Four Square Parua Bay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/parua-bay"
+  },
+  {
+    "id": "2c72948a-8266-4c93-8aba-6e75d32245a3",
+    "sitecoreId": 1364,
+    "name": "Four Square Naenae",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/naenae"
+  },
+  {
+    "id": "2ee3d746-bbe8-4a02-b947-578b3dc29392",
+    "sitecoreId": 1559,
+    "name": "Four Square Lake Taupo",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/lake-taupo"
+  },
+  {
+    "id": "2fb520e9-3367-4501-b491-4a70ab33e1c9",
+    "sitecoreId": 85993,
+    "name": "Four Square Albert Town",
+    "region": "South Island",
+    "url": "/south-island/otago/albert-town"
+  },
+  {
+    "id": "301648d8-4bcd-4680-824f-a9c1e061222b",
+    "sitecoreId": 1622,
+    "name": "Four Square Outram",
+    "region": "South Island",
+    "url": "/south-island/otago/outram"
+  },
+  {
+    "id": "307c52fe-e9f1-464e-9475-be8479903ad6",
+    "sitecoreId": 59671,
+    "name": "Four Square Waipawa",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/waipawa"
+  },
+  {
+    "id": "308d685e-b7ad-4f80-b6c7-0e25755b4042",
+    "sitecoreId": 1615,
+    "name": "Four Square Lawrence",
+    "region": "South Island",
+    "url": "/south-island/otago/lawrence"
+  },
+  {
+    "id": "32cbd661-f464-4936-8a9c-6d9799c79366",
+    "sitecoreId": 1566,
+    "name": "Four Square Matakana",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/matakana"
+  },
+  {
+    "id": "336340bd-4616-428f-9285-393e0dd9dc9f",
+    "sitecoreId": 1369,
+    "name": "Four Square Raumati Beach",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/raumati-beach"
+  },
+  {
+    "id": "359338c0-04ab-471b-bd80-f2eeb41deda4",
+    "sitecoreId": 1358,
+    "name": "Four Square Paraparaumu",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/paraparaumu"
+  },
+  {
+    "id": "35b6715a-8e1d-456b-b0de-4d392826c941",
+    "sitecoreId": 1610,
+    "name": "Four Square Hawarden",
+    "region": "South Island",
+    "url": "/south-island/canterbury/hawarden"
+  },
+  {
+    "id": "3a16229a-ceab-4a38-b4ca-45872bd62f3f",
+    "sitecoreId": 1340,
+    "name": "Four Square P\u0101tea",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/patea"
+  },
+  {
+    "id": "3a5ee350-6423-4871-9de9-bd03cfd498dc",
+    "sitecoreId": 58295,
+    "name": "Four Square Hillcrest",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/hillcrest"
+  },
+  {
+    "id": "3b0c2179-a933-401b-afc1-da728e06291f",
+    "sitecoreId": 1627,
+    "name": "Four Square Newfield",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/newfield"
+  },
+  {
+    "id": "3c9adffc-5df7-4971-a198-6d56741aec07",
+    "sitecoreId": 1326,
+    "name": "Four Square New \u014cpunake",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/new-opunake"
+  },
+  {
+    "id": "3d64e158-e13b-4238-a5cb-c494830f19ce",
+    "sitecoreId": 1388,
+    "name": "Four Square Botany Junction",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/botany-junction"
+  },
+  {
+    "id": "3e0c3294-aee0-4fed-874a-7fe110d8f4b0",
+    "sitecoreId": 1337,
+    "name": "Four Square National Park",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/national-park"
+  },
+  {
+    "id": "41314556-6cb7-4d3f-9b84-941314c3fc8a",
+    "sitecoreId": 1641,
+    "name": "Four Square Reefton",
+    "region": "South Island",
+    "url": "/south-island/west-coast/reefton"
+  },
+  {
+    "id": "414ede04-5502-4acc-8044-07b0d76e98b1",
+    "sitecoreId": 1293,
+    "name": "Four Square Mahora",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/mahora"
+  },
+  {
+    "id": "419f9182-44ef-44ed-a4f6-3647069d5922",
+    "sitecoreId": 1412,
+    "name": "Four Square \u014cp\u014dtiki",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/opotiki"
+  },
+  {
+    "id": "446b820b-a459-4ec9-b1a4-2295c3925fcd",
+    "sitecoreId": 1327,
+    "name": "Four Square Kaponga",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/kaponga"
+  },
+  {
+    "id": "48c2aefd-74a0-4689-b18a-79e6d52366be",
+    "sitecoreId": 1420,
+    "name": "Four Square Kaiwaka",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/kaiwaka"
+  },
+  {
+    "id": "49b4439a-6ee0-404b-9955-b7879b5d06a8",
+    "sitecoreId": 1575,
+    "name": "Four Square Cherrywood",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/cherrywood"
+  },
+  {
+    "id": "49c6b3e6-ee50-40b5-916a-aeadacb15f74",
+    "sitecoreId": 1432,
+    "name": "Four Square Waimamaku",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/waimamaku"
+  },
+  {
+    "id": "4b19fd6b-2423-4f0f-8792-d0a13172de51",
+    "sitecoreId": 1552,
+    "name": "Four Square Fordlands",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/fordlands"
+  },
+  {
+    "id": "4b72b5f7-1b89-459d-9e84-05d9f5d21145",
+    "sitecoreId": 1355,
+    "name": "Four Square Eastbourne",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/eastbourne"
+  },
+  {
+    "id": "4ba2e3d8-7492-4aaa-9060-6c29d6a09058",
+    "sitecoreId": 1294,
+    "name": "Four Square Maraenui",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/maraenui"
+  },
+  {
+    "id": "4e92b776-4ff4-4914-a3c5-b75cbb928c39",
+    "sitecoreId": 1298,
+    "name": "Four Square Taradale",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/taradale"
+  },
+  {
+    "id": "4edfba6c-574f-4361-9696-21d6d39d634e",
+    "sitecoreId": 1421,
+    "name": "Four Square K\u0101eo",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/kaeo"
+  },
+  {
+    "id": "4f5dc960-8b89-4449-9438-6569cdd1e3e2",
+    "sitecoreId": 9989898989108,
+    "name": "Four Square Put\u0101ruru",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/putaruru"
+  },
+  {
+    "id": "4f5dc960-8b89-4449-9438-6569cdd1e3eb",
+    "sitecoreId": 99999923,
+    "name": "Four Square Snells Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/snells-beach"
+  },
+  {
+    "id": "4fc42844-adcb-4cdd-89e9-663fc5226053",
+    "sitecoreId": 1579,
+    "name": "Four Square Te Puna",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/te-puna"
+  },
+  {
+    "id": "4fd59576-eb32-4d85-9d83-214937047238",
+    "sitecoreId": 1387,
+    "name": "Four Square Torbay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/torbay"
+  },
+  {
+    "id": "50769f92-acbf-46b3-ac24-4f87568eca54",
+    "sitecoreId": 1306,
+    "name": "Four Square Cloverlea",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/cloverlea"
+  },
+  {
+    "id": "50f6d33e-94e8-4f40-afbf-e817ee629180",
+    "sitecoreId": 1438,
+    "name": "Four Square Thames",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/thames"
+  },
+  {
+    "id": "51750f4e-21a6-40f3-8dc9-618ddd3d2fb0",
+    "sitecoreId": 1626,
+    "name": "Four Square Netherby",
+    "region": "South Island",
+    "url": "/south-island/canterbury/netherby"
+  },
+  {
+    "id": "520d2898-12b1-40df-9a41-669d2d7c2f90",
+    "sitecoreId": 1304,
+    "name": "Four Square Awapuni",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/awapuni"
+  },
+  {
+    "id": "5289d127-dc1b-4c7f-ab77-8ee9607ebf07",
+    "sitecoreId": 1410,
+    "name": "Four Square Katikati",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/katikati"
+  },
+  {
+    "id": "53e2e904-6816-45ad-92fc-1a5f7a563682",
+    "sitecoreId": 1648,
+    "name": "Four Square Stafford Street",
+    "region": "South Island",
+    "url": "/south-island/west-coast/stafford-street"
+  },
+  {
+    "id": "5401b90c-2411-428c-990f-89bb575395b1",
+    "sitecoreId": 8268,
+    "name": "Four Square Britomart",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/britomart"
+  },
+  {
+    "id": "56f1698e-fd11-46f1-8019-bda7fb5f7e1c",
+    "sitecoreId": 1312,
+    "name": "Four Square Hokowhitu",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/hokowhitu"
+  },
+  {
+    "id": "59dd3199-8757-408c-9022-53395328a719",
+    "sitecoreId": 1320,
+    "name": "Four Square Woodville",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/woodville"
+  },
+  {
+    "id": "59fa0a3a-bba4-4b71-adb3-c9b0b30d07cc",
+    "sitecoreId": 1360,
+    "name": "Four Square Kelburn",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/kelburn"
+  },
+  {
+    "id": "5b388781-939d-47de-8709-faca216fc7d3",
+    "sitecoreId": 1472,
+    "name": "Four Square Ng\u0101tea",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/ngatea"
+  },
+  {
+    "id": "5c1cc817-4a0a-4ee2-afc4-f300f0eea803",
+    "sitecoreId": 53880,
+    "name": "Four Square Welcome Bay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/welcome-bay"
+  },
+  {
+    "id": "5db6e94c-cae7-49e3-bdb1-5486bdb59ef7",
+    "sitecoreId": 1339,
+    "name": "Four Square Whanganui East",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/whanganui-east"
+  },
+  {
+    "id": "5ed19d57-b947-4ffd-a1bb-660770df96e9",
+    "sitecoreId": 1401,
+    "name": "Four Square Oneroa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/oneroa"
+  },
+  {
+    "id": "601f1531-5e54-4f7e-978d-8bd6e1d2ab2d",
+    "sitecoreId": 1637,
+    "name": "Four Square Wyndham",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/wyndham"
+  },
+  {
+    "id": "61e2d301-ab1f-42ff-bf23-8f8a306a4c58",
+    "sitecoreId": 5563,
+    "name": "Four Square Te Aroha",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/te-aroha"
+  },
+  {
+    "id": "61e44711-2562-4abc-a757-dcf5c2be21ee",
+    "sitecoreId": 1625,
+    "name": "Four Square Murchison",
+    "region": "South Island",
+    "url": "/south-island/nelson/murchison"
+  },
+  {
+    "id": "64fb712d-7e6e-4587-bcf1-62a4f844541b",
+    "sitecoreId": 1590,
+    "name": "Four Square Atawhai",
+    "region": "South Island",
+    "url": "/south-island/nelson/atawhai"
+  },
+  {
+    "id": "665eadcd-bd8c-4d87-93c8-0906c9d2d849",
+    "sitecoreId": 1479,
+    "name": "Four Square Matakaoa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/east-cape/matakaoa"
+  },
+  {
+    "id": "6b6ece14-bc73-4638-98ce-b009a10bdc69",
+    "sitecoreId": 1428,
+    "name": "Four Square Opononi",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/opononi"
+  },
+  {
+    "id": "6b7075c3-59e8-41b4-bc01-bd1a6edcb7f4",
+    "sitecoreId": 1643,
+    "name": "Four Square Rosebank",
+    "region": "South Island",
+    "url": "/south-island/otago/rosebank"
+  },
+  {
+    "id": "6ce39971-32f8-41eb-8e76-49ac91cbba50",
+    "sitecoreId": 1341,
+    "name": "Four Square Raetihi",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/raetihi"
+  },
+  {
+    "id": "6d5256eb-3e6a-469c-b3fc-fdf6512e0173",
+    "sitecoreId": 1296,
+    "name": "Four Square Scott Drive",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/scott-drive"
+  },
+  {
+    "id": "6ffbd6a0-6b06-4dbb-93e2-67c60a61d6dc",
+    "sitecoreId": 1646,
+    "name": "Four Square Spring Creek",
+    "region": "South Island",
+    "url": "/south-island/marlborough/spring-creek"
+  },
+  {
+    "id": "70283c8b-5023-433e-b32e-2bde2e682adc",
+    "sitecoreId": 1657,
+    "name": "Four Square Twizel",
+    "region": "South Island",
+    "url": "/south-island/canterbury/twizel"
+  },
+  {
+    "id": "70291bd4-3ccc-4c49-89d2-ccc072767c50",
+    "sitecoreId": 1429,
+    "name": "Four Square Paihia",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/paihia"
+  },
+  {
+    "id": "72a30363-af9a-4a3e-96e7-eb036bad925d",
+    "sitecoreId": 1419,
+    "name": "Four Square Houhora",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/houhora"
+  },
+  {
+    "id": "73041282-636d-4870-9ad9-383d3684879f",
+    "sitecoreId": 1638,
+    "name": "Four Square Rakaia",
+    "region": "South Island",
+    "url": "/south-island/canterbury/rakaia"
+  },
+  {
+    "id": "743b4beb-44ca-4784-882a-a2858f991032",
+    "sitecoreId": 1654,
+    "name": "Four Square Tokomairiro Milton",
+    "region": "South Island",
+    "url": "/south-island/otago/tokomairiro-milton"
+  },
+  {
+    "id": "7553d29a-77ea-40aa-a30a-da62f91de272",
+    "sitecoreId": 1424,
+    "name": "Four Square Kawakawa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/kawakawa"
+  },
+  {
+    "id": "789dc6d6-5715-45d4-9c88-d79eda66c795",
+    "sitecoreId": 1433,
+    "name": "Four Square Waip\u016b",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/waipu"
+  },
+  {
+    "id": "7ad89916-8716-4ad4-a518-bf2efc66dbdf",
+    "sitecoreId": 1586,
+    "name": "Four Square Akaroa",
+    "region": "South Island",
+    "url": "/south-island/canterbury/akaroa"
+  },
+  {
+    "id": "7b1e7535-b2e5-4359-bd65-9cafbf04c942",
+    "sitecoreId": 1474,
+    "name": "Four Square Pirongia",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/pirongia"
+  },
+  {
+    "id": "7c17e7ec-1851-43db-8dbd-5f9ee9e3fa91",
+    "sitecoreId": 1482,
+    "name": "Four Square Murupara",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/murupara"
+  },
+  {
+    "id": "7c56f341-ee04-40d0-9ffd-ecb60b0b97dd",
+    "sitecoreId": 63866,
+    "name": "Four Square West Melton",
+    "region": "South Island",
+    "url": "/south-island/canterbury/west-melton"
+  },
+  {
+    "id": "7e370dbc-2781-4c4b-b16d-a178065a1654",
+    "sitecoreId": 1292,
+    "name": "Four Square Greenmeadows",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/greenmeadows"
+  },
+  {
+    "id": "7e9b7b01-1654-4f68-8fa3-24937c7f5582",
+    "sitecoreId": 1633,
+    "name": "Four Square Owaka",
+    "region": "South Island",
+    "url": "/south-island/otago/owaka"
+  },
+  {
+    "id": "813fb950-712e-4131-970a-252a339ee1ee",
+    "sitecoreId": 1289,
+    "name": "Four Square Cape View",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/cape-view"
+  },
+  {
+    "id": "84fed294-5fbe-40d2-87b7-61aa1657e1ff",
+    "sitecoreId": 1609,
+    "name": "Four Square Havelock",
+    "region": "South Island",
+    "url": "/south-island/marlborough/havelock"
+  },
+  {
+    "id": "86d054c0-c527-4b78-9357-b583eb678b94",
+    "sitecoreId": 8266,
+    "name": "Four Square Eden Terrace",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/eden-terrace"
+  },
+  {
+    "id": "89f037a4-b720-4514-8cc7-d2b80f52d3a7",
+    "sitecoreId": 1435,
+    "name": "Four Square Coromandel",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/coromandel"
+  },
+  {
+    "id": "8a0109ef-853d-4779-b2f1-4f968f8e8645",
+    "sitecoreId": 1359,
+    "name": "Four Square Karori",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/karori"
+  },
+  {
+    "id": "8b207e54-8de4-474f-b8c7-92eb4e529e6b",
+    "sitecoreId": 1635,
+    "name": "Four Square Picton",
+    "region": "South Island",
+    "url": "/south-island/marlborough/picton"
+  },
+  {
+    "id": "8c473780-1374-4a7b-9ca9-615c475accc7",
+    "sitecoreId": 1426,
+    "name": "Four Square Mang\u014dnui",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/mangonui"
+  },
+  {
+    "id": "8d31d773-3d6f-43e7-988e-63984b4c09d8",
+    "sitecoreId": 1483,
+    "name": "Four Square Tokomaru Bay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/east-cape/tokomaru-bay"
+  },
+  {
+    "id": "8d84325d-fb12-4e1e-9153-91150bf93be6",
+    "sitecoreId": 998833,
+    "name": "Four Square Onehunga",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/onehunga"
+  },
+  {
+    "id": "8df00252-b004-4538-ad87-925ff775047b",
+    "sitecoreId": 1342,
+    "name": "Four Square St Johns",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/st-johns"
+  },
+  {
+    "id": "8f529b38-4d92-4e1d-b9db-1f970c681587",
+    "sitecoreId": 1598,
+    "name": "Four Square Mataura",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/mataura"
+  },
+  {
+    "id": "906b17fc-9c5d-46a0-a524-c12a2afb324c",
+    "sitecoreId": 1630,
+    "name": "Four Square Omarama",
+    "region": "South Island",
+    "url": "/south-island/otago/omarama"
+  },
+  {
+    "id": "91d82e59-3ad7-41ab-8e47-0f16d460d60b",
+    "sitecoreId": 54885,
+    "name": "Four Square Port Chalmers",
+    "region": "South Island",
+    "url": "/south-island/otago/port-chalmers"
+  },
+  {
+    "id": "92fa09fd-2f8f-4fa1-ac0c-505fbf281783",
+    "sitecoreId": 1436,
+    "name": "Four Square Martina",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/martina"
+  },
+  {
+    "id": "934586e0-570d-4f7b-9b49-dccdddda6502",
+    "sitecoreId": 1324,
+    "name": "Four Square Eltham",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/eltham"
+  },
+  {
+    "id": "93c7d397-22a7-4886-8072-f562094a487f",
+    "sitecoreId": 39633,
+    "name": "Four Square Wainui Road",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/east-cape/wainui-road"
+  },
+  {
+    "id": "9545c21c-45be-478c-aea6-1e2cd048473e",
+    "sitecoreId": 1370,
+    "name": "Four Square Raumati South",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/raumati-south"
+  },
+  {
+    "id": "964b74e4-1980-45d4-8d24-c3eccd09fb69",
+    "sitecoreId": 1488,
+    "name": "Four Square Silverdale",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/silverdale"
+  },
+  {
+    "id": "974cda3b-dc5d-4f7b-868e-3e9d5c63b0e8",
+    "sitecoreId": 1402,
+    "name": "Four Square Pakuranga Heights",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/pakuranga-heights"
+  },
+  {
+    "id": "9802fbd7-8c0a-4328-a2f9-5871f74e4a72",
+    "sitecoreId": 1409,
+    "name": "Four Square Blue Moon",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/blue-moon"
+  },
+  {
+    "id": "98adf1f3-0ee7-4f83-bc35-dd0f84ca23d1",
+    "sitecoreId": 1418,
+    "name": "Four Square Hikurangi",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/hikurangi"
+  },
+  {
+    "id": "991d7c49-2e0d-44fa-afd3-fcb65cb544e3",
+    "sitecoreId": 1636,
+    "name": "Four Square Pleasant Point",
+    "region": "South Island",
+    "url": "/south-island/canterbury/pleasant-point"
+  },
+  {
+    "id": "995d257a-60cf-4abf-9f3d-0ca36c74d194",
+    "sitecoreId": 1362,
+    "name": "Four Square Kena Kena",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/kena-kena"
+  },
+  {
+    "id": "9ad22cb4-d6f7-49fc-852d-d23c91e40937",
+    "sitecoreId": 1407,
+    "name": "Four Square Waiau Pa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/waiau-pa"
+  },
+  {
+    "id": "a16f3a0f-4dd3-48d0-b279-3da6b0dc5cd8",
+    "sitecoreId": 42004,
+    "name": "Four Square Edmund Road",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/edmund-road"
+  },
+  {
+    "id": "a4d476a1-a251-485d-a40c-269e0571eda7",
+    "sitecoreId": 1288,
+    "name": "Four Square Bayview",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/bayview"
+  },
+  {
+    "id": "a69614ed-8db2-4912-96d3-e6a9e24b93d9",
+    "sitecoreId": 1395,
+    "name": "Four Square Glen Eden",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/glen-eden"
+  },
+  {
+    "id": "aaf5f45b-66ff-4845-a42f-86762a4f924e",
+    "sitecoreId": 1328,
+    "name": "Four Square Manaia",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/manaia"
+  },
+  {
+    "id": "ac72f9a1-4472-41b4-8845-d8a67e26cfc1",
+    "sitecoreId": 2001,
+    "name": "Four Square Onetangi",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/onetangi"
+  },
+  {
+    "id": "acd23892-482c-4fc1-8164-29e50da36dee",
+    "sitecoreId": 1469,
+    "name": "Four Square Balmoral Drive",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/balmoral-drive"
+  },
+  {
+    "id": "ad5ff277-23ca-4612-9231-d6360c9024b6",
+    "sitecoreId": 1620,
+    "name": "Four Square M\u0101pua",
+    "region": "South Island",
+    "url": "/south-island/nelson/mapua"
+  },
+  {
+    "id": "ada783c4-e671-49b3-95c4-7a1e1f33e329",
+    "sitecoreId": 86037,
+    "name": "Four Square Fergusson Drive",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/fergusson-drive"
+  },
+  {
+    "id": "ae30041d-f060-4d5a-948b-13b118a2943e",
+    "sitecoreId": 13135,
+    "name": "Four Square Stratford",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/stratford"
+  },
+  {
+    "id": "af00c0bd-4cfe-495f-a72c-db5a30576887",
+    "sitecoreId": 1416,
+    "name": "Four Square Russell",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/russell"
+  },
+  {
+    "id": "af448969-518d-43ed-bca9-137fefec7a71",
+    "sitecoreId": 1376,
+    "name": "Four Square Tait\u0101",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/taita"
+  },
+  {
+    "id": "af49140f-089d-45b2-b571-857ddf6fa489",
+    "sitecoreId": 1331,
+    "name": "Four Square \u014ckato",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/okato"
+  },
+  {
+    "id": "b00b0f1a-e572-4049-a743-610978dd68a3",
+    "sitecoreId": 1307,
+    "name": "Four Square Dannevirke",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/dannevirke"
+  },
+  {
+    "id": "b0637805-cb39-48e9-a928-ae0526492007",
+    "sitecoreId": 1662,
+    "name": "Four Square Weston",
+    "region": "South Island",
+    "url": "/south-island/otago/weston"
+  },
+  {
+    "id": "b0698e1d-da6a-4fdf-aeb9-d3dc1d400ec2",
+    "sitecoreId": 2002,
+    "name": "Four Square Marsden Cove",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/marsden-cove"
+  },
+  {
+    "id": "b1035d8f-83f8-40cd-beee-fb66a8cc01d2",
+    "sitecoreId": 1297,
+    "name": "Four Square Takapau",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/takapau"
+  },
+  {
+    "id": "b2b2a630-259f-4b93-81be-c54c5487c0e3",
+    "sitecoreId": 1619,
+    "name": "Four Square Maniototo",
+    "region": "South Island",
+    "url": "/south-island/otago/maniototo"
+  },
+  {
+    "id": "b33d5176-6050-4dba-a55f-b9dcf3959dfc",
+    "sitecoreId": 86038,
+    "name": "Four Square Matarangi",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/matarangi"
+  },
+  {
+    "id": "b4fd6757-8fb4-4ba4-9998-4678c465eb7f",
+    "sitecoreId": 1634,
+    "name": "Four Square Palmerston",
+    "region": "South Island",
+    "url": "/south-island/otago/palmerston"
+  },
+  {
+    "id": "b53c6a4b-474f-41af-9b20-5bbc3b0a5ff8",
+    "sitecoreId": 1600,
+    "name": "Four Square Culverden",
+    "region": "South Island",
+    "url": "/south-island/canterbury/culverden"
+  },
+  {
+    "id": "b607a601-34f0-4441-8d6d-702490b58400",
+    "sitecoreId": 1400,
+    "name": "Four Square Lancaster",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/lancaster"
+  },
+  {
+    "id": "b6ce6441-b419-4389-ab92-0ce1b7e632d7",
+    "sitecoreId": 1475,
+    "name": "Four Square Raglan",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/raglan"
+  },
+  {
+    "id": "b7609be7-c28b-470f-8cb8-bcd44005ffbf",
+    "sitecoreId": 1392,
+    "name": "Four Square Ellerslie",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/ellerslie"
+  },
+  {
+    "id": "b7a426b3-e6d9-4985-a9cb-da6ca385fbc6",
+    "sitecoreId": 1631,
+    "name": "Four Square Otatara",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/otatara"
+  },
+  {
+    "id": "b8009212-211b-4015-9b39-ca2b538fffb7",
+    "sitecoreId": 1366,
+    "name": "Four Square \u014ctaki",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/otaki"
+  },
+  {
+    "id": "ba8bbe6b-1089-4437-8745-b042c452dbb5",
+    "sitecoreId": 1299,
+    "name": "Four Square Te Mata",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/te-mata"
+  },
+  {
+    "id": "babd9bd5-dd79-4a96-b6ee-d6dded7e6ef5",
+    "sitecoreId": 1481,
+    "name": "Four Square Mangapapa",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/east-cape/mangapapa"
+  },
+  {
+    "id": "bd559ab9-5c61-46e1-b302-968c5df5c81a",
+    "sitecoreId": 1334,
+    "name": "Four Square Urenui",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/urenui"
+  },
+  {
+    "id": "bd784f9a-5b7c-455e-864c-e657f40157a7",
+    "sitecoreId": 1614,
+    "name": "Four Square Kurow",
+    "region": "South Island",
+    "url": "/south-island/otago/kurow"
+  },
+  {
+    "id": "c18befc1-96db-4a6b-9eb5-eae01448cbec",
+    "sitecoreId": 1555,
+    "name": "Four Square Selwyn Heights",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/selwyn-heights"
+  },
+  {
+    "id": "c64e9412-e6ee-4114-a726-40cc6ff18fe7",
+    "sitecoreId": 1604,
+    "name": "Four Square Franz Josef",
+    "region": "South Island",
+    "url": "/south-island/west-coast/franz-josef"
+  },
+  {
+    "id": "c7549cd8-c5c5-48b0-84be-796bb24d01da",
+    "sitecoreId": 86199,
+    "name": "Four Square Bombay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/bombay"
+  },
+  {
+    "id": "c8d93ba7-e614-4127-9617-3a6df8078f79",
+    "sitecoreId": 1382,
+    "name": "Four Square Waikanae Beach",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/waikanae-beach"
+  },
+  {
+    "id": "c9444eaa-7388-4cae-8441-140a9e05b6ba",
+    "sitecoreId": 1578,
+    "name": "Four Square Te Puke",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/te-puke"
+  },
+  {
+    "id": "c9e3fca7-f106-4c53-8a60-ecf7232e4220",
+    "sitecoreId": 71074,
+    "name": "Four Square The Lakes",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/the-lakes"
+  },
+  {
+    "id": "ca6f658e-2e30-492d-9e12-e50b0c67be5f",
+    "sitecoreId": 1317,
+    "name": "Four Square Milson",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/milson"
+  },
+  {
+    "id": "cad80ae4-bef9-424d-b45c-bd80754c8c3b",
+    "sitecoreId": 1485,
+    "name": "Four Square M\u0101tangi",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/matangi"
+  },
+  {
+    "id": "cb13b8ee-e0fb-43ef-9ca4-a7341778d5a4",
+    "sitecoreId": 1405,
+    "name": "Four Square Patumahoe",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/patumahoe"
+  },
+  {
+    "id": "cf03cd27-19fe-47e9-bcde-7af12b12983f",
+    "sitecoreId": 1377,
+    "name": "Four Square Paraparaumu Beach",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/paraparaumu-beach"
+  },
+  {
+    "id": "cf657ea2-f593-4318-9226-dc5df658a932",
+    "sitecoreId": 1582,
+    "name": "Four Square Kamo",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/kamo"
+  },
+  {
+    "id": "cff3b862-174a-4f8d-b440-f250e1363ec0",
+    "sitecoreId": 56725,
+    "name": "Four Square Arrowtown",
+    "region": "South Island",
+    "url": "/south-island/otago/arrowtown"
+  },
+  {
+    "id": "d0bd5398-11cf-4699-bd6b-e9b61af914f0",
+    "sitecoreId": 1593,
+    "name": "Four Square Brightwater",
+    "region": "South Island",
+    "url": "/south-island/nelson/brightwater"
+  },
+  {
+    "id": "d1d6d658-4e4b-4184-823c-7419336036a4",
+    "sitecoreId": 1601,
+    "name": "Four Square Darfield",
+    "region": "South Island",
+    "url": "/south-island/canterbury/darfield"
+  },
+  {
+    "id": "d3699955-0e99-462a-af50-ddf13cc86350",
+    "sitecoreId": 2000,
+    "name": "Four Square Diamond Harbour",
+    "region": "South Island",
+    "url": "/south-island/canterbury/diamond-harbour"
+  },
+  {
+    "id": "d49c177e-25f6-45da-8f78-f934226b236f",
+    "sitecoreId": 1330,
+    "name": "Four Square \u014cakura",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/oakura"
+  },
+  {
+    "id": "d4d4a211-0f60-4a0f-9ab0-3aec1c857f59",
+    "sitecoreId": 1569,
+    "name": "Four Square Rodney",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/rodney"
+  },
+  {
+    "id": "d50189bb-600f-475c-a214-85e9453ec11a",
+    "sitecoreId": 1322,
+    "name": "Four Square Waitara",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/waitara"
+  },
+  {
+    "id": "d5641a0d-91a8-4c1a-ab82-ece6333654e1",
+    "sitecoreId": 9999992,
+    "name": "Four Square St Heliers",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/st-heliers"
+  },
+  {
+    "id": "d69afc1b-f64d-420f-97d2-fbfe3b0a4171",
+    "sitecoreId": 1661,
+    "name": "Four Square W\u0101naka",
+    "region": "South Island",
+    "url": "/south-island/otago/wanaka"
+  },
+  {
+    "id": "d8aa4eef-5b03-4a91-8b29-3073bb4c8665",
+    "sitecoreId": 1653,
+    "name": "Four Square Tekapo",
+    "region": "South Island",
+    "url": "/south-island/canterbury/tekapo"
+  },
+  {
+    "id": "d9139d47-6481-441b-8798-8d546562ce6c",
+    "sitecoreId": 1437,
+    "name": "Four Square Tairua",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/tairua"
+  },
+  {
+    "id": "d9d2bd66-9692-45b5-a95e-111846193e56",
+    "sitecoreId": 1572,
+    "name": "Four Square Wellsford",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/wellsford"
+  },
+  {
+    "id": "da263c5a-1e30-4294-b759-26af792bea1b",
+    "sitecoreId": 1290,
+    "name": "Four Square Clive",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/clive"
+  },
+  {
+    "id": "e05aab34-7706-4ef2-905b-3a41afd420c5",
+    "sitecoreId": 1581,
+    "name": "Four Square Horahora",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/horahora"
+  },
+  {
+    "id": "e18accfc-1efa-422c-8135-3523a8973545",
+    "sitecoreId": 1406,
+    "name": "Four Square Red Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/red-beach"
+  },
+  {
+    "id": "e1fadef2-b73c-4af9-93d6-7471d4a72085",
+    "sitecoreId": 1902,
+    "name": "Four Square Huntly",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/huntly"
+  },
+  {
+    "id": "e39377d3-a32b-43b9-836c-4798003b7659",
+    "sitecoreId": 1644,
+    "name": "Four Square Stewart Island",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/stewart-island"
+  },
+  {
+    "id": "e3b3fe95-bbe9-4d28-b879-04a25490af9e",
+    "sitecoreId": 1308,
+    "name": "Four Square Eket\u0101huna",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/eketahuna"
+  },
+  {
+    "id": "e3f6ef17-426a-4dec-87a9-451dc776d666",
+    "sitecoreId": 1391,
+    "name": "Four Square Cockle Bay",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/cockle-bay"
+  },
+  {
+    "id": "e54e4f45-5dc7-4b05-8ae1-34494d6ca6cc",
+    "sitecoreId": 1403,
+    "name": "Four Square Parakai",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/auckland/parakai"
+  },
+  {
+    "id": "e5d5a380-a684-46e4-8edc-7c8f79e2205f",
+    "sitecoreId": 1316,
+    "name": "Four Square Shannon",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/shannon"
+  },
+  {
+    "id": "e67f1a31-08ff-42f4-ad77-1de6b386da3c",
+    "sitecoreId": 1567,
+    "name": "Four Square Maungaturoto",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/maungaturoto"
+  },
+  {
+    "id": "e8e71ada-95b7-4cd7-a4ac-efdd5ec9507f",
+    "sitecoreId": 1305,
+    "name": "Four Square Bulls",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/bulls"
+  },
+  {
+    "id": "e93480c2-5931-405a-baa8-ad2c4918377e",
+    "sitecoreId": 1345,
+    "name": "Four Square Waverley",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/taranaki/waverley"
+  },
+  {
+    "id": "ebfda01f-2497-412d-9692-0c3c57c4e504",
+    "sitecoreId": 1471,
+    "name": "Four Square Mangakino",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/mangakino"
+  },
+  {
+    "id": "ecf49133-a191-4414-b480-0781452591ef",
+    "sitecoreId": 1372,
+    "name": "Four Square Seatoun",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/wellington/seatoun"
+  },
+  {
+    "id": "ee0e4212-f923-4adb-8765-a9158623d228",
+    "sitecoreId": 1570,
+    "name": "Four Square Ruawai",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/ruawai"
+  },
+  {
+    "id": "ee94f746-cd90-4232-9ab6-e32f0da65064",
+    "sitecoreId": 1592,
+    "name": "Four Square Bluff",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/bluff"
+  },
+  {
+    "id": "ef2e7c48-95e8-47c9-83c9-5c1e3496c069",
+    "sitecoreId": 1338,
+    "name": "Four Square Castlecliff",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/castlecliff"
+  },
+  {
+    "id": "ef50a874-23d3-433f-b1d0-d88fad9e04f5",
+    "sitecoreId": 1554,
+    "name": "Four Square Ngongotah\u0101",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/ngongotaha"
+  },
+  {
+    "id": "ef676f39-e310-48c9-a398-597eaf2b798a",
+    "sitecoreId": 8284,
+    "name": "Four Square Te K\u014dwhai",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/te-kowhai"
+  },
+  {
+    "id": "f1312a24-0249-4117-9b11-ad023fe29721",
+    "sitecoreId": 88635,
+    "name": "Four Square Tamahere",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/waikato/tamahere"
+  },
+  {
+    "id": "f1b49f3b-1edc-4a7d-9e5f-d0cee011abb6",
+    "sitecoreId": 1291,
+    "name": "Four Square Eastend",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/eastend"
+  },
+  {
+    "id": "f1bad6be-ab8b-437e-b7cf-5befffa5718f",
+    "sitecoreId": 1583,
+    "name": "Four Square \u014ctaika",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/otaika"
+  },
+  {
+    "id": "f3823bcc-e5de-4248-9fb5-1ee49eeb44b6",
+    "sitecoreId": 1558,
+    "name": "Four Square Rifle Range Road",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/central-plateau/rifle-range-road"
+  },
+  {
+    "id": "f3aabb96-62c0-4799-9b1e-b85b5e219259",
+    "sitecoreId": 1616,
+    "name": "Four Square Lumsden",
+    "region": "South Island",
+    "url": "/south-island/southland-and-stewart-island/lumsden"
+  },
+  {
+    "id": "f40fb202-c429-4078-b3b9-080e1b43ae4d",
+    "sitecoreId": 1411,
+    "name": "Four Square \u014chope Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/ohope-beach"
+  },
+  {
+    "id": "f4494dd5-1e7b-45ea-913f-ed0a0cbc9243",
+    "sitecoreId": 1427,
+    "name": "Four Square Moerewa Blue Lagoon",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/moerewa-blue-lagoon"
+  },
+  {
+    "id": "f7364265-bbed-443f-89b4-0041968f1cd6",
+    "sitecoreId": 1413,
+    "name": "Four Square Waihi Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/bay-of-plenty/waihi-beach"
+  },
+  {
+    "id": "f7899551-082a-4a26-b024-855cbc3c4edb",
+    "sitecoreId": 31740,
+    "name": "Four Square Frimley",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/hawkes-bay/frimley"
+  },
+  {
+    "id": "f7d05f44-465a-413e-a09d-ed19930cc1b4",
+    "sitecoreId": 1434,
+    "name": "Four Square Buffalo Beach",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/coromandel/buffalo-beach"
+  },
+  {
+    "id": "f8a33990-a63c-4429-a405-37e9ffc61bc0",
+    "sitecoreId": 41514,
+    "name": "Four Square Riverview",
+    "region": "Lower North Island",
+    "url": "/lower-north-island/manawatu-whanganui/riverview"
+  },
+  {
+    "id": "fcbd5f09-2f3c-4277-aae1-62915b4f7e79",
+    "sitecoreId": 1649,
+    "name": "Four Square Tapanui",
+    "region": "South Island",
+    "url": "/south-island/otago/tapanui"
+  },
+  {
+    "id": "fd1d00e6-d19d-489d-955f-dc2fec3a7166",
+    "sitecoreId": 1568,
+    "name": "Four Square Mangawhai Heads",
+    "region": "Upper North Island",
+    "url": "/upper-north-island/northland/mangawhai-heads"
+  },
+  {
+    "id": "fe66df2f-c393-4e55-8e4f-e5e1113eb2fa",
+    "sitecoreId": 1647,
+    "name": "Four Square St Clair",
+    "region": "South Island",
+    "url": "/south-island/otago/st-clair"
+  },
+  {
+    "id": "fed55f4b-a6f2-45d9-a20e-ba642eb9cdf9",
+    "sitecoreId": 1651,
+    "name": "Four Square Alexandra",
+    "region": "South Island",
+    "url": "/south-island/otago/alexandra"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Albert Town",
+  "url": "/south-island/otago/albert-town",
+  "storeId": "{2FB520E9-3367-4501-B491-4A70AB33E1C9}",
+  "sitecoreId": 85993,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "20 Alison Ave Albert Town Wanaka 9382",
+    "latitude": -44.6832272,
+    "longitude": 169.18889760000002,
+    "island": "south",
+    "region": "South Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "03 443 1604"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Ice",
+    "Gas Bottle Swap",
+    "NZ Post agency",
+    "Sea Food",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Albert Town. We're a local supermarket, owned and operated by Julie and Cam Sinclair since 2018. The store offers a great variety of fresh produce, butchery, food to go, gas bottle swap, and excellent customer service. We are a proud community-focused store; we support the local community by donating to food for BBQs and for Love Food Charity. We love getting to know our customers, and everyone in the community knows us by name.",
+    "socialLinks": []
+  }
+}

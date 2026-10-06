@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Botany Junction",
+  "url": "/upper-north-island/auckland/botany-junction",
+  "storeId": "{3D64E158-E13B-4238-A5CB-C494830F19CE}",
+  "sitecoreId": 1388,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Unit 37C, 277 Te Irirangi Drive, Botany Junction, Auckland 2016",
+    "latitude": -36.965169,
+    "longitude": 174.902354,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "botany.4sq@4sq.co.nz",
+    "phone": "09 273 2650"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Come and visit our friendly team where we're happy to help you with all your convenience needs.",
+    "socialLinks": []
+  }
+}

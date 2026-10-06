@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Hillcrest",
+  "url": "/upper-north-island/waikato/hillcrest",
+  "storeId": "{3A5EE350-6423-4871-9DE9-BD03CFD498DC}",
+  "sitecoreId": 58295,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "271 Clyde Street, Hamilton East, Hamilton 3216",
+    "latitude": -37.789733,
+    "longitude": 175.309118,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "ewan.lorney@foodstuffs.co.nz",
+    "phone": "07 856 8100"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Hillcrest is Hamilton Easts locally owned full service grocery store. Fresh produce, quality meats, and Hamilton's best Chicken & Chips.",
+    "socialLinks": []
+  }
+}

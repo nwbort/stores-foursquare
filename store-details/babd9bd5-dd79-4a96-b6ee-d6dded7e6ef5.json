@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Mangapapa",
+  "url": "/upper-north-island/east-cape/mangapapa",
+  "storeId": "{BABD9BD5-DD79-4A96-B6EE-D6DDED7E6EF5}",
+  "sitecoreId": 1481,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Winter Street, Mangapapa, Gisborne, 4010",
+    "latitude": -38.643233,
+    "longitude": 178.010566,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "mangapapasupermarket@extra.co.nz",
+    "phone": "06 867 0792"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt6867cec350f715b6/68bf5f2ee8655792b513959c/untitled-1_0050_mangapapa4square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Suburban shopping at it's best!",
+    "socialLinks": []
+  }
+}

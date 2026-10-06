@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Tapanui",
+  "url": "/south-island/otago/tapanui",
+  "storeId": "{FCBD5F09-2F3C-4277-AAE1-62915B4F7E79}",
+  "sitecoreId": 1649,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "44 Northumberland Street, Tapanui 9522",
+    "latitude": -45.9432676,
+    "longitude": 169.26174449999996,
+    "island": "south",
+    "region": "South Island",
+    "email": "tapanui@foursquare-si.co.nz",
+    "phone": "03 204 8630"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "ATM",
+    "Electric Car Charging",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte0ee58bcf92f0a4d/68bf5f83e865577e981395c8/untitled-1_0000_tapanui.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Tapanui!\u00a0We provide a variety of groceries, fresh produce, meat, dairy products, and also offer barista coffee, hot food, and sandwiches every day of the week. In 2015, the store was renovated and rebranded as 'Food Mart' during the town's transformation for the filming of \"Pete's Dragon.\" We actively engage with the West Otago community, proudly sponsoring the Heriot Rugby Club, the Golf Club, the big dig at the A&P show, the Christmas parade.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/tapanuifoursquare",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

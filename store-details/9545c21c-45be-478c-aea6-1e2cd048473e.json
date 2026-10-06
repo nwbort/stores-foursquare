@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Raumati South",
+  "url": "/lower-north-island/wellington/raumati-south",
+  "storeId": "{9545C21C-45BE-478C-AEA6-1E2CD048473E}",
+  "sitecoreId": 1370,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "30 Poplar Avenue, Raumati South, Paraparaumu, 5032",
+    "latitude": -40.936427,
+    "longitude": 174.977551,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.raumatisouth@foodstuffs.co.nz",
+    "phone": "04 902 8727"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "In 2016 the Raumati South community welcomed husband and wife team Jitu and Chetna Patel into their sleepy beachside settlement. As the new owners Jitu and Chetna very quickly embraced the locals and have committed to building a thriving 4 Square in the heart of this beach side suburb. With decades of experience in the food industry Jitu and Chetna have recently overseen a modern re-fit of their store, bringing a contemporary feel to their shop. This is very much a one stop shop, catering for locals with restaurants, cafes, and small businesses alike. We love the 4 Square brand, we love the locals and we very much love Raumati South, so all is good in the Patels world right now.",
+    "socialLinks": []
+  }
+}

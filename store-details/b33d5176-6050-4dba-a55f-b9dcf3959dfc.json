@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Matarangi",
+  "url": "/upper-north-island/coromandel/matarangi",
+  "storeId": "{B33D5176-6050-4DBA-A55F-B9DCF3959DFC}",
+  "sitecoreId": 86038,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "195 Matarangi Drive, Matarangi, RD2 Whitianga 3592",
+    "latitude": -36.733821,
+    "longitude": 175.66224,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 866 5391 "
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Food to Go",
+    "Lotto",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Matarangi is a relaxed coastal town on the northeastern side of the Coromandel Peninsula, known for its long, safe beach and laid-back holiday vibe.\n\n\nThe beach at Matarangi stretches for kilometres, with soft white sand and gentle surf -perfect for swimming, paddleboarding, and family days by the water. It\u2019s also a popular spot for fishing, especially off the beach, nearby estuaries or out into the deep blue ocean.\n\n\nGolf lovers will appreciate the stunning The Dunes Matarangi Golf Club, an 18-hole championship course set between the harbour and the ocean. Designed by New Zealand legend Sir Bob Charles, it features rolling fairways, coastal views, and a layout that challenges all skill levels while still being enjoyable for casual players.\n\n\nThe town itself has a friendly, close-knit feel, with a local Four Square, caf\u00e9s, and everything you need for an easy beach getaway without the crowds.\n\n\nMatarangi is ideal if you\u2019re after a peaceful coastal escape - perfect for relaxing, exploring, fishing, golfing, and soaking up the best of the Coromandel coast.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/FourSquareMatarangi/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

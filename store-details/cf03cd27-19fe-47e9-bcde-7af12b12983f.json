@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Paraparaumu Beach",
+  "url": "/lower-north-island/wellington/paraparaumu-beach",
+  "storeId": "{CF03CD27-19FE-47E9-BCDE-7AF12B12983F}",
+  "sitecoreId": 1377,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "16 Seaview Road, Paraparaumu Beach, Kapiti Coast 5032",
+    "latitude": -40.8936767,
+    "longitude": 174.9808673,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.thriftway@foodstuffs.co.nz",
+    "phone": "04 298 4528"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We've been serving locals from 1999.",
+    "socialLinks": []
+  }
+}

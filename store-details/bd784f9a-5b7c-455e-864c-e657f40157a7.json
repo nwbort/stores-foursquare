@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Kurow",
+  "url": "/south-island/otago/kurow",
+  "storeId": "{BD784F9A-5B7C-455E-864C-E657F40157A7}",
+  "sitecoreId": 1614,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "49 Bledisloe Street Kurow 9435",
+    "latitude": -44.7331041,
+    "longitude": 170.4696414,
+    "island": "south",
+    "region": "South Island",
+    "email": "kurow@foursquare-si.co.nz",
+    "phone": "03 436 0720"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

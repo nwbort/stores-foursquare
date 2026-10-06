@@ -1,0 +1,81 @@
+{
+  "title": "Four Square Tokomaru Bay",
+  "url": "/upper-north-island/east-cape/tokomaru-bay",
+  "storeId": "{8D31D773-3D6F-43E7-988E-63984B4C09D8}",
+  "sitecoreId": 1483,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "28 Waitangi Street, Tokomaru Bay 4079",
+    "latitude": -38.130278,
+    "longitude": 178.315078,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "chris.beard@foodstuffs.co.nz",
+    "phone": "06 864 5718"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Fuel",
+    "Lotto",
+    "ATM",
+    "Electric Car Charging",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Catering",
+    "Bait",
+    "Ice",
+    "Seafood",
+    "Deli",
+    "Pharmacy",
+    "Clothing",
+    "Takeaway Coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt81bc07311859603d/68bf5efee5006134c800f497/tokomaru-bay_owner1_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Tokomaru Bay, a local supermarket\u00a0 built int the 1960s. Now owned and operated by Mike and Chelsea, who bring over 20 years of experience, our store continues to serve the East Coast community with pride. We provide a full service supermarket offering to our community. We are proud to be champions of te reo M\u0101ori at our store and in our community, proudly supporting local sports teams and community groups.\u00a0 At Four Square Tokomaru Bay, we're more than a store; we're a community hub.",
+    "socialLinks": []
+  }
+}

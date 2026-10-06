@@ -1,0 +1,63 @@
+{
+  "title": "Four Square Scott Drive",
+  "url": "/lower-north-island/hawkes-bay/scott-drive",
+  "storeId": "{6D5256EB-3E6A-469C-B3FC-FDF6512E0173}",
+  "sitecoreId": 1296,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "29 Scott Drive, Flaxmere, Hastings 4120",
+    "latitude": -39.6205462,
+    "longitude": 176.77743980000002,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.scottdrive@foodstuffs.co.nz",
+    "phone": "06 879 6378"
+  },
+  "services": [
+    "Produce",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We have been serving Flaxmere for 27 years. We\u2019re happy to provide for all our customers' needs. We support the locals, and and the locals support us. We also support the HB Helicopter, Cranford Hospice and Red Cross.",
+    "socialLinks": []
+  }
+}

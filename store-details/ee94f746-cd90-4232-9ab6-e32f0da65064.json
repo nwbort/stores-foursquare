@@ -1,0 +1,75 @@
+{
+  "title": "Four Square Bluff",
+  "url": "/south-island/southland-and-stewart-island/bluff",
+  "storeId": "{EE94F746-CD90-4232-9AB6-E32F0DA65064}",
+  "sitecoreId": 1592,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "54 Gore Street, Bluff 9814",
+    "latitude": -46.5995582,
+    "longitude": 168.34532109999998,
+    "island": "south",
+    "region": "South Island",
+    "email": "bluff@foursquare-si.co.nz",
+    "phone": "03 212 8179"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "ATM",
+    "Electric Car Charging",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Flowers",
+    "Catering",
+    "Takeaway Coffee",
+    "Deli",
+    "Ice",
+    "Bait"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Bluff. A community-oriented supermarket owned by Bridget and Jimmy. Our store offers excellent fresh produce, including seafood directly from the boat and fresh bluff oysters during oyster season. We take pride in catering to local preferences with an on-site butcher, hot food cabinet, a wide product range and the biggest scones you've ever seen! We are proud to sponsor the local community in a variety of ways, from the school to the rugby club, to local events such as Rangitahi Zone.",
+    "socialLinks": []
+  }
+}

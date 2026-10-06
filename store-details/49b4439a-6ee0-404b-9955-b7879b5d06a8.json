@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Cherrywood",
+  "url": "/upper-north-island/bay-of-plenty/cherrywood",
+  "storeId": "{49B4439A-6EE0-404B-9955-B7879B5D06A8}",
+  "sitecoreId": 1575,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "56 Cherrywood Drive, Otumoetai, Tauranga 3110",
+    "latitude": -37.668243,
+    "longitude": 176.139947,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 576 7444"
+  },
+  "services": [
+    "Alcohol",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

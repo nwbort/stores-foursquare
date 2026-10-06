@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Atawhai",
+  "url": "/south-island/nelson/atawhai",
+  "storeId": "{64FB712D-7E6E-4587-BCF1-62A4F844541B}",
+  "sitecoreId": 1590,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "664 Atawhai Cresent, Atawhai, Nelson 7010",
+    "latitude": -41.23676,
+    "longitude": 173.317761,
+    "island": "south",
+    "region": "South Island",
+    "email": "atawhai@foursquare-si.co.nz",
+    "phone": "03 545 0912"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Gas Bottle Swap",
+    "Lotto",
+    "Produce",
+    "Takeaway Coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1b86c0555996d009/68bf5f727fb401157d1ef55f/atawhai.jpeg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Atawhai, a local supermarket owned and operated by Damian & Hayley Fernando, grocery experts with 15 years of experience. Beyond groceries, our neighborhood supermarket in the heart of Atawhai, offers a friendly service, NZ Post, Lotto, and local fresh milk. Grateful for community support, we give back through the Foodstuffs (South Island) Community Trust, aiding local charities, and joining community events.",
+    "socialLinks": []
+  }
+}

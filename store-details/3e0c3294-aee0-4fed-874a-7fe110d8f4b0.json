@@ -1,0 +1,69 @@
+{
+  "title": "Four Square National Park",
+  "url": "/lower-north-island/manawatu-whanganui/national-park",
+  "storeId": "{3E0C3294-AEE0-4FED-874A-7FE110D8F4B0}",
+  "sitecoreId": 1337,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1 Waimarino Tokaanu Road National Park Ruapehu 3989",
+    "latitude": -39.176882,
+    "longitude": 175.402157,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4Square.NationalPark@foodstuffs.co.nz",
+    "phone": "07 892 2879"
+  },
+  "services": [
+    "Produce",
+    "Fuel",
+    "Lotto",
+    "Electric Car Charging",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Post Shop"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt73d4040cea3efc14/68bf5f20bf77efb12af040ac/untitled-1_0041_national-park-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome all to our Four Square, we are in the heart of Tongariro National Park and have been running our family business for the last 14 years, serving a large number of locals, domestic and international tourists. We are a general store and petrol station that provides a wide range of products including a variety of groceries, fresh meat and veges, souvenirs and automobile accessories. We also stock winter gear to keep you warm over the cold months and outdoor supplies to keep you going over the summer.",
+    "socialLinks": []
+  }
+}

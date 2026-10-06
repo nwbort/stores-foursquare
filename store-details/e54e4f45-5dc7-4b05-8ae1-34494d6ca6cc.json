@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Parakai",
+  "url": "/upper-north-island/auckland/parakai",
+  "storeId": "{E54E4F45-5DC7-4B05-8AE1-34494D6CA6CC}",
+  "sitecoreId": 1403,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "137 Parkhurst Road, Parakai 0830",
+    "latitude": -36.661437,
+    "longitude": 174.433651,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "parakai.4sq@4sq.co.nz",
+    "phone": "09 420 8186"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt74148085ccd12307/6aa1ed77bc8cf8fe86460d2f/website_pics.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Locally owned and operated by Aimee and Dexter Henderson along with our son Cooper. We offer a wide range of options from Produce, Butchery, Seafood, Bakery and our famous Chicken and Chips. We are striving to be your number one local store and hope to see you soon.",
+    "socialLinks": []
+  }
+}

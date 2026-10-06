@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Raglan",
+  "url": "/upper-north-island/waikato/raglan",
+  "storeId": "{B6CE6441-B419-4389-AB92-0CE1B7E632D7}",
+  "sitecoreId": 1475,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "3 Bankart Street, Raglan, Waikato 3225",
+    "latitude": -37.80088,
+    "longitude": 174.870212,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "satnam.bains@4sq.co.nz",
+    "phone": "07 825 0467"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt17b17d680e4a5fc8/68bf5f14e8655742bd139590/untitled-1_0028_raglan-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a family run store - and we really mean family! Our busy summers in Raglan are made possible by having all hands on deck, including the grandparents, aunties, uncles and kids all pitching in! You might even see little man Tim in store, who is our little mascot and our youngest employee, starting with us when he was just 10 years old. We love our close knit Raglan community, they have been so welcoming and supportive of our family since we took over the store in 2016. To return the favour, we hold an annual \u201cCurry Night\u201d, celebrating our Indian Heritage and inviting the whole town for a night of free food, music and dancing. Our store proudly embraces the Raglan community spirit of living life in a sustainable and eco-friendly manner. We use solar panels to reduce our carbon footprint, we stock local suppliers such as the Raglan Food Co. and support local organisations such as Xtreme Zero Waste. We are so proud to be a part of a town that is a powerhouse of talent and innovation!",
+    "socialLinks": []
+  }
+}

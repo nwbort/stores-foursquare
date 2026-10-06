@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Te Puna",
+  "url": "/upper-north-island/bay-of-plenty/te-puna",
+  "storeId": "{4FC42844-ADCB-4CDD-89E9-663FC5226053}",
+  "sitecoreId": 1579,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "626 State Highway 2, Te Puna, Tauranga 3176",
+    "latitude": -37.695726,
+    "longitude": 176.071698,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "tepuna.4sq@4sq.co.nz",
+    "phone": "07 552 5886"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Chicken and Chips",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Ice Cream",
+    "Lotto",
+    "NZ Post",
+    "Post Shop",
+    "Produce",
+    "Scoop Ice Cream",
+    "Takeaway coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte4a8ce0b010f6010/6a4ee51476de813ecef61400/te_puna_owners.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Te Puna, proudly owned and operated by Pritesh and Dipti Bhikha. For over 16 years, we've been at the heart of the Te Puna community, providing friendly service, fresh food, everyday essentials, and a place where locals can connect.\nOur brand new store has been built to better serve our growing community, offering more fresh produce, an expanded range, improved butchery and seafood departments, convenient ready-to-eat meals, barista coffee, scoop ice cream, Lotto, NZ Post and more. We\u2019re proud to support local schools, sports clubs, and community initiatives, and remain committed to being your friendly neighbourhood store.",
+    "socialLinks": []
+  }
+}

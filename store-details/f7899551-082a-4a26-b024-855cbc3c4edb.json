@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Frimley",
+  "url": "/lower-north-island/hawkes-bay/frimley",
+  "storeId": "{F7899551-082A-4A26-B024-855CBC3C4EDB}",
+  "sitecoreId": 31740,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "505 Frimley Road, Frimley, Hastings, 4120",
+    "latitude": -39.622595,
+    "longitude": 176.827983,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "frimley4sq@gmail.com",
+    "phone": "06 878 3745"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Ice",
+    "Post Shop",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltf44cb724f7311841/68bf5f372169c0f3dbdadbf5/untitled-1_0060_frimley-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Frimley. A local supermarket owned and operated by Sharan Kalkat. We work hard to provide the best shopping experience for our customers, offering a great range of fresh produce, butchery items, essentials, and NZ Post services. The store has received positive feedback from locals for its new layout, freshly stocked shelves, and amazing friendly customer service. We love building strong relationships with our older customers who have been loyal for many years. We also sponsor nearby schools, in addition to many local events.",
+    "socialLinks": []
+  }
+}

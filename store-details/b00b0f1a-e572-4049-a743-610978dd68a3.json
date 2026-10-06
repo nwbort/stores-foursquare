@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Dannevirke",
+  "url": "/lower-north-island/manawatu-whanganui/dannevirke",
+  "storeId": "{B00B0F1A-E572-4049-A743-610978DD68A3}",
+  "sitecoreId": 1307,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "247 High Street, Dannevirke 4930",
+    "latitude": -40.203169,
+    "longitude": 176.109078,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "Michael.neilson2@foodstuffs.co.nz",
+    "phone": "06 374 8805"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Dannevirke. A local supermarket owned and operated by Mason McKeown and Serenity Temu. We take pride in offering excellent service and are known for the best chicken 'n' chips in town and a growing selection of fresh produce and meals. But it's not just about groceries; we actively support local initiatives, donating to the food bank and charities. We also back community activities and local businesses like the golf club and schools. We're proud to offer a great shopping experience for our customers and give back to the community we love.",
+    "socialLinks": []
+  }
+}

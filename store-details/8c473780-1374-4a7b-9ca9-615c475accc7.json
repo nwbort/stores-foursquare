@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Mang\u014dnui",
+  "url": "/upper-north-island/northland/mangonui",
+  "storeId": "{8C473780-1374-4A7B-9CA9-615C475ACCC7}",
+  "sitecoreId": 1426,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "115 Waterfront Drive Mang\u014dnui 0420",
+    "latitude": -34.989336,
+    "longitude": 173.536672,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Mangonui.4sq@4sq.co.nz",
+    "phone": "09 406 0007"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Ice",
+    "Bait",
+    "Food to Go",
+    "Seafood",
+    "Deli",
+    "KiwiBank"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd5d30d7df517ac0d/68bf5f29046c900c33073137/mangonui_owner1_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Mang\u014dnui, a local supermarket owned and operated by Wade Perry and Amy Mustchin. Our store has been a key part of the local community for over 116 years. The store, located above the Mang\u014dnui Harbour, provides groceries, postal, and banking services, and fresh sandwiches. We love being part of this small welcoming community and being able to help our customers with their grocery needs. We have sponsored lots of local community events, from the Kaitaia Gymnastics club fundraising day to the local breast Cancer Pink Ribbon morning tea, and more.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Mackenzie",
+  "url": "/south-island/canterbury/mackenzie",
+  "storeId": "{0654CF10-122A-4F2B-A8D2-488C8ECFCFCB}",
+  "sitecoreId": 1618,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "27 Market Place, Twizel 7901",
+    "latitude": -44.256862,
+    "longitude": 170.099888,
+    "island": "south",
+    "region": "South Island",
+    "email": "mackenzie@foursquare-si.co.nz",
+    "phone": "03 435 3262"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Ice",
+    "Seafood",
+    "Deli",
+    "Bait"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd2b12be33b196080/68bf5f9a046c905ec207316d/untitled-1_0019_mackenzie-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Mackenzie, a local supermarket owned and operated by Greg & Susan Roberts. Established in 2008, we have been providing the Mackenzie District with fresh produce for over 15 years. Our store offers easy access, a great variety of groceries, a butchery, bakery, and a produce section. We also have an extensive Food-To-Go section with something for everyone. We support numerous local organisations and are active in the community. We love connecting with our local customers and working in this beautiful part of New Zealand. Come visit us for all your grocery needs!",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Four Square Papamoa",
+  "url": "/upper-north-island/bay-of-plenty/papamoa",
+  "storeId": "{147B3722-8EA1-4824-A36C-D1C261A68457}",
+  "sitecoreId": 1577,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4 Golden Sands Drive, Papamoa, 3118 ",
+    "latitude": -37.718287,
+    "longitude": 176.342577,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "papamoa.4sq@4sq.co.nz",
+    "phone": "07 542 5330"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Catering",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Gas Bottle Swap",
+    "Ice",
+    "Ice Cream",
+    "Lotto",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte3e5c61b598856bc/68bf5f185aad500fdbe35e1c/untitled-1_0033_papamoa-beach-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Papamoa! A local supermarket, established in 2010 and relocated in 2019, our store has grown alongside our vibrant community. Owned and operated by Nick and Jemma Gordon, we have won Four Square Store of the Year twice, in 2018 and 2023. Known for our warm and inviting customer service, we are the go-to destination for all your grocery needs. Committed to supporting the Papamoa community, we started a partnership with Golden Sands Baptist, where good-quality food is donated weekly. We also sponsor countless other schools, organisations, and clubs.\u00a0",
+    "socialLinks": []
+  }
+}

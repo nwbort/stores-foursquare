@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Bulls",
+  "url": "/lower-north-island/manawatu-whanganui/bulls",
+  "storeId": "{E8E71ADA-95B7-4CD7-A4AC-EFDD5EC9507F}",
+  "sitecoreId": 1305,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "92-102 Bridge Street, Bulls 4818",
+    "latitude": -40.176215,
+    "longitude": 175.385361,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "VJay.Patel@4sq.co.nz",
+    "phone": "06 322 0071"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Bulls\u00a0proudly supports the Bulls, Ohakea and Rangitikei community. ",
+    "socialLinks": []
+  }
+}

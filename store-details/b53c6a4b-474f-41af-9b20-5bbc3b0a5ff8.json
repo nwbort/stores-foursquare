@@ -1,0 +1,75 @@
+{
+  "title": "Four Square Culverden",
+  "url": "/south-island/canterbury/culverden",
+  "storeId": "{B53C6A4B-474F-41AF-9B20-5BBC3B0A5FF8}",
+  "sitecoreId": 1600,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "28 Mountainview Road, Culverden, 7345",
+    "latitude": -42.774172,
+    "longitude": 172.848333,
+    "island": "south",
+    "region": "South Island",
+    "email": "culverden@foursquare-si.co.nz",
+    "phone": "03 315 8020"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Bait",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta4ff8ae456a0d59f/68bf5fa47fb401b2ed1ef587/untitled-1_0027_culverden-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Culverden, a family-owned rural supermarket run by Andrew and Kelly Whittleston. With over 30 years of experience in the industry, we took over the store in 2016 and have been providing the community with a wide range of grocery, beer, wine, chilled, frozen, fruit, and vegetable products ever since. We love being part of a small community and are proud to sponsor a large range of local groups, including Hurunui Rugby Club, Culverden Netball Club, Amuri Area School, Culverden Fire Brigade, and many more.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Wait\u0101rere",
+  "url": "/lower-north-island/manawatu-whanganui/waitarere",
+  "storeId": "{19A669F6-E91B-4330-A2DB-6AA26D4F248B}",
+  "sitecoreId": 1319,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "651 Wait\u0101rere Beach Road, Levin 5510",
+    "latitude": -40.550438,
+    "longitude": 175.200175,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "06 368 6104"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Wait\u0101rere is the only grocery store in the beach village and serves the thriving local community and ever-growing numbers of summer visitors. Our fresh baked bread, homemade pies, wide range of wine and beer - including boutique brews - and Caffe L'Affare coffee mean customers can relax at the beach while enjoying quality food and beverages. We are the Wait\u0101rere Post Shop and mail centre and a base for community information. Of course, we have the \"All You Need\" range of grocery items, plus hardware, newspapers, magazines, ice-creams (rolled and chocolate dipped), and traditional pick-your-own mix lollies. We are open every day except Christmas Day and we keep the doors open on summer evenings until the last strollers have drifted home. It has been more than ten years since we bought the store and in 2008 we completely rebuilt, following a fire. While we, and the original building, were gutted, we now have a purpose-built Four Square which stands out on the main road as you drive towards the beach. ",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Kamo",
+  "url": "/upper-north-island/northland/kamo",
+  "storeId": "{CF657EA2-F593-4318-9226-DC5DF658A932}",
+  "sitecoreId": 1582,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "509 Kamo Road, Kamo, Whangarei 0112",
+    "latitude": -35.683898,
+    "longitude": 174.300671,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "kamo.4sq@4sq.co.nz",
+    "phone": "09 435 1550"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt36ccce0a9042599b/68bf5f33b092802cdf4fc1a8/untitled-1_0056_kamo-team-1.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Coral Hammer has owned and operated Four Square Kamo since 2007 after moving up from Auckland, and has a team of 6 that includes Joshua Morunga, her store manager, who's been at Kamo Four Square for 12 years. Kamo loves sport, having a cricket club, the Northland tennis centre, rugby fields and football fields. Coral loves her sport too and is a keen tennis player. Coral has raised two daughters in Kamo and enjoys the great community spirit and its schools and activities. Her girls have thrived in the friendly community and Coral enjoys her lively customers, who are always ready for a yarn and a bit of a joke. The store has a full grocery and liquor range, produce and meat departments and some food-to-go solutions.",
+    "socialLinks": []
+  }
+}

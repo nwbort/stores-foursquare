@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Balmoral Drive",
+  "url": "/upper-north-island/waikato/balmoral-drive",
+  "storeId": "{ACD23892-482C-4FC1-8164-29E50DA36DEE}",
+  "sitecoreId": 1469,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "143 Balmoral Drive, Tokoroa 3420",
+    "latitude": -38.23612,
+    "longitude": 175.868144,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "balmoral.4sq@4sq.co.nz",
+    "phone": "07 886 9521"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Bakery",
+    "Flowers",
+    "Catering",
+    "Ice",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5a0a1085b2c0bab9/68bf5f43046c905432073143/untitled-1_0071_balmoral-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Balmoral Drive, owned and operated by Michael and Victoria Thomas. A local supermarket since the 1950s, now in its fourth family ownership. Serving locals, we save residents from the trek into Tokoroa. We stock a wide range of groceries, fresh produce and if your preferred brand is unavailable, just let us know and we'll try to stock it. Committed to supporting the local community we support Love Soup, BBM Tokoroa Social Supermarket, and the Tokoroa Community food bank. As a festive tradition, we organise an annual Christmas Carols event in our carpark.\u00a0",
+    "socialLinks": []
+  }
+}

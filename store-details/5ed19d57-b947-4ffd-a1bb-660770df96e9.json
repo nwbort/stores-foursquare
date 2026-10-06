@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Oneroa",
+  "url": "/upper-north-island/auckland/oneroa",
+  "storeId": "{5ED19D57-B947-4FFD-A1BB-660770DF96E9}",
+  "sitecoreId": 1401,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "151 Ocean View Road, Oneroa, Auckland 1081",
+    "latitude": -36.782596,
+    "longitude": 175.0098,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "oneroa.4sq@4sq.co.nz",
+    "phone": "09 372 7150"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to our Oneroa Four Square store! We're proud to be part of the long-standing iconic Kiwi brand that has been the local for New Zealand communities since 1924. Just few minutes from the ferry, you\u2019ll find us in the heart of Oneroa Village with breathtaking views of the ocean.  We stock your full grocery essentials, including fresh produce, meats, coffee, fresh breads, beer, AT Transport cards, wine and much more.  So, whether you're keeping it local or on tour - we're here to make it easy for you.  Our team are always happy to help you on your grocery needs or information around the island to make the most of your needs or plan. Become a local, and shop where all Kiwis love to shop. ",
+    "socialLinks": []
+  }
+}

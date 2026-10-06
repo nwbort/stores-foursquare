@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Takapau",
+  "url": "/lower-north-island/hawkes-bay/takapau",
+  "storeId": "{B1035D8F-83F8-40CD-BEEE-FB66A8CC01D2}",
+  "sitecoreId": 1297,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "4:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "4:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "67 Charlotte Street, Takapau, CHB-4203",
+    "latitude": -40.027749,
+    "longitude": 176.348765,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "HarryS@4sq.co.nz",
+    "phone": "06 855 8499"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Post Shop",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3ea984b8f6c3bc10/68bf5f092169c0ca93dadbd9/untitled-1_0017_takapau-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to your local Four Square Takapau, owned and operated by Harry & Bell. A wide selection of your everyday groceries is offered along with a \"contagious smile\" and excellent customer service. We are a proud sponsor of Takapau Tennis club and support a lot of other local clubs and events all year around.",
+    "socialLinks": []
+  }
+}

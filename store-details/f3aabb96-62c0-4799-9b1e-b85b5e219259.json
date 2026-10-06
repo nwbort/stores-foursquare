@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Lumsden",
+  "url": "/south-island/southland-and-stewart-island/lumsden",
+  "storeId": "{F3AABB96-62C0-4799-9B1E-B85B5E219259}",
+  "sitecoreId": 1616,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "14 Diana Street, Lumsden, 9730",
+    "latitude": -45.7388303,
+    "longitude": 168.44145070000002,
+    "island": "south",
+    "region": "South Island",
+    "email": "lumsden@foursquare-si.co.nz",
+    "phone": "03 248 7143"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Lotto",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt6bb7f8eb67c2d305/68bf5f9d2169c0e2bcdadc39/untitled-1_0020_lumsden-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Pop into our Four Square Supermarket on your next journey to the deep south. We have a large variety of groceries and are open 7 days a week, 364 days a year! We have ALWAYS got bargains to be had, so come and see our friendly staff NOW!",
+    "socialLinks": []
+  }
+}
