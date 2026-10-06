@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Murupara",
+  "url": "/upper-north-island/bay-of-plenty/murupara",
+  "storeId": "{7C17E7EC-1851-43DB-8DBD-5F9EE9E3FA91}",
+  "sitecoreId": 1482,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "35 Pine Drive, Murupara 3025",
+    "latitude": -38.457381,
+    "longitude": 176.705138,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "sanjay.unka@4sq.co.nz",
+    "phone": "07 366 5835"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Proud to be local and supporting the community of Murupara for over 60 years! We\u2019re famous for our fresh Murupara sausages that are made in store. ",
+    "socialLinks": []
+  }
+}

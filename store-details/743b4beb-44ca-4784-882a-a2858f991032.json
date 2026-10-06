@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Tokomairiro Milton",
+  "url": "/south-island/otago/tokomairiro-milton",
+  "storeId": "{743B4BEB-44CA-4784-882A-A2858F991032}",
+  "sitecoreId": 1654,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "207 Union Street, Milton 9220",
+    "latitude": -46.116376,
+    "longitude": 169.964564,
+    "island": "south",
+    "region": "South Island",
+    "email": "tokomairiro@foursquare-si.co.nz",
+    "phone": "03 417 8736"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Electric Car Charging"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt084af58bdd93eaa1/68bf5f8ae8655767681395d4/untitled-1_0003_tokomairiro-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "You'll conveniently find us on State Highway 1, at the kink in the road in Milton with heaps of parking right outside, quality fresh produce, freshly baked goods and food to go. Whether it's to grab a couple of things or do your weekly shop you'll find everything you need from your local supermarket. We don't have what you're looking for? Just ask, we will try and get it. We also do deliveries - just phone us to arrange. We\u2019re proud to be contributors of the Foodstuffs Community Trust - the trust supports community organisations and causes.",
+    "socialLinks": []
+  }
+}

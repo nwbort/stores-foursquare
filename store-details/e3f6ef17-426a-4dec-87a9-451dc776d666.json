@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Cockle Bay",
+  "url": "/upper-north-island/auckland/cockle-bay",
+  "storeId": "{E3F6EF17-426A-4DEC-87A9-451DC776D666}",
+  "sitecoreId": 1391,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1 Litten Road, Cockle Bay, Auckland 2014",
+    "latitude": -36.904174,
+    "longitude": 174.939277,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "cocklebay.4sq@4sq.co.nz",
+    "phone": "09 534 5844"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Ice",
+    "Bait",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Cockle Bay! A local supermarket owned by our family for 17 years, our store has deep community roots. With extensive experience in supermarkets and beverages, we bring a unique touch to the business, now continued by our son. Once Satellite Supermarket in the '60s, we became Four Square in 2004, offering a wide range of local and imported goods. We're proud to support local schools, sports teams, and the Howick Santa Parade. Cockle Bay\u2019s tight-knit community is our home, and we cherish every connection. ",
+    "socialLinks": []
+  }
+}

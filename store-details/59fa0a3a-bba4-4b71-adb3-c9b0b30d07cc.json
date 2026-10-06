@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Kelburn",
+  "url": "/lower-north-island/wellington/kelburn",
+  "storeId": "{59FA0A3A-BBA4-4B71-ADB3-C9B0B30D07CC}",
+  "sitecoreId": 1360,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "97A Upland Road, Kelburn, Wellington 6012",
+    "latitude": -41.2890083,
+    "longitude": 174.7618466,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.kelburn@foodstuffs.co.nz",
+    "phone": "04 475 9951"
+  },
+  "services": [
+    "Produce",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a family-oriented business run by two brothers and their wives, Dilip Lala and Jyoty Lala, Vinod Lala and Bhevna Lala. We purchased Four Square Kelburn 30 years ago and are still loving every second of it. We\u2019ve got fresh bread supplied by local suppliers and fresh fruit and vegetables also available. We\u2019ve also got a large range of wine and beers and most of your posting needs from our in store Post Shop. Even after 30 years we are still learning and happy to listen to our customers\u2019 requests.",
+    "socialLinks": []
+  }
+}

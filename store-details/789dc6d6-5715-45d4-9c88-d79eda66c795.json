@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Waip\u016b",
+  "url": "/upper-north-island/northland/waipu",
+  "storeId": "{789DC6D6-5715-45D4-9C88-D79EDA66C795}",
+  "sitecoreId": 1433,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "43 The Centre, Waip\u016b, Northland 0510",
+    "latitude": -35.984447,
+    "longitude": 174.44506,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "jodie.ansell@foodstuffs.co.nz",
+    "phone": "09 432 0004"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt9caf525144dc84af/68bf5ef2e865571b36139578/untitled-1_0003_waipu-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Waip\u016b is proudly owned and operated by locals Jodie Ansell and Peter Morrison and our daughter who works in store with us when she is not studying. The team at Four Square Waip\u016b believe that community is very important - we help the local surf life guards, local rugby, the annual Christmas parade and many more. We\u2019ve also helped Te Oranga pack up hundreds of food parcels to help families who have been struggling. Four Square Waip\u016b's motto is \u201cif you work hard it should be fun too.\u201d",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/www.waipu4square.co.nz/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Selwyn Heights",
+  "url": "/upper-north-island/central-plateau/selwyn-heights",
+  "storeId": "{C18BEFC1-96DB-4A6B-9EB5-EAE01448CBEC}",
+  "sitecoreId": 1555,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2 Kokako Street, Selwyn Heights, Rotorua 3015",
+    "latitude": -38.117728,
+    "longitude": 176.223131,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "selwynheights.foursquare@foodstuffs.co.nz",
+    "phone": "07 347 6668"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta9d9ee2454d380e5/68bf5f0dbf77ef8619f040a0/untitled-1_0021_selwyn-heights-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We're proud to support local suppliers by stocking them in our store. ",
+    "socialLinks": []
+  }
+}

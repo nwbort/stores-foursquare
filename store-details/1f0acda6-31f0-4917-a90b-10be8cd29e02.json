@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Gulf Harbour",
+  "url": "/upper-north-island/auckland/gulf-harbour",
+  "storeId": "{1F0ACDA6-31F0-4917-A90B-10BE8CD29E02}",
+  "sitecoreId": 62664,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4/160 Harbour Village Drive, Gulf Harbour, Auckland 0930",
+    "latitude": -36.613921,
+    "longitude": 174.792273,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "gulfharbour.foursquare@foodstuffs.co.nz",
+    "phone": "09 428 4660 "
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are proud to be a part of our growing community! Providing locals with convenient grocery, fresh produce, meat, deli and frozen ranges, beer, wine and Lotto. We feel great pride and pleasure in supporting and sponsoring local community events and our local school. Please pop in for your everyday essentials, fresh favourites and local service.",
+    "socialLinks": []
+  }
+}

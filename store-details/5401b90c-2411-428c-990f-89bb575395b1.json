@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Britomart",
+  "url": "/upper-north-island/auckland/britomart",
+  "storeId": "{5401B90C-2411-428C-990F-89BB575395B1}",
+  "sitecoreId": 8268,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "17 Galway Street, Auckland CBD, Auckland 1010",
+    "latitude": -36.844424160463085,
+    "longitude": 174.7677305423276,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": ""
+  },
+  "services": [
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Produce",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Britomart offers a wide range of everyday essentials, fresh foods, self-checkouts, along with a great range of convenient meal solutions.  We\u2019ve got delicious baked goods from Daily Bread, fresh delicious Dedwood Deli sandwiches and barista made brews of Flight Coffee.  Plus, enjoy the world\u2019s first Scooptopia with K\u0101piti ice cream! Look forward to indulging in your fave ice cream with decadent toppings and fresh strawberries drizzled in gooey melted chocolate.  Four Square Britomart also offers catering services for sushi platters, sandwich platters and cakes. Please see in store for more details. ",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/4SquareBritomart",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

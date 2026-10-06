@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Outram",
+  "url": "/south-island/otago/outram",
+  "storeId": "{301648D8-4BCD-4680-824F-A9C1E061222B}",
+  "sitecoreId": 1622,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "43 Holyhead Street, Outram 9019",
+    "latitude": -45.856608,
+    "longitude": 170.23119929999996,
+    "island": "south",
+    "region": "South Island",
+    "email": "mitchells@foursquare-si.co.nz",
+    "phone": "03 486 1723"
+  },
+  "services": [
+    "Produce",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "Butchery",
+    "Bakery",
+    "Gas Bottle Swap",
+    "Ice",
+    "Food to Go",
+    "Takeaway Coffee",
+    "Flowers",
+    "Catering",
+    "Scoop Ice Cream",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltbafa6dc78cef5cf7/68bf5f4be8655728a21395ac/owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Outram, a family-run local supermarket that has been serving the community for over 38 years. Owned and operated by Emily and Mike O'Connor, who recently took over from Emily's parents, Cheryl & Stewart, who ran it for 38 years. We offer daily-made scones, muffins, sandwiches, and have a lunchtime selection of hot food cooked in our kitchen. People come from all around to get one of our great-value rolled ice creams. We get involved in our community by sponsoring sports teams and donating to many local community events.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Methven",
+  "url": "/south-island/canterbury/methven",
+  "storeId": "{22B37D24-E5A4-499A-811B-179C03E7C85B}",
+  "sitecoreId": 1655,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "33-37 McMillan Street, Methven, 7730",
+    "latitude": -43.632971,
+    "longitude": 171.645193,
+    "island": "south",
+    "region": "South Island",
+    "email": "methven@foursquare-si.co.nz",
+    "phone": "03 302 8114"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltb54ded8db0d2d720/68bf5f97e5006157f700f4cf/untitled-1_0016_methven.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Supermarket Methven. We have a fantastic team who are dedicated to providing you with outstanding customer service and lending a hand whether it\u2019s to take your groceries out to the car, delivering your goods within Methven or ordering your favourite products. We are always happy to help. We have the very best selection of produce, meats and fresh baked goods. We have a great selection of grocery products that will meet your daily needs and an array of options as an easy choice for breakfast, lunch or dinner with our food to go selection. We are very proud sponsors of local junior sport and local events. Gary, Lyn and the team at Methven Four Square thank you for your support and we would love to see you at Four Square Methven soon.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Havelock",
+  "url": "/south-island/marlborough/havelock",
+  "storeId": "{84FED294-5FBE-40D2-87B7-61AA1657E1FF}",
+  "sitecoreId": 1609,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "68 Main Road Havelock Marlborough 7100",
+    "latitude": -41.277833,
+    "longitude": 173.766971,
+    "island": "south",
+    "region": "South Island",
+    "email": "havelock@foursquare-si.co.nz",
+    "phone": "03 574 2166"
+  },
+  "services": [
+    "Produce",
+    "Bakery",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

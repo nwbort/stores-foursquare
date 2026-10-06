@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Welcome Bay",
+  "url": "/upper-north-island/bay-of-plenty/welcome-bay",
+  "storeId": "{5C1CC817-4A0A-4EE2-AFC4-F300F0EEA803}",
+  "sitecoreId": 53880,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "248 Welcome Bay Road, Welcome Bay, Tauranga 3112",
+    "latitude": -37.725394,
+    "longitude": 176.192385,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "welcomebay.foursquare@foodstuffs.co.nz",
+    "phone": "07 544 2512"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt593f7e51482c9af7/68bf5eee046c902bff073117/untitled-1_0001_welcome-bay-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "At Welcome Bay Four Square, we believe in enriching the environment we work in. Thus, for the past nine years we have contributed to initiatives such as Welcome Bay School academy books, and the Lions Club.",
+    "socialLinks": []
+  }
+}

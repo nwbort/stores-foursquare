@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Riverview",
+  "url": "/lower-north-island/manawatu-whanganui/riverview",
+  "storeId": "{F8A33990-A63C-4429-A405-37E9FFC61BC0}",
+  "sitecoreId": 41514,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": " 59 Anzac Parade, Durie Hill, Whanganui 4500, New Zealand",
+    "latitude": -39.9338352,
+    "longitude": 175.06005770000002,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4Square.Riverview@foodstuffs.co.nz",
+    "phone": "06 345 4198"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Ice",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Bait",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt75fd637e0fbbcc7f/68bf5f12e8655726fe13958c/untitled-1_0026_riverview---oustide-shop.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Riverview, a local supermarket owned and operated by Vishal and Sushmita Kapoor. We have a small caf\u00e9 where customers can enjoy the stunning views of the Whanganui River. Along with all the essentials and fresh produce, we supply bore water by the 10 liters, as the water in Whanganui is rather harsh due to the high lime content. We also have a large Craft Beer selection. We make a point of being involved in the community and help out where we can. We raise funds and supply goods to ARAN (dog rescue), Salvation Army, Women's Refuge, and local Foods Banks.",
+    "socialLinks": []
+  }
+}

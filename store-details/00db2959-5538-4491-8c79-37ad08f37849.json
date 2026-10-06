@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Heaphy Terrace",
+  "url": "/upper-north-island/waikato/heaphy-terrace",
+  "storeId": "{00DB2959-5538-4491-8C79-37AD08F37849}",
+  "sitecoreId": 20062,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1030 Heaphy Terrace, Fairfield, Hamilton 3214",
+    "latitude": -37.771111,
+    "longitude": 175.282907,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "daniel.brain@foodstuffs.co.nz",
+    "phone": "07 855 3957"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt866b2ca13cf62b24/68bf5f362169c02882dadbf1/untitled-1_0059_heaphy-terrace-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Alex is the proud owner of Four Square Heaphy Terrace located in the suburb of Fairfield in Hamilton. Along with his friendly team they strive to make meal time easy for the local community and offer a wide range of fresh produce, meat, chilled foods and bakery items. The store also has a surprisingly large range of grocery items as well as a great beer and wine range to top things off. The team works hard to provide quick friendly service and love being part of the local community. The store is proud to support a wide range of local school, sports, and community groups throughout the year.",
+    "socialLinks": [
+      {
+        "href": "/sitecore/shell/-/media/Project/Sitecore/Brands/Brand-Four-Square/Store-Pages/North-Island/Screenshot-2024-03-13-180025.jpg",
+        "title": "liquor license "
+      }
+    ]
+  }
+}

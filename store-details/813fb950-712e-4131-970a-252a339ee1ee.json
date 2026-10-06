@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Cape View",
+  "url": "/lower-north-island/hawkes-bay/cape-view",
+  "storeId": "{813FB950-712E-4131-970A-252A339EE1EE}",
+  "sitecoreId": 1289,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "12 Clifton Road, Haumoana, Hastings, 4102",
+    "latitude": -39.615918,
+    "longitude": 176.957169,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.capeview@foodstuffs.co.nz",
+    "phone": " 06 875 0598"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Bait",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta45c86d517786ba3/68bf5f40e50061e53400f4af/untitled-1_0068_cape-view---team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Cape View, a second-generation grocer owned by Marie and Michael Percy. We pride ourselves on having something for everyone. From fresh produce, butchery, food to go, and everyday essentials, there is no need to go into town as we have it all here. We love getting to know our customers, and they often stop by to chat with Michael about fishing. We're proud to be part of the community and help out our local clubs and schools where we can.",
+    "socialLinks": []
+  }
+}

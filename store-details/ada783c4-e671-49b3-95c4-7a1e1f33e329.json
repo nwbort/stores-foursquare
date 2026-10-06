@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Fergusson Drive",
+  "url": "/lower-north-island/wellington/fergusson-drive",
+  "storeId": "{ADA783C4-E671-49B3-95C4-7A1E1F33E329}",
+  "sitecoreId": 86037,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Unit 2/1098 Fergusson Drive, Clouston Park, Upper Hutt 5018",
+    "latitude": -41.117436,
+    "longitude": 175.087525,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "fergussonfoods@gmail.com",
+    "phone": "04 526 2587"
+  },
+  "services": [
+    "Produce",
+    "Lotto",
+    "Flowers",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We love being the local store!",
+    "socialLinks": []
+  }
+}

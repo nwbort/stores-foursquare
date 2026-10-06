@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Kawakawa",
+  "url": "/upper-north-island/northland/kawakawa",
+  "storeId": "{7553D29A-77EA-40AA-A30A-DA62F91DE272}",
+  "sitecoreId": 1424,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "73-75 Gillies Street, Kawakawa 0210",
+    "latitude": -35.380174,
+    "longitude": 174.065604,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Kawakawa.FourSquare@foodstuffs.co.nz",
+    "phone": "09 404 0383"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta860dca37c2cf5ec/68bf5f2fe86557fca91395a0/untitled-1_0052_kawakawa-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We're proud to sponsor local rugby teams, and this store has been run by the family for more than 20 years!",
+    "socialLinks": []
+  }
+}

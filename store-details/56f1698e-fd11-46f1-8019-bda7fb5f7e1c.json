@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Hokowhitu",
+  "url": "/lower-north-island/manawatu-whanganui/hokowhitu",
+  "storeId": "{56F1698E-FD11-46F1-8019-BDA7FB5F7E1C}",
+  "sitecoreId": 1312,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "354 Albert Street, Hokowhitu, Palmerston North 4410",
+    "latitude": -40.362979,
+    "longitude": 175.633703,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.hokowhitu@foodstuffs.co.nz",
+    "phone": "06 357 8680"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt863e6d44217ef199/68bf5e96d1f0faa0410f3b42/hokowhitu.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Hokowhitu, located on Albert Street in the heart of Hokowhitu Village, Palmerston North. This welcoming and vibrant store is locally owned and operated by James and Hattie Crawshaw who have a keen focus on community support and customer engagement. We have everything you need to keep stocked up with a great range of groceries, fresh fruits and vegetables, meat and bakery items as well as an excellent selection of beer and wine. With friendly service and knowledgeable staff, our team look forward to welcoming you soon!",
+    "socialLinks": []
+  }
+}

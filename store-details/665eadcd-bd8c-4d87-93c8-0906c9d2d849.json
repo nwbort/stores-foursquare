@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Matakaoa",
+  "url": "/upper-north-island/east-cape/matakaoa",
+  "storeId": "{665EADCD-BD8C-4D87-93C8-0906C9D2D849}",
+  "sitecoreId": 1479,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Rata Street, Te Araroa, Gisborne 4010",
+    "latitude": -37.6340259,
+    "longitude": 178.36918879999996,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "06 864 4874"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Fuel",
+    "Lotto",
+    "Electric Car Charging",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt942b458bbffef597/68bf5ee67fb4011f1c1ef51b/untitled-1_0000_eastern.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "New Zealand's most easterly Four Square store. The East Cape is the first place in the world to see day break. Stop by on your way to the light house. On your way back check out New Zealand's oldest Pohutukawa, which is only 20 metres from our store. Proud sponsors of Tokararangi Sports Club, East Coast Rugby club champions 2020.",
+    "socialLinks": []
+  }
+}

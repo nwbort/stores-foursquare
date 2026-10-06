@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Lawrence",
+  "url": "/south-island/otago/lawrence",
+  "storeId": "{308D685E-B7AD-4F80-B6C7-0E25755B4042}",
+  "sitecoreId": 1615,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "19 Ross Place Lawrence, Otago 9532",
+    "latitude": -45.9129401,
+    "longitude": 169.68659550000007,
+    "island": "south",
+    "region": "South Island",
+    "email": "lawrence@foursquare-si.co.nz",
+    "phone": "03 485 9105"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Electric Car Charging",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd4b1afe38667a8f3/68bf5f8d2169c04639dadc2f/untitled-1_0006_lawrence.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Tony and Julie Patrick take pride in the presentation of their Four Square Supermarket and their friendly staff happily welcome all customers. Our freshly baked bread, fresh produce and meat, and our great range of lunch foods complement our everyday grocery goods. Come in-store for an enjoyable shopping experience.",
+    "socialLinks": []
+  }
+}

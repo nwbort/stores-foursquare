@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Waipapa",
+  "url": "/upper-north-island/northland/waipapa",
+  "storeId": "{02D65524-61EC-44C5-AE80-CE5177649F82}",
+  "sitecoreId": 86036,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1993 State Highway 10, Waipapa, Kerikeri, 0295",
+    "latitude": -35.209387,
+    "longitude": 173.919615,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "david.whyman@4sq.co.nz",
+    "phone": "09 407 8149"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Catering",
+    "Food to Go",
+    "Four Square NOW! Delivery",
+    "Flowers",
+    "Fuel",
+    "Gas Bottle Swap",
+    "Ice",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt203612c9ef4612d2/6aab48b418ccf22350d826f2/Waipapa3.jpeg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Waipapa is located on State Highway 10, in the winterless north, just north of the idyllic Kerikeri. We\u2019re locally owned and operated and have everything from your everyday essentials to your gourmet groceries. We\u2019re big enough to have all your essential grocery needs and small enough to care. With our friendly community focused service, we offer quality fruit & veg, freshly baked breads, wine, beer, fresh flowers and more. Our in-store caf\u00e9 ensures that we have you covered for all your meal needs, breakfast, lunch and dinner, as well as barista coffee and chicken & chips. Gordon, Josie and the team at Four Square Waipapa look forward to welcoming you in store.",
+    "socialLinks": []
+  }
+}

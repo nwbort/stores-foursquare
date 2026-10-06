@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Hanmer Springs",
+  "url": "/south-island/canterbury/hanmer-springs",
+  "storeId": "{201C7B48-809D-40A8-A8CB-051A6825EF59}",
+  "sitecoreId": 1608,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "12 Conical Hill Road, Hanmer Springs 7334",
+    "latitude": -42.521461,
+    "longitude": 172.829431,
+    "island": "south",
+    "region": "South Island",
+    "email": "hanmer@foursquare-si.co.nz",
+    "phone": "03 315 7190"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd723e13d626b03e1/68bf5f9f2169c07bf3dadc3d/untitled-1_0022_john-and-annie-dawber-hamner4square2.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Supermarket Hanmer Springs. We are situated in a gorgeous alpine town and we love looking after the locals and all of the visitors to our gorgeous town. We stock a great range of fresh products including an in store butchery and bakery as well as grazing platters made to order from our deli department. Follow us on Facebook to see what is on offer in store.",
+    "socialLinks": []
+  }
+}

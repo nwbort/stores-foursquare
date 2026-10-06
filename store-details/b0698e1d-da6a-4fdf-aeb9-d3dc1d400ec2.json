@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Marsden Cove",
+  "url": "/upper-north-island/northland/marsden-cove",
+  "storeId": "{B0698E1D-DA6A-4FDF-AEB9-D3DC1D400EC2}",
+  "sitecoreId": 2002,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "30 Rauiri Drive, One Tree Point, Ruakaka 0118",
+    "latitude": -35.83861235440335,
+    "longitude": 174.46959978465742,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "wendy.porter@4sq.co.nz",
+    "phone": "0800 477 827 "
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta13a192d74d9d99c/68bf5ee1046c90955607310b/marsdencove_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Marsden Cove in the heart of Marsden Marina is a brand-new store and is owned and operated by Murali Krishnamurthi. Murali joined the Four Square family twelve years ago when he started running Four Square Russell and is looking forward to bringing his experience to Four Square Marsden Cove and offering a unique shopping experience to the community.  The Four Square supermarket is futureproofed to meet and exceed the needs of the growing Ruak\u0101k\u0101 area. The team are delighted to bring the convenience that a Four Square has to offer in this state-of-the-art design. It provides shoppers with a whole new feel to their Four Square experience providing all the essentials and more, including freshly baked bread in-store, fresh food-to-go, barista coffee, hot chicken and chips, a large walk-in liquor chiller and a Lotto kiosk. ",
+    "socialLinks": []
+  }
+}

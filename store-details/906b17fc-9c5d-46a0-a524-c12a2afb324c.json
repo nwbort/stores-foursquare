@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Omarama",
+  "url": "/south-island/otago/omarama",
+  "storeId": "{906B17FC-9C5D-46A0-A524-C12A2AFB324C}",
+  "sitecoreId": 1630,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "10 Chain Hills Highway, Omarama 9448",
+    "latitude": -44.4882766,
+    "longitude": 169.9659921,
+    "island": "south",
+    "region": "South Island",
+    "email": "omarama@foursquare-si.co.nz",
+    "phone": "03 438 9895"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "Welcome to Four Square Omarama, a local supermarket proudly operated by Craig & Karen Bishop-Everett. Our beloved store has been serving locals and visitors to the region for years. In-store you will find fresh meat, fresh produce, food to go and an excellent range of wine and beer. The store recently underwent a refit, making it a modern and convenient shopping destination. We love being part of the community. Come to Four Square Omarama for all your grocery needs.",
+    "socialLinks": []
+  }
+}

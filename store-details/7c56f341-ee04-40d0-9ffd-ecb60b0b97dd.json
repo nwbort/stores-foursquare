@@ -1,0 +1,75 @@
+{
+  "title": "Four Square West Melton",
+  "url": "/south-island/canterbury/west-melton",
+  "storeId": "{7C56F341-EE04-40D0-9FFD-ECB60B0B97DD}",
+  "sitecoreId": 63866,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1/736 Weedons Ross Road, West Melton Christchurch 7676",
+    "latitude": -43.523166,
+    "longitude": 172.370291,
+    "island": "south",
+    "region": "South Island",
+    "email": "westmelton@foursquare-si.co.nz ",
+    "phone": "03 347 1025 "
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Gas Bottle Swap",
+    "Food to Go",
+    "ATM",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square West Melton! We're a local supermarket that opened in 2016. We pride ourselves on providing an outstanding personal shopping experience by offering quality fresh foods and products our customers want. You may have seen us feature on TVNZ Good Sorts and we recently celebrated our 96th birthday by making Four Square's 'biggest 6 year old fan' the temporary Store Manager. We are lucky to be a part of an amazing a community and are a proud sponsors of many local sports clubs, teams, individuals, community and school events.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/FourSquareWestMelton/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

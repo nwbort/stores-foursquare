@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Fairlie",
+  "url": "/south-island/canterbury/fairlie",
+  "storeId": "{28051FDE-5413-4897-A9FF-960E75BA92E9}",
+  "sitecoreId": 1603,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Main Street, Fairlie 7925",
+    "latitude": -44.09814,
+    "longitude": 170.829481,
+    "island": "south",
+    "region": "South Island",
+    "email": "fairlie@foursquare-si.co.nz",
+    "phone": "03 685 8081"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltc0a703f48b4cb777/6a7e2c66d2ed333f38836ab0/Dave_and_Kim.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Whether you're a local legend, a regular visitor, or just passing through our beautiful township, Four Square Fairlie is your one-stop shop for all the essentials, and a few treats along the way! Conveniently located at 82 Main Street, and proudly owned and operated by Dave and Kim MacKenzie, we are more than just a grocery store; we're part of the community and proud to be a part of your daily routine.  We love to help you fill your trolley with fresh produce, quality locally sourced meats, and all your BBQ favourites for those long summer evenings. When the temperature drops, we've also got the perfect selection of slow-cook cuts and winter warmers to help create hearty, comforting meals at home.  We are proud to host MacKenzie Coffee Co. in-store! Grab a fresh brew to go and don't forget to pick up our Coffee Card, your 10th cup is on us. Known as the go-to destination beyond the bakery, we offer a delicious range of freshly made sandwiches and rolls, hearty roast meals prepared in-store, yummy pies, quick snacks, sweet treats, and all the essentials to get you through that mid-afternoon slump.  We are committed to providing friendly, personalised service to every customer. Our team takes pride in creating a welcoming in-store experience and are always happy to go the extra mile to help you find exactly what you need.  We are also the only Lotto retailer in town.  Whether you're off to the lake, heading into the hills for a hunt, or settling into a local Airbnb, don't let the chilly bin or fridge go empty. Pop in and let us get you ready with our great range of chilled beers and wines, easy-to-prepare meals, ready-made food options, snacks, and all the essentials for a relaxing getaway or your next memory making adventure.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Ohauiti",
+  "url": "/upper-north-island/bay-of-plenty/ohauiti",
+  "storeId": "{03E13379-6AA5-4035-9EE0-E60F52E7295B}",
+  "sitecoreId": 37163,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "154 Ohauiti Road, Hairini, Tauranga 3112",
+    "latitude": -37.734334,
+    "longitude": 176.163711,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Ohauiti.4sq@4sq.co.nz",
+    "phone": "07 544 4077"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We've been serving Ohauiti for the last 20 years!",
+    "socialLinks": []
+  }
+}

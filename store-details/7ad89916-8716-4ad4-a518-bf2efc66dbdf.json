@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Akaroa",
+  "url": "/south-island/canterbury/akaroa",
+  "storeId": "{7AD89916-8716-4AD4-A518-BF2EFC66DBDF}",
+  "sitecoreId": 1586,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "72 Rue Lavaud, Akaroa 7520",
+    "latitude": -43.804871,
+    "longitude": 172.967097,
+    "island": "south",
+    "region": "South Island",
+    "email": "akaroa@foursquare-si.co.nz",
+    "phone": "03 304 7054"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blta8e3399e08ec44d3/68bf5fab2169c000dedadc49/untitled-1_0034_akaroa.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Akaroa. We're a local supermarket, founded in 1924 and proudly owned and operated by John Ingram. The store offers a great variety of fresh foods, groceries, meal solutions, and excellent customer service. We take pride in being involved in our local community and providing easy access to quality products.",
+    "socialLinks": []
+  }
+}

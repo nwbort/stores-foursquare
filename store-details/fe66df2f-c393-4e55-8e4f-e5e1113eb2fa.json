@@ -1,0 +1,66 @@
+{
+  "title": "Four Square St Clair",
+  "url": "/south-island/otago/st-clair",
+  "storeId": "{FE66DF2F-C393-4E55-8E4F-E5E1113EB2FA}",
+  "sitecoreId": 1647,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "145 Forbury Road, St Clair, Dunedin 9012",
+    "latitude": -45.906874,
+    "longitude": 170.487511,
+    "island": "south",
+    "region": "South Island",
+    "email": "stclair@foursquare-si.co.nz",
+    "phone": "03 455 7658"
+  },
+  "services": [
+    "Produce",
+    "NZ Post agency",
+    "Alcohol",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0abacb1532350817/68bf5f89b09280e9334fc1c0/untitled-1_0003_4sq-st-clair-1.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are proud owners of the St Clair Four Square since 2001. Just up the road from the famous St Clair Esplanade, we stock everything your family needs. We are so appreciative of the support from our locals and love watching their families grow and change over generations. Our team is passionate about supporting and promoting local producers of fresh, unique and quality products. Over the years, we have enjoyed delivering weekly grocery orders to our local elderly care providers and schools. Also, it is great to offer our sponsorship support to local sports teams, schools and clubs.",
+    "socialLinks": []
+  }
+}

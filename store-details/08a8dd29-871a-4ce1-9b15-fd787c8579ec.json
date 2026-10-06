@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Foxton Beach",
+  "url": "/lower-north-island/manawatu-whanganui/foxton-beach",
+  "storeId": "{08A8DD29-871A-4CE1-9B15-FD787C8579EC}",
+  "sitecoreId": 1309,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "61 Seabury Avenue, Foxton Beach 4815",
+    "latitude": -40.468217,
+    "longitude": 175.240087,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.foxtonbeach@foodstuffs.co.nz",
+    "phone": "06 363 5561"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Fuel",
+    "Lotto",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Foxton Beach is your one stop shop, offering everything you need from a local supermarket. Fresh baked bread, chicken & chips, grocery, liquor, meat, produce, Lotto and petrol. A local supermarket that believes in giving back to the community that supports it, offering support not only to local clubs and events but also individual representatives and community support groups. Pop in and say hello - we look forward to seeing your smiling faces. Foxton Beach Four Square - the community\u2019s local!",
+    "socialLinks": []
+  }
+}

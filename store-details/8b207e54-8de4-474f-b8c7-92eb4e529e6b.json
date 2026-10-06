@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Picton",
+  "url": "/south-island/marlborough/picton",
+  "storeId": "{8B207E54-8DE4-474F-B8C7-92EB4E529E6B}",
+  "sitecoreId": 1635,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "49 High Street, Picton 7220",
+    "latitude": -41.2903892,
+    "longitude": 174.00654669999994,
+    "island": "south",
+    "region": "South Island",
+    "email": "picton@foursquare-si.co.nz",
+    "phone": "03 573 6443"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Ice",
+    "Bait",
+    "Catering",
+    "Deli",
+    "Local Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5b71864cfa950a69/68bf5f92bf77ef5479f040da/june_21_picton-four-square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Picton, a local supermarket in the beautiful town of Picton. We are a family-run store owned and operated by Rachel and Pete Seddon. We offer a good range of essentials and treats for both our fantastic locals and our visitors; we will stock what our customers want if it's possible. We also offer a delicious selection of ready-to-eat food for those on the go. We love that we can partner with local organisations. We sponsor kids softball at Waitohi Softball and work with Picton School when they have special events.",
+    "socialLinks": []
+  }
+}

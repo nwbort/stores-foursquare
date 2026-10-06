@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Cambridge",
+  "url": "/upper-north-island/waikato/cambridge",
+  "storeId": "{1E88563B-B97E-4A88-B97A-50B3942B3F46}",
+  "sitecoreId": 9999991,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "38 Thornton Road, Cambridge, Waikato 3434",
+    "latitude": -37.8867,
+    "longitude": 175.47108,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 621 0600 "
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0317ea2ffb36af1e/68bf5edc046c907582073103/cambridge_560-x-560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Dinesh and Nimisha are familiar faces to Cambridge locals, having previously run the nearby Parkview Superette since 2003. They are excited to be joining the Four Square brand to offer a wider choice of products and expand their offering to meet the needs of the community. The new store will have everything that locals and visitors need, including freshly baked bread, healthy \u2018ready-to-eat\u2019 meals, hot chicken and chips, and ice cream by the scoop!",
+    "socialLinks": []
+  }
+}

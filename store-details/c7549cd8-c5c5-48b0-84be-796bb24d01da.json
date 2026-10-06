@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Bombay",
+  "url": "/upper-north-island/auckland/bombay",
+  "storeId": "{C7549CD8-C5C5-48B0-84BE-796BB24D01DA}",
+  "sitecoreId": 86199,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "216 Mill Road, Bombay, Auckland 2675",
+    "latitude": -37.192959,
+    "longitude": 174.98123,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "bombay.foursquare@4sq.co.nz",
+    "phone": "09 947 7761"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Produce",
+    "Scoop Ice Cream",
+    "Seafood",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt440a7c92cd0c888a/68bf5e4fe865573c79139522/screenshot-2025-05-19-092956.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Bombay, a local supermarket owned and operated by David Lowe, who has over 22 years of experience in the industry. We offer a wide range of products, including fresh foods, groceries, general merchandise, liquor, scoop ice cream, flowers, and food to go. We love getting to know our customers and being involved in the local community. We sponsor many local groups and events, such as the Bombay Rugby Club, Bombay School Calf Day, Bombay Farm Run and Walk, and many more.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Port Chalmers",
+  "url": "/south-island/otago/port-chalmers",
+  "storeId": "{91D82E59-3AD7-41AB-8E47-0F16D460D60B}",
+  "sitecoreId": 54885,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "63 George Street, Port Chalmers, 9023",
+    "latitude": -45.817153,
+    "longitude": 170.61989,
+    "island": "south",
+    "region": "South Island",
+    "email": "portchalmers@foursquare-si.co.nz",
+    "phone": "03 472 8746"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Ice",
+    "Bait",
+    "Deli",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5a3fafc0733d18d6/68bf5f917fb40108e01ef577/untitled-1_0009_portchalmers.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Port Chalmers, a local supermarket built in the 70s as a New World; the store was rebranded in 2015. Owned and operated by Aaron and Lisa Challis, we offer a warm and relaxed environment for our customers. We are proud sponsors of our West Harbour Rugby, Football, swimming, and Golf clubs, and we support our local schools and community events. We really enjoy the day-to-day interactions with our community and help our young staff grow while supporting what's important to the West Harbour Community.",
+    "socialLinks": []
+  }
+}

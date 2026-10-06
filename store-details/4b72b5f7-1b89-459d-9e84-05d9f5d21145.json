@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Eastbourne",
+  "url": "/lower-north-island/wellington/eastbourne",
+  "storeId": "{4B72B5F7-1B89-459D-9E84-05D9F5D21145}",
+  "sitecoreId": 1355,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "10 Oroua Street, Eastbourne, Lower Hutt, 5013",
+    "latitude": -41.289956,
+    "longitude": 174.89705,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.eastbourne@foodstuffs.co.nz",
+    "phone": "04 562 7343"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Our team at Four Square Eastbourne take pride in serving our local community, we also enjoy welcoming the beach loving day trippers who visit our thriving little village. We endeavour to make sure our customers leave with everything they need and a smile on their faces.",
+    "socialLinks": []
+  }
+}

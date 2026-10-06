@@ -1,0 +1,73 @@
+{
+  "title": "Four Square M\u0101pua",
+  "url": "/south-island/nelson/mapua",
+  "storeId": "{AD5FF277-23CA-4612-9231-D6360C9024B6}",
+  "sitecoreId": 1620,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "64 Aranui Road, M\u0101pua, Nelson 7005",
+    "latitude": -41.2532022,
+    "longitude": 173.09580890000007,
+    "island": "south",
+    "region": "South Island",
+    "email": "mapua@foursquare-si.co.nz",
+    "phone": "03 540 2890"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Catering",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltc7916b7e20f72fcf/68bf5f987fb401d8361ef57f/untitled-1_0017_mapua-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square M\u0101pua, a local supermarket owned and operated by Taryn & Shaun McFadden since 2020. Our beloved store has been serving locals for years and includes a full butchery, fresh produce, and a massive range of local wines and craft beers. The store recently underwent a refit, making it a modern and convenient shopping destination. We love being part of the community, and with the support of the Foodstuffs South Island Community Trust, we have been able to support Mapua School, M\u0101pua Community Hall, and many more. Come to Four Square M\u0101pua for all your grocery needs.",
+    "socialLinks": []
+  }
+}

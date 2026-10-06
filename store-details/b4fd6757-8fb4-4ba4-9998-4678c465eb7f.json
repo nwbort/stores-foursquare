@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Palmerston",
+  "url": "/south-island/otago/palmerston",
+  "storeId": "{B4FD6757-8FB4-4BA4-9998-4678C465EB7F}",
+  "sitecoreId": 1634,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "59 Tiverton Street, Palmerston, Otago 9430",
+    "latitude": -45.484191,
+    "longitude": 170.714572,
+    "island": "south",
+    "region": "South Island",
+    "email": "nick.colhoun@foursquare-si.co.nz",
+    "phone": "03 465 1164"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Deli",
+    "Seafood",
+    "Bait",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0716df6ce7db2295/68bf5f932169c0ab99dadc33/untitled-1_0011_palmerston.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Palmerston, a local supermarket serving the community for over 80 years. Owned and operated by Nick and Natala Colhoun, we offer something for everyone from fresh produce and meat, to a freshly made sandwich or salad for lunch. Nick's lifelong dream of owning a supermarket has become a reality, and he and his wife are committed to providing quality products and excellent service to their customers. We are proud members of our local community. We sponsor various local clubs and community groups.",
+    "socialLinks": []
+  }
+}

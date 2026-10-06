@@ -1,0 +1,77 @@
+{
+  "title": "Four Square Te Mata",
+  "url": "/lower-north-island/hawkes-bay/te-mata",
+  "storeId": "{BA8BBE6B-1089-4437-8745-B042C452DBB5}",
+  "sitecoreId": 1299,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "171 Te Mata Road, Havelock North Hawkes Bay 4130",
+    "latitude": -39.667888,
+    "longitude": 176.896345,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.temata@foodstuffs.co.nz",
+    "phone": "06 877 0925"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Produce",
+    "Seafood",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltb27544b145d22c7a/68bf5e8c5aad5004bce35dc8/te-mata.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Te Mata, a local supermarket owned by Jake and Sarah Coleman. After starting in Whitianga in 2021, we moved to Havelock North in 2023 to take over Four Square Te Mata. Our small-format store has everything you need\u2014pies, sushi, fresh produce, meats, gourmet meal solutions, and local products that showcase our region's best. Enjoy our Gold Card discount every Tuesday, and know that we proudly support Nourished for Nil and other community causes. We're lucky to be part of this vibrant community at the foot of Te Mata Peak! ",
+    "socialLinks": [
+      {
+        "href": "https://www.instagram.com/foursquaretemata/",
+        "title": "Follow us on Instagram"
+      }
+    ]
+  }
+}

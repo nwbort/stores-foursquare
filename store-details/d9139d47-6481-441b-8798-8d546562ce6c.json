@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Tairua",
+  "url": "/upper-north-island/coromandel/tairua",
+  "storeId": "{D9139D47-6481-441B-8798-8D546562CE6C}",
+  "sitecoreId": 1437,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "234 Main Road, Tairua 3508",
+    "latitude": -37.001123,
+    "longitude": 175.849046,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "07 864 8582"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Bakery",
+    "ATM",
+    "Food to Go",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Tairua, a local supermarket owned and operated by Rob & Erin Adam. Rob & Erin have been operating the store for 26 years. We are customer-focused and service-oriented, providing all the essentials and then the perfect items for a beach day in our little town. We are the only grocer within a 45 km radius. We support our little community in many ways such as sponsoring our local Rugby Club, Bowling Club, Golf Club, St John's, Friendship Club and various other organisations within our community.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/FourSquareTairua/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

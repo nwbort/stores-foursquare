@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Wyndham",
+  "url": "/south-island/southland-and-stewart-island/wyndham",
+  "storeId": "{601F1531-5E54-4F7E-978D-8BD6E1D2AB2D}",
+  "sitecoreId": 1637,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "39 Balaclava Street, Wyndham 9831",
+    "latitude": -46.3295094,
+    "longitude": 168.84862199999998,
+    "island": "south",
+    "region": "South Island",
+    "email": "wyndham@foursquare-si.co.nz",
+    "phone": "03 206 4645"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "ATM",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "NZ Post agency"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Wyndham. A local supermarket proudly serving the lower Mataura Valley community for over 40 years. Owned and operated by Shane and Emma Stuck who have over 20 years of experience in the industry. We offer everything you could need from gardening tools to fresh baked bread made in store. We are active in the local community, managing sports teams and helping to organise local events. We love the great conversations with locals and that every day is unique.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/wyndham4square/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Weston",
+  "url": "/south-island/otago/weston",
+  "storeId": "{B0637805-CB39-48E9-A928-AE0526492007}",
+  "sitecoreId": 1662,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "21 Main Street, Weston 9401",
+    "latitude": -45.0799106,
+    "longitude": 170.9177982,
+    "island": "south",
+    "region": "South Island",
+    "email": "weston@foursquare-si.co.nz",
+    "phone": "03 434 9886"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "Catering",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "Welcome to Four Square Weston, a local supermarket serving the community since the 1970s. We stock fresh and locally grown produce. We have an in-store butchery that we use daily to create an excellent and fresh range of meat, including delicious in store made Weston Sausages. We a pride ourselves on supporting the local customers and community, sponsoring local sports teams and other community events where possible. ",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/foursquareweston/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

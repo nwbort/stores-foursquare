@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Karamea",
+  "url": "/south-island/west-coast/karamea",
+  "storeId": "{0CB25657-23D4-4DAC-84AD-56B98A035745}",
+  "sitecoreId": 1613,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "103 Bridge Street, Karamea 7893",
+    "latitude": -41.251523,
+    "longitude": 172.128517,
+    "island": "south",
+    "region": "South Island",
+    "email": "karamea@foursquare-si.co.nz",
+    "phone": "03 782 6701"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "NZ Post agency"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

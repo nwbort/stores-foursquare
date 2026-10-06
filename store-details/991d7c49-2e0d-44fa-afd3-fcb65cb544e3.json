@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Pleasant Point",
+  "url": "/south-island/canterbury/pleasant-point",
+  "storeId": "{991D7C49-2E0D-44FA-AFD3-FCB65CB544E3}",
+  "sitecoreId": 1636,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "93 Main Road, Pleasant Point 7903",
+    "latitude": -44.260098,
+    "longitude": 171.129129,
+    "island": "south",
+    "region": "South Island",
+    "email": "pleasantpoint@foursquare-si.co.nz",
+    "phone": "03 614 7426"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering",
+    "Deli",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte096765302abf67c/6aa879d1e65bdf6f0ef2b9df/IMG_8835.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Pleasant Point. \nWe\u2019re Nik, Shweta, Hanish and Vaani Khant, and we\u2019re absolutely thrilled to call Pleasant Point our home.\nOur goal is to bring great service, a friendly smile, and a strong community spirit to everyone who walks through our doors.\nSo please, pop in and say hi! We\u2019d love to meet you all and become a familiar face in your everyday routine.",
+    "socialLinks": []
+  }
+}

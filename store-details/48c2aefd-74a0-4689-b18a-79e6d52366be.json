@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Kaiwaka",
+  "url": "/upper-north-island/northland/kaiwaka",
+  "storeId": "{48C2AEFD-74A0-4689-B18A-79E6D52366BE}",
+  "sitecoreId": 1420,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1 Kaiwaka Mangawhai Road, Northland, Kaiwaka 0975",
+    "latitude": -36.160789,
+    "longitude": 174.444135,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 431 2227"
+  },
+  "services": [
+    "Produce",
+    "Lotto",
+    "Alcohol",
+    "Butchery",
+    "Bakery",
+    "Gas Bottle Swap",
+    "Ice",
+    "Bait",
+    "Food to Go",
+    "Takeaway Coffee",
+    "Flowers",
+    "ATM",
+    "Catering",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Kaiwaka, a local supermarket owned and operated by Molly and Ben Steiner. With 7 years in Foodstuffs and after running Four Square Kaponga, we took over Four Square Kaiwaka, formerly Jaques, established in 1924 by the Jaques family, who owned it for 97 years. We\u2019re passionate about continuing their legacy in this unique, tight-knit community. We love supporting local groups like the Kaiwaka Sports Association, St Johns, and the Kaiwaka School. Being part of this community is a joy, and we\u2019re grateful to work with such amazing people.",
+    "socialLinks": []
+  }
+}

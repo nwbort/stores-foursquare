@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Hawarden",
+  "url": "/south-island/canterbury/hawarden",
+  "storeId": "{35B6715A-8E1D-456B-B0DE-4D392826C941}",
+  "sitecoreId": 1610,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "5:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "12:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "Closed",
+      "openUntil": "",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1 High Street Hawarden 7385",
+    "latitude": -42.92317,
+    "longitude": 172.641714,
+    "island": "south",
+    "region": "South Island",
+    "email": "hawarden@foursquare-si.co.nz",
+    "phone": "03 314 4037"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "The Hawarden store has been operating for more than 90 years. It was originally known as the Farmers Cooperative where it supplied everything from whiteware to haberdashery. It became the A1 then more recently in the late 1980\u2019s it became part of the Four Square Group. Dan and Wendy Hodgen have owned and operated the Hawarden Four Square since June 2007 and are proud to be part of the Hawarden-Waikari Community",
+    "socialLinks": []
+  }
+}

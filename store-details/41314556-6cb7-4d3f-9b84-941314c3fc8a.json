@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Reefton",
+  "url": "/south-island/west-coast/reefton",
+  "storeId": "{41314556-6CB7-4D3F-9B84-941314C3FC8A}",
+  "sitecoreId": 1641,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "47 Broadway, Reefton 7830",
+    "latitude": -42.119833,
+    "longitude": 171.86634,
+    "island": "south",
+    "region": "South Island",
+    "email": "reefton@foursquare-si.co.nz",
+    "phone": "03 732 8888"
+  },
+  "services": [
+    "Produce",
+    "Bakery",
+    "Butchery",
+    "Alcohol",
+    "Electric Car Charging",
+    "Food to Go",
+    "Flowers"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

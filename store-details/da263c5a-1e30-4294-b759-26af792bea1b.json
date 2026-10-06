@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Clive",
+  "url": "/lower-north-island/hawkes-bay/clive",
+  "storeId": "{DA263C5A-1E30-4294-B759-26AF792BEA1B}",
+  "sitecoreId": 1290,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "198 Main Road, Clive, Hawke's Bay 4102",
+    "latitude": -39.582887,
+    "longitude": 176.916221,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": ""
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Lotto"
+  ],
+  "enableAboutSection": false,
+  "aboutStore": {
+    "imageUrl": null,
+    "description": "",
+    "socialLinks": []
+  }
+}

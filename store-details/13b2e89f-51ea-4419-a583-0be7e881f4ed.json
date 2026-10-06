@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Aramoho",
+  "url": "/lower-north-island/manawatu-whanganui/aramoho",
+  "storeId": "{13B2E89F-51EA-4419-A583-0BE7E881F4ED}",
+  "sitecoreId": 1336,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "138 Somme Parade Whanganui 4500",
+    "latitude": -39.909646,
+    "longitude": 175.053651,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "aramoho4square@foodstuffs.co.nz",
+    "phone": "06 343 6364"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Flowers",
+    "Ice",
+    "Food to Go",
+    "Seafood"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt28a0afdfdde17160/6a4ee382e3502845caebe89b/Untitled_design_(12).png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Aramoho, your local supermarket in the north of Whanganui, proudly owned by Lachlan Yung. We offer a great range of fresh produce, meat, bakery favourites, everyday essentials, and hot food to go, including our popular chicken and chips. Our team is passionate about supporting the local community and making customers feel welcome when they walk through our doors. ",
+    "socialLinks": []
+  }
+}

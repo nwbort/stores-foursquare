@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Whanganui East",
+  "url": "/lower-north-island/manawatu-whanganui/whanganui-east",
+  "storeId": "{5DB6E94C-CAE7-49E3-BDB1-5486BDB59EF7}",
+  "sitecoreId": 1339,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "77 Moana Street, Whanganui East, Whanganui 4500",
+    "latitude": -39.91699,
+    "longitude": 175.059547,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "nick.gordon@foodstuffs.co.nz",
+    "phone": "06 343 9041"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Produce",
+    "Seafood",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltf64d067838fea7cd/6aac95c751c1071d3f4b7527/Four-Square-Whanganui-East-ownerwe.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Whanganui East. A local supermarket owned and operated by Tony and Lesly. We offer a great selection from fresh produce, baked breads, quality meats, and a great range of hot and cold food options\u2014from chicken and chips to fresh sandwiches and wraps. With over 15 years in supermarkets, we love retail and are passionate about supporting our local schools, charities, and sports groups. We love what we do, especially the daily chats with our awesome customers.",
+    "socialLinks": []
+  }
+}

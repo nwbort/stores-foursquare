@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Coopers Beach",
+  "url": "/upper-north-island/northland/coopers-beach",
+  "storeId": "{14AEC33D-62BF-440B-A45B-9D8B035D7E9E}",
+  "sitecoreId": 1417,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "9 Coopers Drive, Coopers Beach 0420",
+    "latitude": -34.992297,
+    "longitude": 173.509495,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "coopersbeach.4sq@4sq.co.nz",
+    "phone": "09 406 0577"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Bait",
+    "Flowers",
+    "Food to Go",
+    "Seafood",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt7ffa47cf4186b0c5/68bf5ee07fb40115511ef517/kane.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Coopers Beach, a local supermarket owned and operated by Shar and Ben. We offer a great range, including delicious in-store chicken and chips, daily fresh sushi and sandwiches, and a variety of fresh, quality products in our bakery, butchery, and seafood sections. The store has received numerous glowing reviews, showcasing our customers' memorable experiences and the strong relationships we've built over time. Our store is deeply embedded in the fabric of the community, and we actively sponsor a wide array of local activities and groups.",
+    "socialLinks": []
+  }
+}

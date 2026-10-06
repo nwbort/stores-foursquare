@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Huntly",
+  "url": "/upper-north-island/waikato/huntly",
+  "storeId": "{E1FADEF2-B73C-4AF9-93D6-7471D4A72085}",
+  "sitecoreId": 1902,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "101 Bailey Street, Huntly 3700",
+    "latitude": -37.53618607093683,
+    "longitude": 175.16108361534262,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "",
+    "phone": ""
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt45146fa4e5ec064a/68bf5e85bf77ef7c5af04082/huntly-outside.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Huntly offers a wide range of everyday essentials, fresh foods, along with a great range of convenient meal solutions. The store will also have a food to go kiosk, including barista-made coffee, hot chicken & chips and delicious pies. ",
+    "socialLinks": []
+  }
+}

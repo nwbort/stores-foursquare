@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Eket\u0101huna",
+  "url": "/lower-north-island/manawatu-whanganui/eketahuna",
+  "storeId": "{E3B3FE95-BBE9-4D28-B879-04A25490AF9E}",
+  "sitecoreId": 1308,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "25 Main Street, Eket\u0101huna, 4900",
+    "latitude": -40.6449640250414,
+    "longitude": 175.70311675705037,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.eketahuna@foodstuffs.co.nz",
+    "phone": "06 375 8266"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Proudly locally owned and operated. Proud supporter of Eket\u0101huna Rugby Club, Eket\u0101huna Golf Club, Eket\u0101huna Bowling Club, Eket\u0101huna Lawn Mower Racing, Eket\u0101huna Home and School.",
+    "socialLinks": []
+  }
+}

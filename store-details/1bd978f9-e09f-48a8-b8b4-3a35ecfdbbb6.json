@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Te Ngae",
+  "url": "/upper-north-island/central-plateau/te-ngae",
+  "storeId": "{1BD978F9-E09F-48A8-B8B4-3A35ECFDBBB6}",
+  "sitecoreId": 1556,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "10 Te Ngae Shopping Centre, Te Ngae Road, Rotorua 3010",
+    "latitude": -38.133845,
+    "longitude": 176.29471,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "tengae.foursquare@foodstuffs.co.nz",
+    "phone": "07 345 3380"
+  },
+  "services": [
+    "Produce",
+    "Post Shop",
+    "Alcohol",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt836c1b344680aaad/68bf5f07bf77ef1b88f0409c/untitled-1_0014_te-ngae-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We stock local suppliers in store and been in business here more than 15 years.",
+    "socialLinks": []
+  }
+}

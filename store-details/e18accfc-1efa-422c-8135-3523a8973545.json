@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Red Beach",
+  "url": "/upper-north-island/auckland/red-beach",
+  "storeId": "{E18ACCFC-1EFA-422C-8135-3523A8973545}",
+  "sitecoreId": 1406,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "42 Red Beach Road, Red Beach, Whangaparaoa 0932",
+    "latitude": -36.605983,
+    "longitude": 174.698375,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Redbeach.4sq@foodstuffs.co.nz",
+    "phone": "09 906 3969"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Butchery",
+    "Flowers",
+    "Lotto",
+    "Post Shop",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Locally owned and operated by Omar for the last 9 months. Four Square Red Beach is the go-to top up shop with a friendly team wanting serve the local community and give back through sponsoring the Red Beach Primary School, Red Beach Surf Life Saving Club and the Hibiscus Coast Hospice.",
+    "socialLinks": []
+  }
+}

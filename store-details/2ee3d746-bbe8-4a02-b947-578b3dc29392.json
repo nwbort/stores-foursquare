@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Lake Taupo",
+  "url": "/upper-north-island/central-plateau/lake-taupo",
+  "storeId": "{2EE3D746-BBE8-4A02-B947-578B3DC29392}",
+  "sitecoreId": 1559,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "65 Rifle Range Road Taupo 3330",
+    "latitude": -38.691211,
+    "longitude": 176.080926,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "nilinpatel@gmail.com",
+    "phone": "07 378 4551"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "ATM"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are proud to part of the oldest supermarket chain in New Zealand and serving our local community for over 70 years.",
+    "socialLinks": []
+  }
+}

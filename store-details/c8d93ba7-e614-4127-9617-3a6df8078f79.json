@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Waikanae Beach",
+  "url": "/lower-north-island/wellington/waikanae-beach",
+  "storeId": "{C8D93BA7-E614-4127-9617-3A6DF8078F79}",
+  "sitecoreId": 1382,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "28 Tutere Street, Waikanae Beach, Wellington 5036",
+    "latitude": -40.8612954,
+    "longitude": 175.02469540000004,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.waikanaebeach@foodstuffs.co.nz",
+    "phone": "04 293 5592"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Electric Car Charging",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt070d1938c9f1c5cb/68bf5ef7b092801b324fc196/untitled-1_0007_waikanae-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Waikanae Beach is a modern superette across the road from Waikanae Beach on the Kapiti Coast. We are known by virtually the entire Waikanae community for our cleanliness, responsiveness to consumer needs and continual growth to name a few aspects of our store. The most notable trait would be our personal and friendly approach towards our customers. Hence, it is no surprise that our business is very community oriented, being open every single day of the year - providing all the necessities and much more! We offer an endless number of different products and services. To list a few, we have an expansive array of grocery goods, drinks, meat, fresh fish, fresh flowers, fresh produce, craft beer, dairy, bakery and confectionery. This is so that many of our locals are able to do their weekly shop with us. ",
+    "socialLinks": []
+  }
+}

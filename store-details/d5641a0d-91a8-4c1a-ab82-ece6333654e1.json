@@ -1,0 +1,75 @@
+{
+  "title": "Four Square St Heliers",
+  "url": "/upper-north-island/auckland/st-heliers",
+  "storeId": "{D5641A0D-91A8-4C1A-AB82-ECE6333654E1}",
+  "sitecoreId": 9999992,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "28 Saint Heliers Bay Road, St Heliers, Auckland 1071",
+    "latitude": -36.8509,
+    "longitude": 174.85782,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 869 2425"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Catering",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Real Fruit Ice Cream",
+    "Seafood",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd6d29c495a671c7c/68bf5e55b09280b6394fc138/stheliersowners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square St Heliers, a local supermarket owned and operated by fourth-generation grocer Stacey Huston and her partner Troy. Located in the village center we offer a variety of fresh and healthy foods, including real fruit ice creams, barista-made coffee, deli sandwiches, pastries, and hot food to go. We host a series of free in store community events and get involved in sponsoring a large number of clubs, schools and events and provides food to 'Everybody Eats' in Glen Innes.",
+    "socialLinks": []
+  }
+}

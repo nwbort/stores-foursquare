@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Ellerslie",
+  "url": "/upper-north-island/auckland/ellerslie",
+  "storeId": "{B7609BE7-C28B-470F-8CB8-BCD44005FFBF}",
+  "sitecoreId": 1392,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "126 Main Highway, Ellerslie, Auckland 0100",
+    "latitude": -36.897885,
+    "longitude": 174.809678,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Ellerslie.FourSquare@foodstuffs.co.nz",
+    "phone": "09 579 5259"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are proud of our range, choice and quality, especially on our craft beer range and fresh produce. Check out Four Square Ellerslie for your daily family shopping or your own jollies.",
+    "socialLinks": []
+  }
+}

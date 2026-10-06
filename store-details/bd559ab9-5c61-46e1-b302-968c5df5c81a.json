@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Urenui",
+  "url": "/lower-north-island/taranaki/urenui",
+  "storeId": "{BD559AB9-5C61-46E1-B302-968C5DF5C81A}",
+  "sitecoreId": 1334,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "6.30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "16 Ngakoti Street, Urenui, Taranaki 4349",
+    "latitude": -38.99754679999999,
+    "longitude": 174.39048349999996,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.urenui@foodstuffs.co.nz",
+    "phone": "06 752 3895"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt39f046807422fc9a/69bb2afa056ec4812b47d405/Screenshot_2026-03-19_114421.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Urenui is proudly run by Sean and Mia, who bring supermarket experience and fresh energy to the store. Sean grew up in Four Square and has spent over 20 years in the industry, while Mia brings strengths from HR and retail. They\u2019re excited to build on the great foundation created by the previous owners and team. Their focus is on thoughtful improvements, strong community connections, and supporting local suppliers.",
+    "socialLinks": []
+  }
+}

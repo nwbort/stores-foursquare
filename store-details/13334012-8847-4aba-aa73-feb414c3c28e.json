@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Remuera",
+  "url": "/upper-north-island/auckland/remuera",
+  "storeId": "{13334012-8847-4ABA-AA73-FEB414C3C28E}",
+  "sitecoreId": 998811,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "6:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "561 Remuera Road, Remuera, Auckland 1050",
+    "latitude": -36.88064,
+    "longitude": 174.81178,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 558 2180"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltda754010df7511b5/68bf5ee3d1f0fa78e60f3b62/remuera_500x500.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "The purpose-built store has been specifically designed for the Remuera community and is run by Robert Sinclair and his two daughters Scarlett and Harriet who all live locally.\u00a0The store has a fantastic fresh foods section, a Lewis Road Creamery refillery station, self-checkouts, along with a great range of convenient meal solutions including sushi and croissants and barista-made Flight coffee.\u00a0",
+    "socialLinks": []
+  }
+}

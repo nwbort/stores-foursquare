@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Eden Terrace",
+  "url": "/upper-north-island/auckland/eden-terrace",
+  "storeId": "{86D054C0-C527-4B78-9357-B583EB678B94}",
+  "sitecoreId": 8266,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "22-24 New North Road, Eden Terrace, Auckland 1021.\u00a0",
+    "latitude": -36.8509,
+    "longitude": 174.7598,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": ""
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go",
+    "Takeaway Coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt2b06ae031bdeb481/68bf5edde500614a4b00f485/eden-terrace-1-1.jpeg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Eden Terrace offers a wide range of essentials, fresh foods, self-checkouts, along with a great range of convenient meal solutions including sushi, croissants, barista-made Flight coffee and food-to-go options from premium bakers, Daily Bread.\u00a0\u00a0",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/FourSquareEdenTerrace/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

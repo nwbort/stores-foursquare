@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Te K\u014dwhai",
+  "url": "/upper-north-island/waikato/te-kowhai",
+  "storeId": "{EF676F39-E310-48C9-A398-597EAF2B798A}",
+  "sitecoreId": 8284,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "561 Horotiu Road, Te Kowhai 3288",
+    "latitude": -37.73569,
+    "longitude": 175.1539,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "",
+    "phone": "07 392 2525"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Bakery",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Designed to meet the needs of the Te K\u014dwhai community, there\u2019s a focus on convenience and ease with the new store offering a\u202fwide\u202frange of\u202fessentials,\u202ffresh foods, self-checkouts, along with a great range of convenient meal solutions including\u202fbarista-made Flight coffee and\u202ffood-to-go\u202foptions\u202fincluding fresh sandwiches,\u202fGoodtime Pies, chicken and chips and hot cooked chicken.\u00a0",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/4SquareTeKowhai",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

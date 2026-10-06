@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Darfield",
+  "url": "/south-island/canterbury/darfield",
+  "storeId": "{D1D6D658-4E4B-4184-823C-7419336036A4}",
+  "sitecoreId": 1601,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "76 South Terrace, Darfield Canterbury",
+    "latitude": -43.489318,
+    "longitude": 172.108109,
+    "island": "south",
+    "region": "South Island",
+    "email": "darfield@foursquare-si.co.nz",
+    "phone": "03 318 8703"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Rug Doctor",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Deli",
+    "Seafood",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltc5808521310c20a6/68bf5fa3d1f0fa17770f3ba8/untitled-1_0026_darfield.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Darfield. A locally owned and operated supermarket, established in 1965 by Buster Millar, it is conveniently located for locals and travellers alike. The store has a rich history of serving the community, with customers even driving their tractors to town for groceries during snowstorms. We take pride in getting to know our customers and generations of families who visit the store. We love being part of the Darfield community and sponsor many events and local groups. Come and visit us for all your grocery needs!\u00a0",
+    "socialLinks": []
+  }
+}

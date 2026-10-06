@@ -1,0 +1,78 @@
+{
+  "title": "Four Square Diamond Harbour",
+  "url": "/south-island/canterbury/diamond-harbour",
+  "storeId": "{D3699955-0E99-462A-AF50-DDF13CC86350}",
+  "sitecoreId": 2000,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "141 Marine Drive, Diamond Harbour 8971",
+    "latitude": -43.62889,
+    "longitude": 172.72448,
+    "island": "south",
+    "region": "South Island",
+    "email": "DiamondHarbour@foursquare-si.co.nz",
+    "phone": "(03) 329 4803"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Ice",
+    "Bait",
+    "Seafood",
+    "Rug Doctor"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltb30f68e11ec31834/68bf5f72e50061a45000f4c3/diamondharbourfoursquare.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Diamond Harbour. A local supermarket owned and operated by James Grant & Laura Palmer. We offer a modern and bright shopping environment that prides itself on being fresh, convenient, and friendly. With a focus on fresh food, we offer everything you need for hosting a BBQ or feeding the local rugby kids, including a great range of vegetarian/vegan offerings. We love our customers and go above and beyond to help, whether it's fixing a car GPS or lending out baking tins. We also sponsor many community events and local groups. Come and visit us for all your grocery needs! ",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/foursquarediamondharbour",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

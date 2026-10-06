@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Arrowtown",
+  "url": "/south-island/otago/arrowtown",
+  "storeId": "{CFF3B862-174A-4F8D-B440-F250E1363EC0}",
+  "sitecoreId": 56725,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "32 Adamson Drive, Arrowtown 9302",
+    "latitude": -44.9453061,
+    "longitude": 168.83535099999995,
+    "island": "south",
+    "region": "South Island",
+    "email": "Arrowtown@foursquare-si.co.nz",
+    "phone": "03 442 1671"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Flowers",
+    "Food to Go",
+    "Ice",
+    "Seafood",
+    "Organics and local wines and cheeses"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt26e9a0dc37913bd7/68bf5faa046c903cfc073171/untitled-1_0033_arrowtown-owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Arrowtown, a local supermarket owned and operated by Amanda & Brendon Colmore-Williams. We offer a variety of organic and local products, from bread and fruits to cheeses, beer, wine, and groceries. Since opening in November 2015, we've been dedicated to serving the Arrowtown community and supporting local organizations like the school, golf course, rugby team, and more. We're also committed to sustainability, working with local businesses to reduce food waste. You might even spot a celebrity while shopping at your local Four Square!",
+    "socialLinks": []
+  }
+}

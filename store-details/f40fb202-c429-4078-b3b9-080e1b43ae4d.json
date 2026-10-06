@@ -1,0 +1,69 @@
+{
+  "title": "Four Square \u014chope Beach",
+  "url": "/upper-north-island/bay-of-plenty/ohope-beach",
+  "storeId": "{F40FB202-C429-4078-B3B9-080E1B43AE4D}",
+  "sitecoreId": 1411,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "205 Pohutukawa Avenue, \u014chope 3121",
+    "latitude": -37.96973,
+    "longitude": 177.052221,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "ohope.4sq@4sq.co.nz",
+    "phone": "07 312 4864"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1ce528ef9375102e/68bf5ee2046c90195007310f/ohope-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We offer top quality fresh produce, bakery, meat and deli, as well as a comprehensive range of grocery and other essentials. We have gas bottles, NZ Post, Lotto and most importantly, a friendly team who are here to help. Anything you need, just ask.",
+    "socialLinks": []
+  }
+}

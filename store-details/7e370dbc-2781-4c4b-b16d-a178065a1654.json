@@ -1,0 +1,66 @@
+{
+  "title": "Four Square Greenmeadows",
+  "url": "/lower-north-island/hawkes-bay/greenmeadows",
+  "storeId": "{7E370DBC-2781-4C4B-B16D-A178065A1654}",
+  "sitecoreId": 1292,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "30 Gloucester Street, Greenmeadows, Napier 4112",
+    "latitude": -39.526301,
+    "longitude": 176.861366,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "jaimin.patel@4sq.co.nz",
+    "phone": "06 844 2684"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Post Shop",
+    "Alcohol",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We\u2019ve been operating this store for more than seven years, and are proud to stock local wine and produce.",
+    "socialLinks": []
+  }
+}

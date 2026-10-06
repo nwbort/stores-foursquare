@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Waiau Pa",
+  "url": "/upper-north-island/auckland/waiau-pa",
+  "storeId": "{9AD22CB4-D6F7-49FC-852D-D23C91E40937}",
+  "sitecoreId": 1407,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "581 Waiau Pa Road, Waiau Pa 2679",
+    "latitude": -37.137725,
+    "longitude": 174.752287,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 232 1729"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Food to Go",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltd538d70a1e04b0a9/68bf5f455aad504bc5e35e34/waiau-pa.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Waiau Pa has been run by the Leckner family since 1991 and was taken over by son Bevan in 2014. The store has seen many changes over the years with the store expansion in 2005. Offering a wide variety from milk and bread staples through to freshly baked goods and quality butchery meats. An extensive range of wine & beer is also available along with the ever-changing variety of craft beers. The store has over 10 local staff that are friendly and ready to serve you on your next visit.",
+    "socialLinks": []
+  }
+}

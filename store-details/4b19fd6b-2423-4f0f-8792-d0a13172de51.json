@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Fordlands",
+  "url": "/upper-north-island/central-plateau/fordlands",
+  "storeId": "{4B19FD6B-2423-4F0F-8792-D0A13172DE51}",
+  "sitecoreId": 1552,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Ford Road Shopping Centre, Ford Road, Fordlands, Rotorua 3015",
+    "latitude": -38.14765,
+    "longitude": 176.225002,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "ford.foursquare@foodstuffs.co.nz",
+    "phone": "07 348 5318"
+  },
+  "services": [
+    "Produce",
+    "Lotto",
+    "Alcohol"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt50d536125875c059/68bf5f3a5aad5012aae35e2c/untitled-1_0062_four-square-ford-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We support local suppliers and have been in business here for more than 10 years.",
+    "socialLinks": []
+  }
+}

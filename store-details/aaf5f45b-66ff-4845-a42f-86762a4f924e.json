@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Manaia",
+  "url": "/lower-north-island/taranaki/manaia",
+  "storeId": "{AAF5F45B-66FF-4845-A42F-86762A4F924E}",
+  "sitecoreId": 1328,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "53 Main South Road, Manaia 4612",
+    "latitude": -39.550868,
+    "longitude": 174.125933,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "michael.king@foodstuffs.co.nz",
+    "phone": "06 274 8406"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0bc6936ffa7e0ef0/68bf5f2fbf77ef3959f040b4/untitled-1_0051_manaia-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Owned and operated by Michael King and Dearne Young, since February 2020. We are a community-based store that supports and sponsors locals and clubs. Our store is stocked with lots of the necessities and yummy treats. We love getting in the things that people want to see in store. Our motto is if we don't have it we will get it!",
+    "socialLinks": []
+  }
+}

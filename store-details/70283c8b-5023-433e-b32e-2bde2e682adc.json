@@ -1,0 +1,73 @@
+{
+  "title": "Four Square Twizel",
+  "url": "/south-island/canterbury/twizel",
+  "storeId": "{70283C8B-5023-433E-B32E-2BDE2E682ADC}",
+  "sitecoreId": 1657,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "20 Market Place, Twizel, 7901",
+    "latitude": -44.2576317,
+    "longitude": 170.09821480000005,
+    "island": "south",
+    "region": "South Island",
+    "email": "twizel@foursquare-si.co.nz",
+    "phone": "03 435 0875"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Flowers",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt64f7a2b244983567/6a8289e57c3669c5977e1909/20260728_162654.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Twizel is a locally owned and operated supermarket proudly serving the Mackenzie community and the many visitors who pass through the region each year. Owned by Mike and Hali Bramhall, the store is known for its friendly service, fresh products, and convenient shopping experience.\n\nThe team is passionate about creating a welcoming place where customers can pick up everything they need while feeling part of the community. Alongside supporting locals, the store caters to the large number of travellers who visit Twizel throughout the year.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/twizelfoursquare",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

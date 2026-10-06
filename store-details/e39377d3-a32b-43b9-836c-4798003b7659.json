@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Stewart Island",
+  "url": "/south-island/southland-and-stewart-island/stewart-island",
+  "storeId": "{E39377D3-A32B-43B9-836C-4798003B7659}",
+  "sitecoreId": 1644,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "20 Elgin Terrace, Stewart Island 9818",
+    "latitude": -46.8974243,
+    "longitude": 168.1282241,
+    "island": "south",
+    "region": "South Island",
+    "email": "stewart.island@foursquare-si.co.nz",
+    "phone": "03 219 1069"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte532721af4f54cce/68bf5f79046c90a10c073161/stewart-owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square Stewart Island is a supermarket at the hub of the local community owned by Tim and Kate Manson. Our store offers excellent fresh produce, including locally farmed and produced seafood, fresh bluff oysters from the Foveaux Strait, freshly baked bread, and a wide range of fresh meat. We take pride in catering to both local and visitors preferences, with an extensive range of groceries and general hardware to beer and wine, and even kiwi kits to help spot kiwi in the wild! We\u2019re the southern-most Lotto store in New Zealand and are also proud supporters of our community. We look forward to seeing you on the Island!",
+    "socialLinks": []
+  }
+}

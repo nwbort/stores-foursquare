@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Spring Creek",
+  "url": "/south-island/marlborough/spring-creek",
+  "storeId": "{6FFBD6A0-6B06-4DBB-93E2-67C60A61D6DC}",
+  "sitecoreId": 1646,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "2226 SH1, Spring Creek, Blenheim 7202",
+    "latitude": -41.460374,
+    "longitude": 173.961862,
+    "island": "south",
+    "region": "South Island",
+    "email": "springcreek@foursquare-si.co.nz",
+    "phone": "03 570 5891"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post",
+    "Alcohol",
+    "Lotto",
+    "Electric Car Charging",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap",
+    "Bait",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt606db9664d2dd046/68bf5e8cb0928052b64fc164/spring-creek.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Spring Creek. We're a local supermarket offering a wide range of everyday essentials from food to go, barista coffee, ice, bait, everyday groceries, fresh fruit, veggies, and pet food. Owned and operated by Sam and Billi Richmond, who love being part of the community contributing to Spring Creek and the surrounding areas. We donate to the food bank, our local schools and organisations to help fundraise.",
+    "socialLinks": []
+  }
+}

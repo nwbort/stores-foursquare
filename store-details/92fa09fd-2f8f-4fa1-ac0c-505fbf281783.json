@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Martina",
+  "url": "/upper-north-island/coromandel/martina",
+  "storeId": "{92FA09FD-2F8F-4FA1-AC0C-505FBF281783}",
+  "sitecoreId": 1436,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "307 Pollen Street, Thames 3500",
+    "latitude": -37.14282,
+    "longitude": 175.543978,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "jaswinder.singh@foodstuffs.co.nz",
+    "phone": "07 868 6482"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Bakery",
+    "Ice",
+    "Seafood",
+    "Bait",
+    "Scoop Ice Cream"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt251c801f4e4f734c/68bf5e2f046c90165a0730b5/martina_owners.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Martina, a local supermarket owned and operated by Jaswinder Singh & Avtar Kaur. Our store has been serving the community since 1924, offering a variety of groceries, fresh produce, meats, and local products. We're proud to offer exceptional customer service and a unique shopping experience, with staff going the extra mile to assist customers. We know our regular local customers by name and their preferences. We're committed to supporting the community and are proud to sponsor initiatives including Thames South School, Heart Kids NZ, and Autism NZ.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Four Square Brightwater",
+  "url": "/south-island/nelson/brightwater",
+  "storeId": "{D0BD5398-11CF-4699-BD6B-E9B61AF914F0}",
+  "sitecoreId": 1593,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "58 Ellis Street, Brightwater, Nelson 7022",
+    "latitude": -41.3764845,
+    "longitude": 173.11008620000007,
+    "island": "south",
+    "region": "South Island",
+    "email": "brightwater@foursquare-si.co.nz",
+    "phone": "03 542 3608"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Flowers",
+    "Ice"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt5c965c22de0ba480/68bf5fa72169c06866dadc45/untitled-1_0030_brightwater-exterior.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Brightwater, a local supermarket owned and operated by Anna and Nathan Hay. Located in a fantastic community, we offer a great range of locally produced products, including wine, beer, coffee, and ice cream. We also provide a wide range of fresh produce, butchery, post shop, and food to go. We're passionate about providing a friendly and welcoming shopping experience for the community and sponsor a variety of local events and sports teams.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/Four-Square-Brightwater-106614881732369/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Four Square \u014cakura",
+  "url": "/lower-north-island/taranaki/oakura",
+  "storeId": "{D49C177E-25F6-45DA-8F78-F934226B236F}",
+  "sitecoreId": 1330,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1129 Main Road, \u014cakura, Taranaki 4314",
+    "latitude": -39.115585,
+    "longitude": 173.957409,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "06 752 7862"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Jayde and Rikii have a huge passion for fresh foods and new products.\u00a0We want to deliver a range of fresh and local products that our community enjoys.\u00a0The store has an in store bakery, barista made coffee, hot chicken and chips, great lunch offers and postage services.\u00a0Come in store to meet our friendly team. We are your one stop shop!",
+    "socialLinks": []
+  }
+}

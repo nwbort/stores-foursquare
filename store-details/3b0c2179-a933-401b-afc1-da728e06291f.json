@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Newfield",
+  "url": "/south-island/southland-and-stewart-island/newfield",
+  "storeId": "{3B0C2179-A933-401B-AFC1-DA728E06291F}",
+  "sitecoreId": 1627,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "697 Tweed Street, Newfield, Invercargill 9812",
+    "latitude": -46.418338,
+    "longitude": 168.391111,
+    "island": "south",
+    "region": "South Island",
+    "email": "newfield@foursquare-si.co.nz",
+    "phone": "03 216 8266"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0a3f4d94e8b2cc51/68bf4d102169c0d994dad3d7/charlie-square.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a true, suburban and community based Four Square, catering to the needs of our local community.",
+    "socialLinks": []
+  }
+}

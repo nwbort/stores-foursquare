@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Wellsford",
+  "url": "/upper-north-island/auckland/wellsford",
+  "storeId": "{D9D2BD66-9692-45B5-A95E-111846193E56}",
+  "sitecoreId": 1572,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "201 Rodney Street, Wellsford 0900",
+    "latitude": -36.293693,
+    "longitude": 174.523813,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 423 8222"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1111f0548ee6e0fc/68bf5eea2169c02c3adadbcd/untitled-1_0000_wellsford-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Wellsford Four Square is known as \"The Top Shop\" as it is the top of the town and the top in service. We are famous for our sensational hot chips and crispy fried chicken! Our building is part of Wellsford's history, but what you will find in-store is modern and a great fresh offering for our community and travelers alike. Whether you're stopping on the go or doing a full shop we have everything you need along with the best customer service in town.",
+    "socialLinks": []
+  }
+}

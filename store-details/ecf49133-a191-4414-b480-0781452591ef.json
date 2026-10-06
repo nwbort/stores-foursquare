@@ -1,0 +1,64 @@
+{
+  "title": "Four Square Seatoun",
+  "url": "/lower-north-island/wellington/seatoun",
+  "storeId": "{ECF49133-A191-4414-B480-0781452591EF}",
+  "sitecoreId": 1372,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:30am",
+      "openUntil": "8:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "35 Falkirk Avenue, Seatoun, Wellington 6022",
+    "latitude": -41.322878,
+    "longitude": 174.831257,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.seatoun@foodstuffs.co.nz",
+    "phone": "04 388 7061"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8425e1977a0beb0a/68bf5f0f046c906751073133/untitled-1_0023_seatoun-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "At Four Square Seatoun we have all your daily needs from groceries to fresh produce, fresh flowers, magazines and much more plus our friendly service.",
+    "socialLinks": []
+  }
+}

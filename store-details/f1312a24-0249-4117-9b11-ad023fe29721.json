@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Tamahere",
+  "url": "/upper-north-island/waikato/tamahere",
+  "storeId": "{F1312A24-0249-4117-9B11-AD023FE29721}",
+  "sitecoreId": 88635,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "4/65 Devine Road, Tamahere, Hamilton 3283",
+    "latitude": -37.829306,
+    "longitude": 175.35207,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "tamahere.4sq@foodstuffs.co.nz",
+    "phone": "07 211 7711"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt9e5574a6520ad546/68bf5f095aad502d0ee35e10/untitled-1_0016_tamahere-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are your local and always there to provide customers with friendly service. Our mission is to give our best everyday and provide the freshest products, all your everyday essentials and local service.",
+    "socialLinks": []
+  }
+}

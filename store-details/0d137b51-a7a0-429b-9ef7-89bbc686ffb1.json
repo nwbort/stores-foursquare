@@ -1,0 +1,67 @@
+{
+  "title": "Four Square M\u0101rewa",
+  "url": "/lower-north-island/hawkes-bay/marewa",
+  "storeId": "{0D137B51-A7A0-429B-9EF7-89BBC686FFB1}",
+  "sitecoreId": 1295,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "6:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "130 Kennedy Road, M\u0101rewa, Napier 4110",
+    "latitude": -39.500526,
+    "longitude": 176.902551,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.marewa@foodstuffs.co.nz",
+    "phone": "06 843 8106"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Whether it\u2019s a bottle of milk or a loaf of bread, a treat for someone special or a ticket to make your dream come true, an idea for dinner or a bottle of wine for that special occasion. We\u2019ve got all you need right here at your local Four Square.",
+    "socialLinks": []
+  }
+}

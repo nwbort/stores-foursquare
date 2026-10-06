@@ -1,0 +1,67 @@
+{
+  "title": "Four Square Karori",
+  "url": "/lower-north-island/wellington/karori",
+  "storeId": "{8A0109EF-853D-4779-B2F1-4F968F8E8645}",
+  "sitecoreId": 1359,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "9:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "9:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "147 Karori Road, Karori, Wellington 6012",
+    "latitude": -41.282517,
+    "longitude": 174.74601,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.karori@foodstuffs.co.nz",
+    "phone": "04 476 6729"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Flowers",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "At Four Square Karori we have an amazing selection of fresh bread available from local bakeries - Le Moulin, Zaida's, Acme, Totara Cottage. We have a growing produce section filled with your everyday favourites such as bananas, tomatoes, apples, strawberries, apricots, blueberries and much more. Our grocery selection is filled with pantry items and everyday essentials. Hot summer days we have plenty of ice blocks and cold drinks to choose from. Need flowers? We have a great selection to choose from! Have a special request? Give us a call and we can supply flowers for your special occasion. If you need dry cleaning done we are an agent for Mall dry cleaning. We actively support our fantastic community in Karori and local charities. Stop by anytime and enjoy our friendly fast service.",
+    "socialLinks": []
+  }
+}

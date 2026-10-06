@@ -1,0 +1,75 @@
+{
+  "title": "Four Square Tuatapere",
+  "url": "/south-island/southland-and-stewart-island/tuatapere",
+  "storeId": "{112EA58E-27E5-401D-8F47-13583DC852A6}",
+  "sitecoreId": 1656,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "73 Main Street, Tuatapere 9620",
+    "latitude": -46.1353568,
+    "longitude": 167.68910930000004,
+    "island": "south",
+    "region": "South Island",
+    "email": "tuatapere@foursquare-si.co.nz",
+    "phone": "03 226 6898"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt97cbc25367680ea9/68bf5f84bf77ef4f1df040ce/untitled-1_0000_tuatapere.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Tuatapere. We're a local supermarket owned and operated by Mark and Raissa Hewton. The store, which was originally a Price Cutter, joined the Four Square Group and has been providing groceries, fresh produce, fresh sandwiches, hot food to go and meat to locals and tourists for many years. We love getting involved in the community and being a cog in the wheel that helps our town operate. Our store proudly sponsors multiple sporting clubs in our community also Schools, local events and Fire and Emergency.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/tuifoursquare/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

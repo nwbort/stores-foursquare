@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Paeroa",
+  "url": "/upper-north-island/waikato/paeroa",
+  "storeId": "{01CD7D92-B3D8-40AA-A344-EE48D903088A}",
+  "sitecoreId": 1473,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "104 Normanby Road, Paeroa, 3600",
+    "latitude": -37.380645,
+    "longitude": 175.671517,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Rachel.Kennedy@4sq.co.nz",
+    "phone": "07 862 7456"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go",
+    "Ice",
+    "Flowers",
+    "Seafood",
+    "Deli",
+    "Chicken and Chips"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/bltca1130d08257d923/68bf5ede046c9086b2073107/four-square-paeroa_560x560.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Paeroa, a local supermarket serving the community for over 80 years. Owned and operated by Tim and Lauren Watts, who took ownership in 2022 after working across a number of Four Squares north of Auckland. We are your everyday fresh grocer, offering everything you need in our small format and convenient supermarket located in the heart of the Paeroa township. We are proud supporters of many local community causes, including the Paeroa Bowling Club, Paeroa Golf Club, Positive Paeroa, Paeroa Rotary, Paeroa Lions, Pataka Kai - Paeroa, and many more.",
+    "socialLinks": []
+  }
+}

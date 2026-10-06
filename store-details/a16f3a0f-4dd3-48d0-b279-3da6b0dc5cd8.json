@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Edmund Road",
+  "url": "/upper-north-island/bay-of-plenty/edmund-road",
+  "storeId": "{A16F3A0F-4DD3-48D0-B279-3DA6B0DC5CD8}",
+  "sitecoreId": 42004,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "42 Edmund Road, Mangakakahi, Rotorua 3015",
+    "latitude": -38.136713,
+    "longitude": 176.214602,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "edmundroad.4sq@4sq.co.nz",
+    "phone": "07 347 0498"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Lotto",
+    "Produce",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt417d5ed23da6f5e2/68bf5f3b046c901ab107313f/untitled-1_0064_edmund-road-team.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "At Four Square Edmund Road we are committed providing dedicated and excellent customer services to everyone that walks into our store. Four Square Edmund Road offers a unique shopping experience - we are more than just the corner store, we have it all! From fresh meat to our 'Rotorua famous Chicken and Chips' and everything in-between. We LOVE our customers, and we work hard every day to bring you the best products and the best customer service we possibly can. We LOVE our community and give back where and whenever we can. From helping to feed children in schools, providing blankets to the homeless to help them keep warm in winter, to supporting our local schools. We know that it takes a village and we are very proud to play our part in making our community a better place. So that's us! Excellent customer service, quality products and our community at the heart of everything we do. Want to know more? Pop in and see us to experience it for yourself!",
+    "socialLinks": []
+  }
+}

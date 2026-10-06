@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Ruat\u014dria",
+  "url": "/upper-north-island/east-cape/ruatoria",
+  "storeId": "{15538BC5-BC3D-40D2-9DEC-6966A1BC0EDC}",
+  "sitecoreId": 1480,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "171 Waiomatatini Road, Ruat\u014dria  4032",
+    "latitude": -37.890501,
+    "longitude": 178.318941,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "ruatoria.4sq@foodstuffs.co.nz",
+    "phone": "06 864 8450"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Fuel",
+    "Lotto",
+    "ATM"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt1b2120d7f1fc5c20/68bf5f03e8655705a6139580/untitled-1_0012_ruatoria.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "A Four Square with lots more!",
+    "socialLinks": []
+  }
+}

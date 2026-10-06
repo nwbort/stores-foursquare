@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Woodville",
+  "url": "/lower-north-island/manawatu-whanganui/woodville",
+  "storeId": "{59DD3199-8757-408C-9022-53395328A719}",
+  "sitecoreId": 1320,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "90 Vogel Street, Woodville, 4920, Tararua",
+    "latitude": -40.3378289,
+    "longitude": 175.86889480000002,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4square.woodville@foodstuffs.co.nz",
+    "phone": "06 376 5977"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "ATM",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt53049263f3d0f8fa/68bf5eeb046c909b57073113/untitled-1_0000_woodville.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Grocery retail is in our blood, together we have almost 50 years experience in the grocery industry! It's what we know, it's what we love! We enjoy being a part of the Woodville Community and are proud to support local events and charities.",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Four Square Waipawa",
+  "url": "/lower-north-island/hawkes-bay/waipawa",
+  "storeId": "{307C52FE-E9F1-464E-9475-BE8479903AD6}",
+  "sitecoreId": 59671,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "36-42 High Street, Waipawa 4210",
+    "latitude": -39.9435667,
+    "longitude": 176.5873887,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "graham.williams@foodstuffs.co.nz",
+    "phone": "06 857 8038"
+  },
+  "services": [],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blte2d7da5028136662/68bf5ef2046c90dc08073123/untitled-1_0004_waipawa-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Owned and operated by Graham & Rachel Williams. Sadly our store burnt down so we've opened a pop-up shop whilst we build a store better than ever before, to keep serving the Waipawa community. Pop on in, we can't wait to see your faces.\u00a0",
+    "socialLinks": []
+  }
+}

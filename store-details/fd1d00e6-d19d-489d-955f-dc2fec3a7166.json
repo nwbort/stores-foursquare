@@ -1,0 +1,69 @@
+{
+  "title": "Four Square Mangawhai Heads",
+  "url": "/upper-north-island/northland/mangawhai-heads",
+  "storeId": "{FD1D00E6-D19D-489D-955F-DC2FEC3A7166}",
+  "sitecoreId": 1568,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "3 Wood Street, Mangawhai Heads, 0505",
+    "latitude": -36.094945,
+    "longitude": 174.586721,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "Molesworth.4sq@4sq.co.nz",
+    "phone": "09 431 4656"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Catering"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt23317b914b73eb1a/6a9e2f4bbc756416a0a12d73/Untitled_design.png?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Darryl & Kellie are proud owners of Four Square Mangawhai Heads. In store you will find everything to meet your shopping needs whether you\u2019re a local or just passing through. We stock a large range of freshly baked breads, fresh produce, meat, seafood, hot cooked rotisserie chickens our famous chicken and chips as well as a full range of grocery, Lotto, beer and wine (including an ever-changing craft beer range). Our amazing and friendly team are always on hand to help you out if needed whether its locating items in our shop or where the best swim spots are. How convenient! There is a great community spirit here and we are proud to be a part of it!",
+    "socialLinks": []
+  }
+}

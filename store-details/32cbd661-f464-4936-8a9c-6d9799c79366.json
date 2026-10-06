@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Matakana",
+  "url": "/upper-north-island/auckland/matakana",
+  "storeId": "{32CBD661-F464-4936-8A9C-6D9799C79366}",
+  "sitecoreId": 1566,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Place, 21 Matakana Valley Road, Matakana 0985",
+    "latitude": -36.351877,
+    "longitude": 174.71685,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "matakana.4sq@4sq.co.nz",
+    "phone": "09 422 7213"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt4c4171f9e449e8f0/68bf5f25d1f0fa5cef0f3b76/untitled-1_0046_matakana-4sq.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We have everything you need to keep you stocked up with our great range of groceries, fresh produce, meat, bakery, sushi, chilled beer and wine. Best of all we have a great team that always welcomes you with a big smile!",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Four Square Wainui Road",
+  "url": "/upper-north-island/east-cape/wainui-road",
+  "storeId": "{93C7D397-22A7-4886-8072-F562094A487F}",
+  "sitecoreId": 39633,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "102 Wainui Road, Inner Kaiti, Gisborne, 4010",
+    "latitude": -38.669991,
+    "longitude": 178.033346,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "office.ideal@4sq.co.nz",
+    "phone": "06 867 7581"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Deli",
+    "Food to Go",
+    "Four Square NOW! Delivery",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Seafood",
+    "Coffee"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt06b97be05644b51b/68bf5edf7fb40115921ef513/img-20241029-wa0004.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": " Ravi and Sangita Kumar are the proud new owners of Four Square Wainui Road. We have been in the Foodstuffs family for 15 years and are looking forward to bring our experience to Four Square Wainui Road and offering a unique shopping experience to the community. We feel privileged to be in such a beautiful part of New Zealand.   Four Square Wainui Road offers an in-store butchery and bakery, kiosk catering to all meals of the day, chicken and chips, soft-serve ice-cream, Flight Coffee, six checkouts including self-service, and a community notice board.  Best of all, they have a great team that always welcomes you with a big smile! Thanks for your support and we look forward to meeting you at your local, Four Square Wainui Road.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/foursquarewainuiroad",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

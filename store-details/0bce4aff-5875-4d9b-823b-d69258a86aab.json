@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Wakefield",
+  "url": "/south-island/nelson/wakefield",
+  "storeId": "{0BCE4AFF-5875-4D9B-823B-D69258A86AAB}",
+  "sitecoreId": 1660,
+  "openingHours": {
+    "monday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:30pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "22 Edward Street, Wakefield, Tasman 7025",
+    "latitude": -41.4062322,
+    "longitude": 173.0428296,
+    "island": "south",
+    "region": "South Island",
+    "email": "wakefield@foursquare-si.co.nz",
+    "phone": "03 541 8470"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "NZ Post agency",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt65bf000bff54dfc5/68bf5f86e86557703a1395cc/untitled-1_0001_wakefield.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Wakefield! A family-owned and operated local supermarket by James and Tessa Fabian. The store was originally Hodgson's Department store, dating back over 150 years.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/FourSquareWakefield/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

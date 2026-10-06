@@ -1,0 +1,72 @@
+{
+  "title": "Four Square Te Anau",
+  "url": "/south-island/fiordland/te-anau",
+  "storeId": "{1AA8078D-168E-4438-A95A-6EAAC7CAA2DF}",
+  "sitecoreId": 1652,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "9:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "30 Town Centre, Te Anau 9640",
+    "latitude": -45.416772,
+    "longitude": 167.713392,
+    "island": "south",
+    "region": "South Island",
+    "email": "teanau@foursquare-si.co.nz",
+    "phone": "03 249 7547"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Te Anau, a local supermarket servicing the community for almost a century. Owned and operated by Jared & Anna Gray, who take pride in going the extra mile for their customers, whether it's for everyday essentials or catering orders. We recently celebrated our 99th birthday and shared a couple of unique cakes with some of our senior residents for whom this brought back many memories as youngsters in the community. We are both part of the PTA for Fiordland college, we help out with sponsorships for the local schools and sports clubs as well as assisting in small community events.",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/TeAnauFourSquare/",
+        "title": "Follow us on Facebook"
+      }
+    ]
+  }
+}

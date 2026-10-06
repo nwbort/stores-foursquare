@@ -1,0 +1,76 @@
+{
+  "title": "Four Square Snells Beach",
+  "url": "/upper-north-island/auckland/snells-beach",
+  "storeId": "{4F5DC960-8B89-4449-9438-6569CDD1E3EB}",
+  "sitecoreId": 99999923,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "270-278 Mahurangi East Road, Snells Beach 0920",
+    "latitude": -36.41919,
+    "longitude": 174.72373,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "09 869 7064"
+  },
+  "services": [
+    "Alcohol",
+    "Bakery",
+    "Butchery",
+    "Cafe",
+    "Flowers",
+    "Ice",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Snells Beach, your Local Fresh Grocer with a full range of shopping right nearby. We offers a wide range of everyday essentials, fresh foods, along with a great range of convenient meal solutions and liquor. The store also has a caf\u00e9 with barista-made coffee, gourmet sandwiches, sweet treats, hot fried chicken & chips and delicious pies.\u00a0",
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/foursquaresnellsbeach",
+        "title": "Visit our Facebook"
+      }
+    ]
+  }
+}

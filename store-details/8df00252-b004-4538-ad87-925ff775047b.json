@@ -1,0 +1,71 @@
+{
+  "title": "Four Square St Johns",
+  "url": "/lower-north-island/manawatu-whanganui/st-johns",
+  "storeId": "{8DF00252-B004-4538-AD87-925FF775047B}",
+  "sitecoreId": 1342,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "15 Great North Road, St Johns Hill, Whanganui 4501",
+    "latitude": -39.918693,
+    "longitude": 175.038349,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "gareth.coburn@4sq.co.nz",
+    "phone": "06 345 7742"
+  },
+  "services": [
+    "Alcohol",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Food to Go",
+    "Flowers",
+    "Ice",
+    "Lotto",
+    "Produce",
+    "Scoop Ice Cream"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square St John's. We're a local supermarket serving St John Hill for over 50 years owned and operated by Gareth Coburn and Trin McCarthy. We are the perfect top-up shop at the top of the hill offering a full range of Tip Top scoop ice cream. We support the City Mission Food Bank, St John's Hill School PTA, Whanganui High School, Rotary Whanganui, Whanganui Alzheimer\u2019s Association, Whanganui Rugby and the Cancer Society.",
+    "socialLinks": []
+  }
+}

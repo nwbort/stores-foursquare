@@ -1,0 +1,68 @@
+{
+  "title": "Four Square Awapuni",
+  "url": "/lower-north-island/manawatu-whanganui/awapuni",
+  "storeId": "{520D2898-12B1-40DF-9A41-669D2D7C2F90}",
+  "sitecoreId": 1304,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "149 Maxwells Line, Awapuni Palmerston North 4412",
+    "latitude": -40.37971,
+    "longitude": 175.5852,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "VJay.Patel@4sq.co.nz",
+    "phone": "06 356 7335"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Awapuni, we're a well-established supermarket in the Awapuni area, owned and operated by Margaret and Vijay Patel since 1989. With loyal staff, including Karen who has been with us since the beginning. Our store has built a strong reputation for meeting the needs of our customers and providing great customer service. Vijay is known for going above and beyond to source any products customers require.",
+    "socialLinks": []
+  }
+}

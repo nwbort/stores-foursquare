@@ -1,0 +1,81 @@
+{
+  "title": "Four Square The Lakes",
+  "url": "/upper-north-island/bay-of-plenty/the-lakes",
+  "storeId": "{C9E3FCA7-F106-4C53-8A60-ECF7232E4220}",
+  "sitecoreId": 71074,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "9/1 Caslani Lane, Pyes Pa, Tauranga 3112",
+    "latitude": -37.751539,
+    "longitude": 176.104764,
+    "island": "north",
+    "region": "Upper North Island",
+    "email": "TheLakes4SQ@foodstuffs.co.nz",
+    "phone": "07 929 7046"
+  },
+  "services": [
+    "Alcohol",
+    "ATM",
+    "Bait",
+    "Bakery",
+    "Butchery",
+    "Catering",
+    "Clothing",
+    "Deli",
+    "Food to Go",
+    "Flowers",
+    "Fuel",
+    "Gas Bottle Swap",
+    "Ice",
+    "Lotto",
+    "Pharmacy",
+    "Post Shop",
+    "Produce",
+    "Seafood",
+    "Takeaway Coffee",
+    "Four Square NOW! Delivery"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square The Lakes, a local supermarket owned and operated by Hori Kaa. The Bay of Plenty has been a dream for us since meeting at the University of Waikato. My wife, familiar with the area from her Whakatane and Matamata roots, and I, hailing from Matauri Bay, love the small-town feel of The Lakes. We took over the store in December 2023, and our location, overlooking the lakes and playground, is perfect for the community. From full shops to quick top-ups, we've got you covered. We proudly support local schools and organizations, making us more than a store - we're a community hub.",
+    "socialLinks": []
+  }
+}

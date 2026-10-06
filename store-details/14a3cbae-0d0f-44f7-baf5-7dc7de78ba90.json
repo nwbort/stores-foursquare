@@ -1,0 +1,70 @@
+{
+  "title": "Four Square Queenstown",
+  "url": "/south-island/otago/queenstown",
+  "storeId": "{14A3CBAE-0D0F-44F7-BAF5-7DC7DE78BA90}",
+  "sitecoreId": 1587,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "10:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "Shotover Street Queenstown 9348",
+    "latitude": -45.030491,
+    "longitude": 168.661318,
+    "island": "south",
+    "region": "South Island",
+    "email": "alpine@foursquare-si.co.nz",
+    "phone": "03 442 8961"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "Ice",
+    "Food to Go",
+    "Deli",
+    "Flowers"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Queenstown, a local supermarket previously known as Alpine Supermarket. Owned and operated by Laurel & Paddy Breen, the store has recently been renovated to modernise its appearance. We support local businesses by stocking a large range of Central Otago products such as seasonal fruit, meats, honey, craft beers and wines. Our deli is known for fantastic sandwiches and ready-to-go meals. We are actively involved with supporting local schools with fundraisers and sponsoring the Homelink Road Safety Workbooks for Arrowtown/Queenstown and Wanaka Primary Schools.",
+    "socialLinks": []
+  }
+}

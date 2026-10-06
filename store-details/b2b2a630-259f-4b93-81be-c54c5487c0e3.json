@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Maniototo",
+  "url": "/south-island/otago/maniototo",
+  "storeId": "{B2B2A630-259F-4B93-81BE-C54C5487C0E3}",
+  "sitecoreId": 1619,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "1-3 Pery Street, Ranfurly 9332 Central Otago",
+    "latitude": -45.1300777,
+    "longitude": 170.1000507,
+    "island": "south",
+    "region": "South Island",
+    "email": "maniototo@foursquare-si.co.nz",
+    "phone": "03 444 9021"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Ice",
+    "Alcohol",
+    "Flowers",
+    "Food to Go",
+    "Catering",
+    "Seafood",
+    "Cafe",
+    "NZ Post agency"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt8f482b28bcd684c1/68bf5f997fb4013fc51ef583/untitled-1_0018_maniototo.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We\u2019re a local supermarket proudly owned and operated by Morgan Thompson. This store has been part of the Maniototo community from the same location for nearly 100 years and has proudly carried the Four Square name for the past 25. Located just under an hour from the nearest large town, we\u2019re known for our wide range of quality products, well-stocked shelves, and a strong focus on delivering great customer service. It\u2019s a privilege to be part of such a tight-knit community, and we look forward to continuing to support the many local organisations that make the Maniototo such a special place.",
+    "socialLinks": []
+  }
+}

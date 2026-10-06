@@ -1,0 +1,65 @@
+{
+  "title": "Four Square Paraparaumu",
+  "url": "/lower-north-island/wellington/paraparaumu",
+  "storeId": "{359338C0-04AB-471B-BD80-F2EEB41DEDA4}",
+  "sitecoreId": 1358,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "128 Kapiti Road, Paraparaumu 5032",
+    "latitude": -40.9059507,
+    "longitude": 174.99733249999997,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "4sqenquiries@foodstuffs.co.nz",
+    "phone": "04 892 0015"
+  },
+  "services": [
+    "Produce",
+    "Alcohol",
+    "Lotto",
+    "Food to Go"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3ea4868d77a4c777/68bf5f32d1f0fa65d50f3b82/untitled-1_0055_kapiti-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We support the SPCA and have instigated a permanent collection for them on our counter. We also support the Cancer Society with their initiatives, and various local causes in our community such as the Kapiti Women's Centre and other not for profit organisations to which we donate products for raffles. This year we also supported the fundraising for Christchurch. One thing that makes our store different is that in spring we sell daffodils that we grow ourselves. These are extremely popular and always sell out straight away.",
+    "socialLinks": []
+  }
+}

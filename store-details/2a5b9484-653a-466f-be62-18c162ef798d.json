@@ -1,0 +1,65 @@
+{
+  "title": "Four Square T\u012btahi Bay",
+  "url": "/lower-north-island/wellington/titahi-bay",
+  "storeId": "{2A5B9484-653A-466F-BE62-18C162EF798D}",
+  "sitecoreId": 1378,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "9:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "8:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "13 Whitehouse Road, T\u012btahi Bay 5022, Porirua",
+    "latitude": -41.108605,
+    "longitude": 174.838132,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "Ketan.Kansara@4sq.co.nz",
+    "phone": "04 236 7450"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Post Shop",
+    "Lotto"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt3dcbbba271af3b18/68bf5e90b092805fa94fc168/foursquare-store.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We are a trusted Kiwi grocery retailer providing T\u012btahi Bay community with a service that is second to none. We can stock you up with a range of groceries, post services, Lotto, fresh produce, meat and a friendly smile! So, whether you're keeping it local or on tour, we are here to make it easy for you. Become a local and shop where all Kiwis love to shop. We sponsor T\u012btahi Bay School app and many more activities. We also have Facebook page where you can find our recent activities and in store promotions. Just search T\u012btahi Bay Four Square on Facebook.",
+    "socialLinks": []
+  }
+}

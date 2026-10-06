@@ -1,0 +1,69 @@
+{
+  "title": "Four Square New \u014cpunake",
+  "url": "/lower-north-island/taranaki/new-opunake",
+  "storeId": "{3C9ADFFC-5DF7-4971-A198-6D56741AEC07}",
+  "sitecoreId": 1326,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "77-85 Tasman Street, Opunake 4616",
+    "latitude": -39.45412,
+    "longitude": 173.859021,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "",
+    "phone": ""
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Coffee",
+    "Food to Go",
+    "Deli",
+    "Ice Cream"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt042b896a9fc2426f/6aa8653149a6f3f346a3c3a0/Four-Square-New-Opunake.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Four Square New Opunake is your Local Fresh Grocer with a full range of shopping right nearby. We offer a wide range of everyday essentials, fresh foods, along with a great range of convenient meal solutions and liquor. The store also has tasty food to go, with barista-made coffee, gourmet sandwiches, hot fried chicken & chips and delicious pies. ",
+    "socialLinks": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Four Square Stratford",
+  "url": "/lower-north-island/taranaki/stratford",
+  "storeId": "{AE30041D-F060-4D5A-948B-13B118A2943E}",
+  "sitecoreId": 13135,
+  "openingHours": {
+    "monday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "6:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:30am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": "408 Broadway South, Stratford 4332",
+    "latitude": -39.3450829,
+    "longitude": 174.2873859,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "george.han2@foodstuffs.co.nz",
+    "phone": "06 765 0936"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Alcohol",
+    "Lotto",
+    "ATM",
+    "Flowers",
+    "Takeaway Coffee",
+    "Food to Go",
+    "Gas Bottle Swap"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0b1414aeb81fdb51/68bf5f0c2169c017e3dadbdd/untitled-1_0019_stratford-4sq-images.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "We have a huge range of hot food and drinks on the go, plus tasty chicken & Chips.",
+    "socialLinks": []
+  }
+}

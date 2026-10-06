@@ -1,0 +1,74 @@
+{
+  "title": "Four Square Martinborough",
+  "url": "/lower-north-island/wairarapa/martinborough",
+  "storeId": "{10029238-905A-4F55-8C41-5F4E60F262CA}",
+  "sitecoreId": 1348,
+  "openingHours": {
+    "monday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "tuesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "wednesday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "thursday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "friday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "saturday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    },
+    "sunday": {
+      "openFrom": "7:00am",
+      "openUntil": "8:00pm",
+      "closed": false
+    }
+  },
+  "holidays": [],
+  "contactDetails": {
+    "address": " The Square, Martinborough 5741",
+    "latitude": -41.218858,
+    "longitude": 175.458726,
+    "island": "north",
+    "region": "Lower North Island",
+    "email": "enqiury@pandk.co.nz",
+    "phone": "06 306 5100"
+  },
+  "services": [
+    "Produce",
+    "Butchery",
+    "Bakery",
+    "Post Shop",
+    "Alcohol",
+    "Lotto",
+    "Flowers",
+    "Food to Go",
+    "Ice",
+    "Catering",
+    "Bait",
+    "Seafood",
+    "Deli"
+  ],
+  "enableAboutSection": true,
+  "aboutStore": {
+    "imageUrl": "https://au-images.contentstack.com/v3/assets/blt7b03f4a44fa57d1b/blt0ce161ce06563dbc/68bf5e30046c901c210730b9/martinborough.jpg?width=700&height=700&fit=crop&disable=upscale&quality=70&dpr=2&auto=webp",
+    "description": "Welcome to Four Square Martinborough, a local supermarket owned and operated by fourth-generation owners Conor and Philippa Kershaw. Established in 1873, our family has been supplying the South Wairarapa for 150 years! As one of New Zealand's largest Four Squares, we offer a full supermarket service with a Butchery, Deli, and Fresh Produce departments, in addition to everyday grocery items. We love being part of an amazing tight-knit community. Each week we donate to the local food bank through the Waiwaste initiative and regularly support local schools and clubs.",
+    "socialLinks": []
+  }
+}
