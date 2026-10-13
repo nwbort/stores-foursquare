@@ -6,37 +6,37 @@
   "openingHours": {
     "monday": {
       "openFrom": "7:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "tuesday": {
       "openFrom": "7:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "wednesday": {
       "openFrom": "7:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "thursday": {
       "openFrom": "7:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "friday": {
       "openFrom": "7:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "saturday": {
       "openFrom": "8:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     },
     "sunday": {
       "openFrom": "8:00am",
-      "openUntil": "8:00pm",
+      "openUntil": "8:30pm",
       "closed": false
     }
   },
