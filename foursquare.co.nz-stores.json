@@ -224,13 +224,6 @@
     "url": "/south-island/canterbury/fairlie"
   },
   {
-    "id": "2a5b9484-653a-466f-be62-18c162ef798d",
-    "sitecoreId": 1378,
-    "name": "Four Square T\u012btahi Bay",
-    "region": "Lower North Island",
-    "url": "/lower-north-island/wellington/titahi-bay"
-  },
-  {
     "id": "2a8a3352-e5d0-4483-bdae-4fc75a76e38c",
     "sitecoreId": 1589,
     "name": "Four Square Ascot",
@@ -292,13 +285,6 @@
     "name": "Four Square Matakana",
     "region": "Upper North Island",
     "url": "/upper-north-island/auckland/matakana"
-  },
-  {
-    "id": "336340bd-4616-428f-9285-393e0dd9dc9f",
-    "sitecoreId": 1369,
-    "name": "Four Square Raumati Beach",
-    "region": "Lower North Island",
-    "url": "/lower-north-island/wellington/raumati-beach"
   },
   {
     "id": "359338c0-04ab-471b-bd80-f2eeb41deda4",
@@ -1064,13 +1050,6 @@
     "url": "/south-island/southland-and-stewart-island/otatara"
   },
   {
-    "id": "b8009212-211b-4015-9b39-ca2b538fffb7",
-    "sitecoreId": 1366,
-    "name": "Four Square \u014ctaki",
-    "region": "Lower North Island",
-    "url": "/lower-north-island/wellington/otaki"
-  },
-  {
     "id": "ba8bbe6b-1089-4437-8745-b042c452dbb5",
     "sitecoreId": 1299,
     "name": "Four Square Te Mata",
@@ -1349,13 +1328,6 @@
     "name": "Four Square Mangakino",
     "region": "Upper North Island",
     "url": "/upper-north-island/waikato/mangakino"
-  },
-  {
-    "id": "ecf49133-a191-4414-b480-0781452591ef",
-    "sitecoreId": 1372,
-    "name": "Four Square Seatoun",
-    "region": "Lower North Island",
-    "url": "/lower-north-island/wellington/seatoun"
   },
   {
     "id": "ee0e4212-f923-4adb-8765-a9158623d228",
