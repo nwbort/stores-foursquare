@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": "8:00am",
+      "openUntil": "7:00pm",
+      "closed": false,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "14 Diana Street, Lumsden, 9730",
     "latitude": -45.7388303,

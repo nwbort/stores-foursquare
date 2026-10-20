@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": "6:30am",
+      "openUntil": "7:30pm",
+      "closed": false,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "49 Bledisloe Street Kurow 9435",
     "latitude": -44.7331041,

@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": "7:15am",
+      "openUntil": "8:30pm",
+      "closed": false,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "27 Market Place, Twizel 7901",
     "latitude": -44.256862,

@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": "8:30am",
+      "openUntil": "6:00pm",
+      "closed": false,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "103 Bridge Street, Karamea 7893",
     "latitude": -41.251523,

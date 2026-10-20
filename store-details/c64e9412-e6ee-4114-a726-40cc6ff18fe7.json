@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": "7:45am",
+      "openUntil": "8:00pm",
+      "closed": false,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "24 Main State Highway 6, Franz Josef, 7856",
     "latitude": -43.3877021,

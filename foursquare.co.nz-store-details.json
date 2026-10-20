@@ -329,7 +329,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:15am",
+        "openUntil": "8:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "27 Market Place, Twizel 7901",
       "latitude": -44.256862,
@@ -536,7 +544,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "22 Edward Street, Wakefield, Tasman 7025",
       "latitude": -41.4062322,
@@ -612,7 +628,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:30am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "103 Bridge Street, Karamea 7893",
       "latitude": -41.251523,
@@ -957,7 +981,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "73 Main Street, Tuatapere 9620",
       "latitude": -46.1353568,
@@ -1244,7 +1276,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "10:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "Shotover Street Queenstown 9348",
       "latitude": -45.030491,
@@ -2002,7 +2042,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "12 Conical Hill Road, Hanmer Springs 7334",
       "latitude": -42.521461,
@@ -2073,7 +2121,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "6:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "2 Rolleston Street Cheviot 7310",
       "latitude": -42.812515,
@@ -2137,7 +2193,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "33-37 McMillan Street, Methven, 7730",
       "latitude": -43.632971,
@@ -2205,7 +2269,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "Main Street, Fairlie 7925",
       "latitude": -44.09814,
@@ -2274,7 +2346,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "698 Tay Street, Invercargill 9810",
       "latitude": -46.4061202,
@@ -2613,7 +2693,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "43 Holyhead Street, Outram 9019",
       "latitude": -45.856608,
@@ -2749,7 +2837,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "10:00am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "19 Ross Place Lawrence, Otago 9532",
       "latitude": -45.9129401,
@@ -2951,7 +3047,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": null,
+        "openUntil": null,
+        "closed": true,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "1 High Street Hawarden 7385",
       "latitude": -42.92317,
@@ -3164,7 +3268,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "697 Tweed Street, Newfield, Invercargill 9812",
       "latitude": -46.418338,
@@ -3437,7 +3549,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "47 Broadway, Reefton 7830",
       "latitude": -42.119833,
@@ -4668,7 +4788,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "2 Bridge Street, Netherby, Ashburton 7700",
       "latitude": -43.903262,
@@ -4877,7 +5005,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "140 Stafford Street, Hokitika 7810",
       "latitude": -42.7196154,
@@ -5496,7 +5632,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:30am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "39 Balaclava Street, Wyndham 9831",
       "latitude": -46.3295094,
@@ -5708,7 +5852,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:30am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "664 Atawhai Cresent, Atawhai, Nelson 7010",
       "latitude": -41.23676,
@@ -6114,7 +6266,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "2226 SH1, Spring Creek, Blenheim 7202",
       "latitude": -41.460374,
@@ -6188,7 +6348,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "8:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "20 Market Place, Twizel, 7901",
       "latitude": -44.2576317,
@@ -6407,7 +6575,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "9 Railway Terrace East, Rakaia 7710",
       "latitude": -43.755244,
@@ -6478,7 +6654,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "207 Union Street, Milton 9220",
       "latitude": -46.116376,
@@ -6680,7 +6864,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "6:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "72 Rue Lavaud, Akaroa 7520",
       "latitude": -43.804871,
@@ -6886,7 +7078,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "1/736 Weedons Ross Road, West Melton Christchurch 7676",
       "latitude": -43.523166,
@@ -7027,7 +7227,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "4 Ovenden Street, Owaka 9535",
       "latitude": -46.4513253,
@@ -7175,7 +7383,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "68 Main Road Havelock Marlborough 7100",
       "latitude": -41.277833,
@@ -7451,7 +7667,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "49 High Street, Picton 7220",
       "latitude": -41.2903892,
@@ -7820,7 +8044,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "64 Main Street, Mataura, 9712",
       "latitude": -46.1969782,
@@ -7890,7 +8122,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "10 Chain Hills Highway, Omarama 9448",
       "latitude": -44.4882766,
@@ -7957,7 +8197,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "63 George Street, Port Chalmers, 9023",
       "latitude": -45.817153,
@@ -8583,7 +8831,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "93 Main Road, Pleasant Point 7903",
       "latitude": -44.260098,
@@ -9205,7 +9461,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "64 Aranui Road, M\u0101pua, Nelson 7005",
       "latitude": -41.2532022,
@@ -9688,7 +9952,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "21 Main Street, Weston 9401",
       "latitude": -45.0799106,
@@ -9897,7 +10169,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "6:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "1-3 Pery Street, Ranfurly 9332 Central Otago",
       "latitude": -45.1300777,
@@ -10040,7 +10320,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "9:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "59 Tiverton Street, Palmerston, Otago 9430",
       "latitude": -45.484191,
@@ -10114,7 +10402,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "28 Mountainview Road, Culverden, 7345",
       "latitude": -42.774172,
@@ -10392,7 +10688,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "99 Dunns Road, 9 RD Otatara, Ascot, Invercargill 9879",
       "latitude": -46.432003,
@@ -10670,7 +10974,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "6:30am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "49 Bledisloe Street Kurow 9435",
       "latitude": -44.7331041,
@@ -10798,7 +11110,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:45am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "24 Main State Highway 6, Franz Josef, 7856",
       "latitude": -43.3877021,
@@ -11495,7 +11815,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "32 Adamson Drive, Arrowtown 9302",
       "latitude": -44.9453061,
@@ -11565,7 +11893,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "7:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "58 Ellis Street, Brightwater, Nelson 7022",
       "latitude": -41.3764845,
@@ -11640,7 +11976,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "76 South Terrace, Darfield Canterbury",
       "latitude": -43.489318,
@@ -11714,7 +12058,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "141 Marine Drive, Diamond Harbour 8971",
       "latitude": -43.62889,
@@ -12076,7 +12428,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "9:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "70 Ardmore Street, W\u0101naka, 9305",
       "latitude": -44.69371,
@@ -12150,7 +12510,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "State Highway 8 22 Rapuwai Lane, Tekapo-Twizel Road, Lake Tekapo 7999",
       "latitude": -44.002612,
@@ -13333,7 +13701,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "54 Gore Street, Bluff 9814",
       "latitude": -46.5995582,
@@ -13888,7 +14264,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "8:00am",
+        "openUntil": "7:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "14 Diana Street, Lumsden, 9730",
       "latitude": -45.7388303,
@@ -14361,7 +14745,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "9:00am",
+        "openUntil": "6:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "44 Northumberland Street, Tapanui 9522",
       "latitude": -45.9432676,
@@ -14503,7 +14895,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:30am",
+        "openUntil": "6:30pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "145 Forbury Road, St Clair, Dunedin 9012",
       "latitude": -45.906874,
@@ -14569,7 +14969,15 @@
         "closed": false
       }
     },
-    "holidays": [],
+    "holidays": [
+      {
+        "date": "2026-10-26T00:00:00.000Z",
+        "openFrom": "7:00am",
+        "openUntil": "8:00pm",
+        "closed": false,
+        "holidayName": "Labour Day"
+      }
+    ],
     "contactDetails": {
       "address": "91 Tarbert Street, Alexandra 9320",
       "latitude": -45.253304,

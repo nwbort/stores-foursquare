@@ -40,7 +40,15 @@
       "closed": false
     }
   },
-  "holidays": [],
+  "holidays": [
+    {
+      "date": "2026-10-26T00:00:00.000Z",
+      "openFrom": null,
+      "openUntil": null,
+      "closed": true,
+      "holidayName": "Labour Day"
+    }
+  ],
   "contactDetails": {
     "address": "1 High Street Hawarden 7385",
     "latitude": -42.92317,
