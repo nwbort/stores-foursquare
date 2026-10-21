@@ -5,27 +5,27 @@
   "sitecoreId": 1316,
   "openingHours": {
     "monday": {
-      "openFrom": "5:00am",
+      "openFrom": "5:30am",
       "openUntil": "7:30pm",
       "closed": false
     },
     "tuesday": {
-      "openFrom": "5:00am",
+      "openFrom": "5:30am",
       "openUntil": "7:30pm",
       "closed": false
     },
     "wednesday": {
-      "openFrom": "5:00am",
+      "openFrom": "5:30am",
       "openUntil": "7:30pm",
       "closed": false
     },
     "thursday": {
-      "openFrom": "5:00am",
+      "openFrom": "5:30am",
       "openUntil": "7:30pm",
       "closed": false
     },
     "friday": {
-      "openFrom": "5:00am",
+      "openFrom": "5:30am",
       "openUntil": "7:30pm",
       "closed": false
     },

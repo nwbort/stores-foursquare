@@ -30,13 +30,13 @@
       "closed": false
     },
     "saturday": {
-      "openFrom": "6:30am",
+      "openFrom": "7:00am",
       "openUntil": "7:00pm",
       "closed": false
     },
     "sunday": {
       "openFrom": "7:00am",
-      "openUntil": "6.30pm",
+      "openUntil": "7:00pm",
       "closed": false
     }
   },
